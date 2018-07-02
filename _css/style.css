@@ -1,0 +1,187 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+/* ============================================================ */
+/* START */
+
+body {
+	color: #555;
+	font-family: 'Rubik', sans-serif;
+	line-height: 1.375;
+}
+
+::selection {
+    background-color: #ecebea;
+}
+
+h1 {
+	border-bottom: 4px solid #f9a400;
+	color: #222;
+	display: inline-block;
+	font-size: 1.5rem;
+	font-weight: 900;
+	line-height: 1.5;
+	margin: 0 0 5rem 0;
+	padding: 0 0 .25rem 0;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #222;
+	font-size: 1rem;
+	font-weight: 500;
+	line-height: 1.5;
+	margin: 0 0 .5rem 0;
+	text-transform: uppercase;
+}
+
+h3 {
+	color: #222;
+	font-size: 1rem;
+	font-weight: 500;
+	line-height: 1.25;
+	margin: 0 0 .75rem 0;
+}
+
+h4 {
+	margin: 0 0 .5rem 0;
+}
+
+a {
+	background: #fcf8f0;
+	border-bottom: 1px dotted #f9a400;
+	color: #555;
+	text-decoration: none;
+	transition: background-color 0.2s ease;
+}
+
+a:hover {
+	background: #f9a400;
+	color: #222;
+}
+
+p {
+	margin: 0 0 1rem 0;	
+}
+
+main {
+	margin: 0 auto;
+	max-width: 60rem;
+	padding: 3rem 0;
+	width: 90%;
+}
+
+ul.list-text {
+	margin: 0 0 0 2.5rem;
+	padding: .5rem 0 0 0;
+}
+
+ul.list-text li {
+	font-size: .8125rem;
+	margin: 0 0 .5rem 0;
+}
+
+aside hr {
+	background: none;
+	border:0;
+	border-bottom: 2px solid #F9A400;
+	height: 0;
+	margin: 0 0 2.5em 0;
+	text-align: left;
+	width: 2.5rem;
+}
+
+span.intro {
+	color: #5c80a9;
+	display: block;
+	font-size: 3rem;
+	font-style: italic;
+	margin: 0 0 2.5rem 0;
+}
+
+.container-section {
+	align-items: baseline;
+	display: flex;
+	flex-direction: row;
+	margin: 0 0 2.5rem 0;
+}
+
+.container-section aside {
+	margin-right: 1rem;
+	width: 25%;
+}
+
+.container-section section {
+	width: 75%;
+}
+
+.container section .container-section-item {
+	margin: 0 0 2.5rem 0;
+}
+
+
+
+@media all and (max-width: 800px) {
+	.container-section {
+		flex-flow: row wrap;
+	}
+
+	.container-section aside {
+		margin-right: 0;
+		width: 100%;
+	}
+	
+	.container-section section {
+		width: 100%;
+	}
+
+}
+
