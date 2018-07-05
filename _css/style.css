@@ -112,6 +112,10 @@ p {
 	margin: 0 0 1rem 0;	
 }
 
+p span {
+	text-decoration: underline;
+}
+
 strong {
 	font-weight: 500;
 }
@@ -164,7 +168,7 @@ span.intro {
 	display: grid;
 	grid-template-columns: 1fr 3fr;
 /* 	flex-direction: row; */
-	margin: 0 0 2.5rem 0;
+	margin: 0 0 1rem 0;
 }
 
 .container-section aside {
@@ -182,9 +186,36 @@ span.intro {
 	margin: 0 0 2.5rem 0;
 }
 
+.container figure {
+	font-style: italic;
+	margin: 0 0 2.5rem 0;
+	max-width: 45rem;	
+}
+
+.container figure img {
+	height: auto;
+	margin-bottom: .5rem;
+	width: 100%;
+}
+
+.container figure.image-size-s {
+	width: 50%;
+}
+
+.container figure.image-alignment-r {
+	float: right;
+	margin: 0 0 1.25rem 1.25rem;
+}
+
+.container figcaption {
+	font-size: .75rem;	
+	text-align: center;
+}
 
 
-@media all and (max-width: 800px) {
+
+@media screen and (max-width: 667px) {
+
 /*
 	.container-section {
 		flex-flow: row wrap;
@@ -202,6 +233,15 @@ span.intro {
 	.container-section section {
 		grid-column: span 1/4;
 /* 		width: 100%; */
+	}
+
+	.container figure.image-size-s {
+		width: 100%;
+	}
+	
+	.container figure.image-alignment-r {
+		float: none;
+		margin: 0 0 1.25rem 0;
 	}
 
 }
