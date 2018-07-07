@@ -2,10 +2,11 @@
 <html>
 	<head>
 		<?php include "_inc/head.php" ?>
-		<title>Raymon Sutedjo-The - Resume</title>
+		<title>Raymon Sutedjo-The / Resume</title>
 	</head>
 
 	<body>
+		<?php include "_inc/nav.php" ?>
 		<main>
 			<h1>RESUME</h1>
 			<article class="container">
@@ -229,6 +230,15 @@
 						<hr class="separator" />
 					</aside>
 					<section>
+						<div class="container-section-item">
+							<h3>Public Speaking</h3>
+							<ul class="list-text">
+								<li><a href="https://youtu.be/Ntj5Cig68jE" target="_blank">Uber Visualization Nights / Designing Informational Analytics</a> &middot;&middot;&middot; 2018</li>
+								<li><a href="https://youtu.be/2Qh0Ck-36oY">Cascade SF UXNight / Designing Information</a>  &middot;&middot;&middot; 2018</li>
+								<li>Dreamforce / Designing More Efficient Forms &middot;&middot;&middot; 2016</li>
+								<li>AIGA / Design Principles Series &middot;&middot;&middot; 2016</li>
+							</ul>
+						</div>
 						<div class="container-section-item">
 							<h3>Professional Organizations</h3>
 							<ul class="list-text">

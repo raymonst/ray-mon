@@ -119,6 +119,105 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_assets\/IMG_5156.JPG": {
+		"ft": 16384,
+		"iS": 2059598,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5156.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5157.JPG": {
+		"ft": 16384,
+		"iS": 2230565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5157.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5158.JPG": {
+		"ft": 16384,
+		"iS": 2045925,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5158.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5159.JPG": {
+		"ft": 16384,
+		"iS": 2041199,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5159.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5160.JPG": {
+		"ft": 16384,
+		"iS": 2017470,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5160.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5161.JPG": {
+		"ft": 16384,
+		"iS": 1694751,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5161.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5162.JPG": {
+		"ft": 16384,
+		"iS": 2041355,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5162.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5163.JPG": {
+		"ft": 16384,
+		"iS": 1973047,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5163.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5164.JPG": {
+		"ft": 16384,
+		"iS": 1954088,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5164.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_assets\/placeholder.psd": {
 		"cB": 0,
 		"ft": 8192,
@@ -203,6 +302,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_images\/conversational-analytics-poster.png": {
+		"ft": 32768,
+		"iS": 397387,
+		"oA": 0,
+		"oAP": "\/_images\/conversational-analytics-poster.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_images\/conversational-analytics-research.jpg": {
 		"ft": 16384,
 		"iS": 155435,
@@ -220,6 +330,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_images\/conversational-analytics-sentence.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/logo.png": {
+		"ft": 32768,
+		"iS": 2064,
+		"oA": 0,
+		"oAP": "\/_images\/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/placeholder-0.jpg": {
+		"ft": 16384,
+		"iS": 72585,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/placeholder-0.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -276,6 +408,13 @@
 		"oAP": "\/_inc\/head.php",
 		"oF": 0
 		},
+	"\/_inc\/nav.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_inc\/nav.php",
+		"oF": 0
+		},
 	"\/index.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -309,6 +448,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/resume.php",
+		"oF": 0
+		},
+	"\/robots.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/robots.txt",
 		"oF": 0
 		}
 	},

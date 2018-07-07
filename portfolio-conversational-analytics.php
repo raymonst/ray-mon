@@ -2,10 +2,11 @@
 <html>
 	<head>
 		<?php include "_inc/head.php" ?>
-		<title>Raymon Sutedjo-The - Conversational Analytics</title>
+		<title>Raymon Sutedjo-The / Conversational Analytics</title>
 	</head>
 
 	<body>
+		<?php include "_inc/nav.php" ?>
 		<main>
 			<h1>CONVERSATIONAL ANALYTICS</h1>
 			<span class="intro">Enabling conversations with your data</span>
@@ -85,7 +86,10 @@
 								<img src="_images/conversational-analytics-logic-flow.jpg" alt="conversational-analytics-logic-flow" width="1346" height="1794">
 								<figcaption>Defining micro-interaction patterns</figcaption>
 							</figure>
-							
+							<figure>
+								<img src="_images/conversational-analytics-poster.png" alt="conversational-analytics-poster" width="1200" height="900">
+								<figcaption>Printed out posters facilitate discussions between UX, Engineering, &amp; PM</figcaption>
+							</figure>
 						</div>
 					</section>
 				</div>

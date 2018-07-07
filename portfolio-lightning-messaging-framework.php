@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="_css/style.css">
-		<link href="https://fonts.googleapis.com/css?family=Rubik:300i,400,500,900" rel="stylesheet">
-		<title>Raymon Sutedjo-The - Lightning Messaging Framework</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<?php include "_inc/head.php" ?>
+		<title>Raymon Sutedjo-The / Lightning Messaging Framework</title>
 	</head>
 
 	<body>
+		<?php include "_inc/nav.php" ?>
 		<main>
 			<h1>LIGHTNING MESSAGING FRAMEWORK</h1>
 			<span class="intro">Moving a design system forward</span>
