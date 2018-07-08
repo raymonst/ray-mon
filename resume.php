@@ -7,8 +7,13 @@
 
 	<body>
 		<?php include "_inc/nav.php" ?>
+		<header>
+			<div class="container-header">
+				<h1>RESUME</h1>
+				<div><a class="link-cta" href="#">Download pdf</a></div>
+			</div>
+		</header>
 		<main>
-			<h1>RESUME</h1>
 			<article class="container">
 				<div class="container-section">
 					<aside>
@@ -207,8 +212,8 @@
 							<h3>Tools</h3>
 							<ul class="list-text">
 								<li>Design &amp; Prototyping &middot;&middot;&middot; Adobe Creative Suite (Illustrator, InDesign, Photoshop), Balsamiq, Omnigraffle, Principle, Sketch
-								<li>Front-End Development &middot;&middot;&middot; CSS, d3, HTML, Javascript (jQuery)</li>
-								<li>Back-End Development &amp; Database &middot;&middot;&middot; MySQL, PHP, Postgres Python</li>
+								<li>Front-End Development &middot;&middot;&middot; CSS, d3, HTML, Javascript (jQuery), Sass</li>
+								<li>Back-End Development &amp; Database &middot;&middot;&middot; MySQL, PHP, Postgres, Python</li>
 								<li>Version Control &middot;&middot;&middot; Git, SVN</li>
 								<li>Misc &middot;&middot;&middot; R, Wordpress</li>
 							</ul>

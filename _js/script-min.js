@@ -1,0 +1,1 @@
+$(document).ready(function(){$("body").hasClass("with-cover")&&$("nav").addClass("transparent")});

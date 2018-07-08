@@ -7,11 +7,15 @@
 
 	<body>
 		<?php include "_inc/nav.php" ?>
+		<header>
+			<div class="container-header">
+				<h1>PORTFOLIO</h1>
+			</div>
+		</header>
 		<main>
-			<h1>PORTFOLIO</h1>
 			<ul class="list-item-visual">
 				<li>
-					<figure><a href="portfolio-conversational-analytics.php"><img src="_images/placeholder-1.jpg" alt="" width="800" height="600"></a></figure>
+					<figure><a href="portfolio-conversational-analytics.php"><img src="_images/conversational-analytics-cover.png" alt="" width="800" height="600"></a></figure>
 					<div class="list-item-visual-title"><span><a href="portfolio-conversational-analytics.php">Conversational Analytics</a></span></div>
 					<div class="list-item-visual-description"><span>Enabling conversations with your data</span></div>
 				</li>

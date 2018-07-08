@@ -7,6 +7,17 @@
 
 	<body>
 		<?php include "_inc/nav.php" ?>
+		<header>
+			<div class="container-header">
+				<div><h1>CONVERSATIONAL ANALYTICS</h1></div>
+				<span class="intro">Enabling conversations with your data</span>
+				<div><a class="link-cta" href="#">View site</a></div>
+				<ul class="role">
+					<li>UX design lead</li>
+					<li>User research support</li>
+				</ul>
+			</div>
+		</header>
 		<main>
 			<h1>LIGHTNING MESSAGING FRAMEWORK</h1>
 			<span class="intro">Moving a design system forward</span>

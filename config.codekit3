@@ -20,11 +20,106 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_assets\/conversational-analytics.mov": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/conversational-analytics.mov",
+		"oF": 0
+		},
+	"\/_assets\/cross - builder 01.png": {
+		"ft": 32768,
+		"iS": 252521,
+		"oA": 0,
+		"oAP": "\/_assets\/cross - builder 01.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/cross - builder 02.png": {
+		"ft": 32768,
+		"iS": 275735,
+		"oA": 0,
+		"oAP": "\/_assets\/cross - builder 02.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/cross - builder 03.png": {
+		"ft": 32768,
+		"iS": 277857,
+		"oA": 0,
+		"oAP": "\/_assets\/cross - builder 03.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_assets\/cross - builder 04.png": {
 		"ft": 32768,
 		"iS": 95360,
 		"oA": 0,
 		"oAP": "\/_assets\/cross - builder 04.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/cross - builder 05.png": {
+		"ft": 32768,
+		"iS": 242810,
+		"oA": 0,
+		"oAP": "\/_assets\/cross - builder 05.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/cross - builder 06a.png": {
+		"ft": 32768,
+		"iS": 246827,
+		"oA": 0,
+		"oAP": "\/_assets\/cross - builder 06a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/cross - builder 07a.png": {
+		"ft": 32768,
+		"iS": 273338,
+		"oA": 0,
+		"oAP": "\/_assets\/cross - builder 07a.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/cross - explorer 01.png": {
+		"ft": 32768,
+		"iS": 184046,
+		"oA": 0,
+		"oAP": "\/_assets\/cross - explorer 01.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/cross - explorer 03.png": {
+		"ft": 32768,
+		"iS": 205139,
+		"oA": 0,
+		"oAP": "\/_assets\/cross - explorer 03.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -39,6 +134,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/cross - explorer 05.png": {
+		"ft": 32768,
+		"iS": 275834,
+		"oA": 0,
+		"oAP": "\/_assets\/cross - explorer 05.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -280,15 +386,92 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/_images\/conversational-analytics-logic-flow.jpg": {
+	"\/_images\/bg-01.jpg": {
+		"ft": 16384,
+		"iS": 82001,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/bg-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_images\/blockquote.png": {
+		"ft": 32768,
+		"iS": 6105,
+		"oA": 0,
+		"oAP": "\/_images\/blockquote.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/conversational-analytics-cover-1.png": {
+		"ft": 32768,
+		"iS": 117032,
+		"oA": 0,
+		"oAP": "\/_images\/conversational-analytics-cover-1.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/conversational-analytics-cover.png": {
+		"ft": 32768,
+		"iS": 269565,
+		"oA": 0,
+		"oAP": "\/_images\/conversational-analytics-cover.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/conversational-analytics-explorer-builder.png": {
+		"ft": 32768,
+		"iS": 72911,
+		"oA": 0,
+		"oAP": "\/_images\/conversational-analytics-explorer-builder.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/conversational-analytics-logic.jpg": {
 		"ft": 16384,
 		"iS": 202468,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-logic-flow.jpg",
+		"oAP": "\/_images\/conversational-analytics-logic.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/conversational-analytics-main-flows.png": {
+		"ft": 32768,
+		"iS": 353238,
+		"oA": 0,
+		"oAP": "\/_images\/conversational-analytics-main-flows.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/conversational-analytics-path-nlq.png": {
+		"ft": 32768,
+		"iS": 31810,
+		"oA": 0,
+		"oAP": "\/_images\/conversational-analytics-path-nlq.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_images\/conversational-analytics-personas.png": {
@@ -297,8 +480,8 @@
 		"oA": 0,
 		"oAP": "\/_images\/conversational-analytics-personas.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -333,6 +516,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/conversational-analytics-ui.png": {
+		"ft": 32768,
+		"iS": 14628,
+		"oA": 0,
+		"oAP": "\/_images\/conversational-analytics-ui.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_images\/logo.png": {
@@ -414,6 +608,36 @@
 		"oA": 0,
 		"oAP": "\/_inc\/nav.php",
 		"oF": 0
+		},
+	"\/_js\/jquery-3.3.1.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_js\/jquery-3.3.1.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/_js\/script-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_js\/script-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/_js\/script.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_js\/script-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
 		},
 	"\/index.php": {
 		"cB": 0,
