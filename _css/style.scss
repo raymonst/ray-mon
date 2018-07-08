@@ -74,7 +74,7 @@ h1 {
 	font-size: 1.5rem;
 	font-weight: 900;
 	letter-spacing: 1px;
-	line-height: 1.5;
+	line-height: 1.25;
 	margin: 0 0 6rem 0;
 	padding: 0 0 .25rem 0;
 	text-transform: uppercase;
@@ -406,12 +406,12 @@ header {
 		
 		&.image-alignment-l {
 			float: left ;
-			margin: 0 1rem 2.5rem 0;
+			margin: 0 1rem 1rem 0;
 		}
 
 		&.image-alignment-r {
 			float: right;
-			margin: 0 0 2.5rem 1rem;
+			margin: 0 0 1rem 1rem;
 		}
 	}
 	
@@ -434,6 +434,10 @@ header {
 
 	section {
 		grid-column: col 2 / span 3;
+		
+		:last-child {
+			margin-bottom: 0;
+		}
 	}
 	
 	.container-section-item {
@@ -442,14 +446,6 @@ header {
 
 	.container-section-item:last-child {
 		margin: 0;
-	}
-	
-	p:last-child {
-		margin: 0;
-	}
-	
-	figure:last-child {
-		margin-bottom: 0;
 	}
 }
 

@@ -376,15 +376,12 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/_css\/z.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
+	"\/_files\/rst-resume.pdf": {
+		"cB": 0,
+		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_css\/z-min.css",
-		"oF": 0,
-		"oS": 3
+		"oAP": "\/_files\/rst-resume.pdf",
+		"oF": 0
 		},
 	"\/_images\/bg-01.jpg": {
 		"ft": 16384,
