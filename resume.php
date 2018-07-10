@@ -11,7 +11,6 @@
 		<header>
 			<div class="title">
 				<h1>RESUME</h1>
-<<<<<<< HEAD
 				<div class="title-link"><a class="link-cta" href="#">Download pdf</a></div>
 			</div>
 		</header>
