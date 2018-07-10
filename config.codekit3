@@ -408,127 +408,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/_images\/conversational-analytics-cover-1.png": {
-		"ft": 32768,
-		"iS": 117032,
-		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-cover-1.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_images\/conversational-analytics-cover.png": {
-		"ft": 32768,
-		"iS": 269565,
-		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-cover.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_images\/conversational-analytics-explorer-builder.png": {
-		"ft": 32768,
-		"iS": 72911,
-		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-explorer-builder.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_images\/conversational-analytics-logic.jpg": {
-		"ft": 16384,
-		"iS": 202468,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-logic.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_images\/conversational-analytics-main-flows.png": {
-		"ft": 32768,
-		"iS": 353238,
-		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-main-flows.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_images\/conversational-analytics-path-nlq.png": {
-		"ft": 32768,
-		"iS": 31810,
-		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-path-nlq.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_images\/conversational-analytics-personas.png": {
-		"ft": 32768,
-		"iS": 223588,
-		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-personas.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_images\/conversational-analytics-poster.png": {
-		"ft": 32768,
-		"iS": 397387,
-		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-poster.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_images\/conversational-analytics-research.jpg": {
-		"ft": 16384,
-		"iS": 155435,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-research.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_images\/conversational-analytics-sentence.jpg": {
-		"ft": 16384,
-		"iS": 76893,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-sentence.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_images\/conversational-analytics-ui.png": {
-		"ft": 32768,
-		"iS": 14628,
-		"oA": 0,
-		"oAP": "\/_images\/conversational-analytics-ui.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/_images\/logo.png": {
 		"ft": 32768,
 		"iS": 2064,
@@ -595,6 +474,391 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_images\/work-conversational-analytics-cover.png": {
+		"ft": 32768,
+		"iS": 269565,
+		"oA": 0,
+		"oAP": "\/_images\/work-conversational-analytics-cover.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-conversational-analytics-explorer-builder.png": {
+		"ft": 32768,
+		"iS": 72911,
+		"oA": 0,
+		"oAP": "\/_images\/work-conversational-analytics-explorer-builder.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-conversational-analytics-logic.jpg": {
+		"ft": 16384,
+		"iS": 202468,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-conversational-analytics-logic.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-conversational-analytics-main-flows.png": {
+		"ft": 32768,
+		"iS": 353238,
+		"oA": 0,
+		"oAP": "\/_images\/work-conversational-analytics-main-flows.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-conversational-analytics-path-nlq.png": {
+		"ft": 32768,
+		"iS": 31810,
+		"oA": 0,
+		"oAP": "\/_images\/work-conversational-analytics-path-nlq.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-conversational-analytics-personas.png": {
+		"ft": 32768,
+		"iS": 223588,
+		"oA": 0,
+		"oAP": "\/_images\/work-conversational-analytics-personas.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-conversational-analytics-poster.png": {
+		"ft": 32768,
+		"iS": 397387,
+		"oA": 0,
+		"oAP": "\/_images\/work-conversational-analytics-poster.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-conversational-analytics-research.jpg": {
+		"ft": 16384,
+		"iS": 155435,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-conversational-analytics-research.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-conversational-analytics-sentence.jpg": {
+		"ft": 16384,
+		"iS": 76893,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-conversational-analytics-sentence.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-conversational-analytics-ui.png": {
+		"ft": 32768,
+		"iS": 14628,
+		"oA": 0,
+		"oAP": "\/_images\/work-conversational-analytics-ui.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-giorgio-armani-beauty-foundation-world-01.jpg": {
+		"ft": 16384,
+		"iS": 43864,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-giorgio-armani-beauty-foundation-world-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-giorgio-armani-beauty-foundation-world-02.jpg": {
+		"ft": 16384,
+		"iS": 43762,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-giorgio-armani-beauty-foundation-world-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-giorgio-armani-beauty-foundation-world-03.jpg": {
+		"ft": 16384,
+		"iS": 50006,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-giorgio-armani-beauty-foundation-world-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-giorgio-armani-beauty-foundation-world-04.jpg": {
+		"ft": 16384,
+		"iS": 63642,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-giorgio-armani-beauty-foundation-world-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-giorgio-armani-beauty-foundation-world-05.jpg": {
+		"ft": 16384,
+		"iS": 57250,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-giorgio-armani-beauty-foundation-world-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-giorgio-armani-beauty-foundation-world-06.jpg": {
+		"ft": 16384,
+		"iS": 68156,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-giorgio-armani-beauty-foundation-world-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-giorgio-armani-beauty-foundation-world-07.jpg": {
+		"ft": 16384,
+		"iS": 65393,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-giorgio-armani-beauty-foundation-world-07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-giorgio-armani-beauty-foundation-world-cover.jpg": {
+		"ft": 16384,
+		"iS": 43864,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-giorgio-armani-beauty-foundation-world-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-sams-01.jpg": {
+		"ft": 16384,
+		"iS": 189212,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sams-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-sams-02.png": {
+		"ft": 32768,
+		"iS": 65304,
+		"oA": 0,
+		"oAP": "\/_images\/work-sams-02.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-sams-03.png": {
+		"ft": 32768,
+		"iS": 97385,
+		"oA": 0,
+		"oAP": "\/_images\/work-sams-03.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-sams-04.jpg": {
+		"ft": 16384,
+		"iS": 237876,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sams-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-sams-cover.png": {
+		"ft": 32768,
+		"iS": 65304,
+		"oA": 0,
+		"oAP": "\/_images\/work-sams-cover.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-streetsavvy-01.jpg": {
+		"ft": 16384,
+		"iS": 61000,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-streetsavvy-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-streetsavvy-02.jpg": {
+		"ft": 16384,
+		"iS": 80355,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-streetsavvy-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-streetsavvy-03.jpg": {
+		"ft": 16384,
+		"iS": 105643,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-streetsavvy-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-streetsavvy-04.jpg": {
+		"ft": 16384,
+		"iS": 65415,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-streetsavvy-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-streetsavvy-05.jpg": {
+		"ft": 16384,
+		"iS": 76585,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-streetsavvy-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-streetsavvy-cover.jpg": {
+		"ft": 16384,
+		"iS": 80355,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-streetsavvy-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-transit-quality-equity-01.jpg": {
+		"ft": 16384,
+		"iS": 599360,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-transit-quality-equity-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_images\/work-transit-quality-equity-02.jpg": {
+		"ft": 16384,
+		"iS": 235585,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-transit-quality-equity-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-transit-quality-equity-03.jpg": {
+		"ft": 16384,
+		"iS": 231104,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-transit-quality-equity-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-transit-quality-equity-04.jpg": {
+		"ft": 16384,
+		"iS": 216829,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-transit-quality-equity-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-transit-quality-equity-05.jpg": {
+		"ft": 16384,
+		"iS": 230341,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-transit-quality-equity-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-transit-quality-equity-cover.jpg": {
+		"ft": 16384,
+		"iS": 235585,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-transit-quality-equity-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_inc\/head.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -646,27 +910,6 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
-	"\/portfolio-conversational-analytics.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/portfolio-conversational-analytics.php",
-		"oF": 0
-		},
-	"\/portfolio-lightning-messaging-framework.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/portfolio-lightning-messaging-framework.php",
-		"oF": 0
-		},
-	"\/portfolio.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/portfolio.php",
-		"oF": 0
-		},
 	"\/resume.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -679,6 +922,55 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/robots.txt",
+		"oF": 0
+		},
+	"\/work-conversational-analytics.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/work-conversational-analytics.php",
+		"oF": 0
+		},
+	"\/work-giorgio-armani-beauty-foundation-world.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/work-giorgio-armani-beauty-foundation-world.php",
+		"oF": 0
+		},
+	"\/work-lightning-messaging-framework.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/work-lightning-messaging-framework.php",
+		"oF": 0
+		},
+	"\/work-sams.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/work-sams.php",
+		"oF": 0
+		},
+	"\/work-streetsavvy.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/work-streetsavvy.php",
+		"oF": 0
+		},
+	"\/work-transit-quality-equity.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/work-transit-quality-equity.php",
+		"oF": 0
+		},
+	"\/work.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/work.php",
 		"oF": 0
 		}
 	},
