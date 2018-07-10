@@ -416,12 +416,12 @@ nav {
 		
 		&.image-alignment-l {
 			float: left ;
-			margin: 0 1rem 1.5rem 0;
+			margin: 0 1rem 1rem 0;
 		}
 
 		&.image-alignment-r {
 			float: right;
-			margin: 0 0 1.5rem 1rem;
+			margin: 0 0 1rem 1rem;
 		}
 	}
 	
@@ -444,6 +444,10 @@ nav {
 
 	section {
 		grid-column: col 2 / span 3;
+		
+		:last-child {
+			margin-bottom: 0;
+		}
 	}
 	
 	.container-section-item {
@@ -452,7 +456,7 @@ nav {
 
 	.container-section-item :last-child {
 		margin-bottom: 0;
-	}	
+	}		
 }
 
 .list-item-visual {
