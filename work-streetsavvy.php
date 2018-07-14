@@ -1,8 +1,13 @@
+<?php 
+	include "_inc/work-list.php";
+	$workSelected = $work["streetsavvy"];
+?>
+
 <!DOCTYPE html>
 <html>
 	<head>
 		<?php include "_inc/head.php" ?>
-		<title>Raymon Sutedjo-The / StreetSavvy</title>
+		<title>Raymon Sutedjo-The / <?php echo $workSelected[0]?></title>
 	</head>
 
 	<body class="with-cover">
@@ -12,10 +17,10 @@
 		
 		<header>
 			<div class="title">
-				<h1>StreetSavvy</h1>
+				<h1><?php echo $workSelected[0]?></h1>
 				<div class="title-link"><a href="#" class="link-cta">read project report</a></div>
 			</div>
-			<span class="intro">Rethinking the pedestrian experience</span>
+			<span class="intro"><?php echo $workSelected[1]?></span>
 			<ul class="role">
 				<li>UX design</li>
 				<li>User research</li>

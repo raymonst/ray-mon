@@ -1,26 +1,32 @@
+<?php 
+	include "_inc/work-list.php";
+	$workSelected = $work["lightning-messaging-framework"];
+?>
+
 <!DOCTYPE html>
 <html>
 	<head>
 		<?php include "_inc/head.php" ?>
-		<title>Raymon Sutedjo-The / Lightning Messaging Framework</title>
+		<title>Raymon Sutedjo-The / <?php echo $workSelected[0]?></title>
 	</head>
 
-	<body>
+	<body class="with-cover">
 		<?php include "_inc/nav.php" ?>
+
+		<div class="cover"><img src="_images/work-conversational-analytics-cover.png" alt="work-conversational-analytics-cover" width="1280" height="1024"></div>
+
 		<header>
-			<div class="container-header">
-				<div><h1>CONVERSATIONAL ANALYTICS</h1></div>
-				<span class="intro">Enabling conversations with your data</span>
-				<div><a class="link-cta" href="#">View site</a></div>
-				<ul class="role">
-					<li>UX design lead</li>
-					<li>User research support</li>
-				</ul>
+			<div class="title">
+				<h1><?php echo $workSelected[0]?></h1>
 			</div>
+			<span class="intro"><?php echo $workSelected[1]?></span>
+			<ul class="role">
+				<li>UX design</li>
+				<li>User research</li>
+			</ul>
 		</header>
+
 		<main>
-			<h1>LIGHTNING MESSAGING FRAMEWORK</h1>
-			<span class="intro">Moving a design system forward</span>
 			<article class="container">
 				<div class="container-section">
 					<aside>

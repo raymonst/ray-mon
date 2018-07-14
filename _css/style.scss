@@ -57,7 +57,7 @@ table {
 }
 
 :focus {
-	outline: 2px dotted #555;
+	outline: 2px dotted #222;
 	box-shadow: 2px 2px 16px #555;
 }
 
@@ -238,6 +238,7 @@ nav {
 	background: rgba(255,255,255,0.95);
 	border-bottom: 4px double #E8E3DE;
 	display: grid;
+	font-size: .75rem;
 	grid-gap: 1rem;
 	grid-template-columns: auto 1fr auto auto;
 	left: 0;
@@ -254,11 +255,14 @@ nav {
 	a {
 		background: none;
 		border: 0;
+		border-top: 1px solid transparent;
+		color: #777;
 		display: block;
 		font-size: .75rem;
 		font-weight: 400;
-		height: 1.5rem;
+		line-height: 1.5;
 		overflow: hidden;
+		padding-top: .25rem;
 		text-transform: uppercase;
 		vertical-align: middle;
 
@@ -271,8 +275,9 @@ nav {
 			background: none;
 			border: 0;
 			color: #222;
-			font-weight: 900;				
+			font-weight: 900;	
 			line-height: 0;
+			padding: 0;			
 
 			&:hover {
 				-webkit-transform: rotateZ(-3deg) scale(0.95);
@@ -282,7 +287,13 @@ nav {
 		}
 
 		&.nav-link-active {
-			background: #ccc;
+			border-top: 1px solid #222;
+			color: #222;
+
+			&:hover {
+				background: none;
+				transform: none;
+			}
 		}
 
 		&:hover {
@@ -293,11 +304,16 @@ nav {
 	
 	&.transparent {
 		background: none;
-		border-bottom: 0;
+		border-bottom: 4px double transparent;
 		
 		a {
 			color: #fff;
+
+			&.nav-link-active {
+				border-top: 1px solid #fff;
+			}
 		}
+		
 	}
 }
 
@@ -522,12 +538,10 @@ nav {
 		grid-template-columns: repeat(4, [col] 1fr);
 		grid-template-rows: auto;
 		margin: 0 0 4rem 0;
-		overflow: hidden;		
 
 		li {
 			display: block;
 			margin: 0 0 1.5rem 0;
-			overflow: hidden;		
 		}
 
 		figure {

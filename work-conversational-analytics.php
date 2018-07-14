@@ -1,8 +1,13 @@
+<?php 
+	include "_inc/work-list.php";
+	$workSelected = $work["conversational-analytics"];
+?>
+
 <!DOCTYPE html>
 <html>
 	<head>
 		<?php include "_inc/head.php" ?>
-		<title>Raymon Sutedjo-The / Conversational Analytics</title>
+		<title>Raymon Sutedjo-The / <?php echo $workSelected[0]?></title>
 	</head>
 
 	<body class="with-cover">
@@ -12,9 +17,9 @@
 		
 		<header>
 			<div class="title">
-				<h1>CONVERSATIONAL ANALYTICS</h1>
+				<h1><?php echo $workSelected[0]?></h1>
 			</div>
-			<span class="intro">Enabling conversations with your data</span>
+			<span class="intro"><?php echo $workSelected[1]?></span>
 			<ul class="role">
 				<li>UX design</li>
 				<li>User research</li>

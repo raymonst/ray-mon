@@ -353,6 +353,61 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_assets\/Screen Shot 2018-07-09 at 9.33.17 PM.png": {
+		"ft": 32768,
+		"iS": 2268713,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-09 at 9.33.17 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-09 at 9.34.25 PM.png": {
+		"ft": 32768,
+		"iS": 956195,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-09 at 9.34.25 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-09 at 9.34.48 PM.png": {
+		"ft": 32768,
+		"iS": 1095139,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-09 at 9.34.48 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-09 at 9.35.12 PM.png": {
+		"ft": 32768,
+		"iS": 1131319,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-09 at 9.35.12 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-09 at 9.49.03 PM.png": {
+		"ft": 32768,
+		"iS": 1190738,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-09 at 9.49.03 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_css\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -868,6 +923,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_inc\/nav.php",
+		"oF": 0
+		},
+	"\/_inc\/work-LIST.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_inc\/work-LIST.php",
 		"oF": 0
 		},
 	"\/_js\/jquery-3.3.1.min.js": {

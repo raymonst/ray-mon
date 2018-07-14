@@ -1,3 +1,7 @@
+<?php 
+	include "_inc/work-list.php";
+?>
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -16,21 +20,24 @@
 		
 		<main class="container">
 			<ul class="list-item-visual">
+				<?php
+					
+				?>
+				
 				<li>
 					<figure><a href="work-conversational-analytics.php"><img src="_images/work-conversational-analytics-cover.png" alt="" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-conversational-analytics.php">Conversational Analytics</a></span></div>
-					<div class="list-item-visual-description"><span>Enabling conversations with your data</span></div>
+					<div class="list-item-visual-title"><span><a href="work-conversational-analytics.php"><?php echo $work["conversational-analytics"][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work["conversational-analytics"][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-lightning-messaging-framework.php"><img src="_images/placeholder-2.jpg" alt="" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="#">Lightning Messaging Framework</a></span></div>
-					<div class="list-item-visual-description"><span>Moving a design system forward</span></div>
+					<div class="list-item-visual-title"><span><a href="#"><?php echo $work["lightning-messaging-framework"][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work["lightning-messaging-framework"][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-lightning-messaging-framework.php"><img src="_images/placeholder-3.jpg" alt="" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="#">Analytics Learning App</a></span></div>
-					<div class="list-item-visual-description"><span>Educating users with hands-on examples &amp; best practices
-</span></div	>
+					<div class="list-item-visual-title"><span><a href="#"><?php echo $work["analytics-learning-app"][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work["analytics-learning-app"][1]?></span></div>
 				</li>
 			</ul>
 

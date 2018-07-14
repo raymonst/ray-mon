@@ -1,3 +1,7 @@
+<?php 
+	include "_inc/work-list.php";
+?>
+
 <!DOCTYPE html>
 <html>
 	<head>
