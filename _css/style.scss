@@ -311,6 +311,14 @@ nav {
 
 			&.nav-link-active {
 				border-top: 1px solid #fff;
+				
+				&:hover {
+					color: #fff;
+				}
+			}
+			
+			&:hover {
+				color: #ddd;
 			}
 		}
 		
@@ -329,7 +337,7 @@ nav {
 	display: block;	
 	font-size: .75rem;
 	font-weight: 500;
-	padding: .375rem .75rem;
+	padding: .375rem .625rem;
 	text-transform: uppercase;
 	
 	&:hover {
@@ -338,6 +346,12 @@ nav {
 	}
 }
 
+.link-external {
+/*
+	background: url(../_images/icon-link-external.png) right 85% no-repeat;
+	background-size: 12px 12px;
+*/
+}
 
 .cover {
 	background: linear-gradient(#312A1E, #0c0c0c);// 
@@ -357,7 +371,7 @@ nav {
 		height: auto;
 		min-height: 30rem;
 		width: 100%;
-		opacity: 0.1;
+		opacity: 0.15;
 	}
 }	
 
