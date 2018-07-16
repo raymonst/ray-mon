@@ -7,11 +7,12 @@
 
 	<body>
 		<?php include "_inc/nav.php" ?>
+		<?php include "_inc/work.php" ?>
 		
 		<header>
 			<div class="title">
 				<h1>RESUME</h1>
-				<div class="title-link"><a class="link-cta" href="#">Download pdf</a></div>
+				<div><a class="link-cta" href="_files/rst-resume.pdf">Download pdf</a></div>
 			</div>
 		</header>
 		
@@ -28,9 +29,9 @@
 						<ul class="list-text">
 							<li>Lead design for <a href="https://www.salesforce.com/blog/2018/03/einstein-analytics-conversational-queries.html" target="_blank">conversational query in Einstein Analytics</a>, which enables users to ask questions about their own data &amp; receive answers as interactive charts that they can explore further</li>
 							<li>Lead design for onboarding, <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN" target="_blank">product education</a>, &amp; troubleshooting experiences in Einstein Analytics; systemize the design patterns so they are reusable in other Salesforce products</li>
-							<li>Design Lightning dashboard subscription experience, which enables 2.5M+ dashboard users to send a snapshot of their dashboard as an email; create prototypes &amp; collaborate with engineers to build a high-quality solution within the limits of email technologies</li>
+							<li>Design Lightning dashboard subscription experience, which enables 4.2M+ daily dashboard users to send a snapshot of their dashboard as an email; create prototypes &amp; collaborate with engineers to build a high-quality solution within the limits of email technologies</li>
 							<li>Create a set of design patterns for folder management &amp; sharing to accommodate various sharing models across the board (reports, dashboards, files, &amp; accounts sharing)</li>
-							<li>Act as head editor of <a href="https://medium.com/salesforce-ux" target="_blank">Salesforce UX blog</a>; evangelize the blog internally and externally, helping it grow from 14K to 20K subscribers; formalize &amp; document the publication process to bring clarity to the blog team &amp; writers; build &amp; deploy a custom Salesforce app to streamline &amp; automate the process</li>
+							<li>Act as head editor of <a href="https://medium.com/salesforce-ux" target="_blank">Salesforce UX blog</a>; evangelize the blog internally and externally, helping it grow from 14K to 21K subscribers; formalize &amp; document the publication process to bring clarity to the blog team &amp; writers; build &amp; deploy a custom Salesforce app to streamline &amp; automate the process</li>
 							<li>Design &amp; build <a href="https://lightningdesignsystem.com/guidelines/messaging/overview/" target="_blank">Lightning Messaging Framework</a>, a UX guideline for messaging patterns in the Salesforce ecosystem; collaborate with writers to create a holistic UI text library that works harmoniously with UI patterns; integrate the documentation into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a></li>
 							<li>Lead design for <a href="https://releasenotes.docs.salesforce.com/en-us/spring16/release-notes/rn_general_inline_editing.htm" target="_blank">Lightning inline edit</a> experience, which allows users to update data efficiently; build prototypes &amp; conduct research to test design concepts; collaborate with engineers to build a high-quality end product that meets product, design, &amp; accessibility requirements</li>
 							<li>Design a refined forms experience as part of a larger application-wide redesign; build a components library &amp; user flows logic to clearly communicate the experience to various stakeholders, including product managers, engineers, &amp; other designers; integrate the components into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a>, which is used by 50+ scrum teams across Salesforce</li>
@@ -38,7 +39,7 @@
 					</div>
 					<div class="container-section-item">
 						<h3>Design Intern</h3>
-						<h4><a href="http://salesforce.com/" target="_blank">Salesforce (Platform UX)</a> &middot;&middot;&middot; Summer 2013</h4>
+						<h4>Salesforce (Platform UX) &middot;&middot;&middot; Summer 2013</h4>
 						<ul class="list-text">
 							<li>Design <a href="https://developer.salesforce.com/mobile/services/mobile-templates" target="_blank">mobile web templates</a> that enable 2M+ Salesforce developers to build cross-platform mobile applications rapidly in conjunction with other tools in <a href="https://developer.salesforce.com/mobile?title=page/Salesforce_touch_platform" target="_blank">Salesforce Platform Mobile Services</a></li>
 							<li>Conduct user research &amp; design a new concept for Salesforce’s process automation tool (workflows &amp; approvals), which is used by more than 100K organizations</li>
@@ -95,120 +96,6 @@
 					</div>
 				</section>
 			</div>
-=======
-				<div><a class="link-cta" href="_files/rst-resume.pdf">Download pdf</a></div>
-			</div>
-		</header>
-		<main>
-			<article class="container">
-				<div class="container-section">
-					<aside>
-						<h2>PROFESSIONAL EXPERIENCE</h2>
-						<hr class="separator" />
-					</aside>
-					<section>
-						<div class="container-section-item">
-							<h3>Staff &rsaquo; Senior &rsaquo; Lead Product Designer</h3>
-							<h4><a href="http://salesforce.com/" target="_blank">Salesforce (Analytics UX)</a> &middot;&middot;&middot; February 2017&ndash;present<br/><a href="http://salesforce.com/" target="_blank">Salesforce (Platform UX)</a> &middot;&middot;&middot; July 2014&ndash;February 2017</h4>
-							<ul class="list-text">
-								<li>Lead design for <a href="https://www.salesforce.com/blog/2018/03/einstein-analytics-conversational-queries.html" target="_blank">conversational query in Einstein Analytics</a>, which enables users to ask questions about their own data &amp; receive answers as interactive charts that they can explore further</li>
-								<li>Lead design for onboarding, <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN" target="_blank">product education</a>, &amp; troubleshooting experiences in Einstein Analytics; systemize the design patterns so they are reusable in other Salesforce products</li>
-								<li>Design Lightning dashboard subscription experience, which enables 4.2M+ daily dashboard users to send a snapshot of their dashboard as an email; create prototypes &amp; collaborate with engineers to build a high-quality solution within the limits of email technologies</li>
-								<li>Create a set of design patterns for folder management &amp; sharing to accommodate various sharing models across the board (reports, dashboards, files, &amp; accounts sharing)</li>
-								<li>Act as head editor of <a href="https://medium.com/salesforce-ux" target="_blank">Salesforce UX blog</a>; evangelize the blog internally and externally, helping it grow from 14K to 21K subscribers; formalize &amp; document the publication process to bring clarity to the blog team &amp; writers; build &amp; deploy a custom Salesforce app to streamline &amp; automate the process</li>
-								<li>Design &amp; build <a href="https://lightningdesignsystem.com/guidelines/messaging/overview/" target="_blank">Lightning Messaging Framework</a>, a UX guideline for messaging patterns in the Salesforce ecosystem; collaborate with writers to create a holistic UI text library that works harmoniously with UI patterns; integrate the documentation into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a></li>
-								<li>Lead design for <a href="https://releasenotes.docs.salesforce.com/en-us/spring16/release-notes/rn_general_inline_editing.htm" target="_blank">Lightning inline edit</a> experience, which allows users to update data efficiently; build prototypes &amp; conduct research to test design concepts; collaborate with engineers to build a high-quality end product that meets product, design, &amp; accessibility requirements</li>
-								<li>Design a refined forms experience as part of a larger application-wide redesign; build a components library &amp; user flows logic to clearly communicate the experience to various stakeholders, including product managers, engineers, &amp; other designers; integrate the components into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a>, which is used by 50+ scrum teams across Salesforce</li>
-							</ul>
-						</div>
-						<div class="container-section-item">
-							<h3>Design Intern</h3>
-							<h4><a href="http://salesforce.com/" target="_blank">Salesforce (Platform UX)</a> &middot;&middot;&middot; Summer 2013</h4>
-							<ul class="list-text">
-								<li>Design <a href="https://developer.salesforce.com/mobile/services/mobile-templates" target="_blank">mobile web templates</a> that enable 2M+ Salesforce developers to build cross-platform mobile applications rapidly in conjunction with other tools in <a href="https://developer.salesforce.com/mobile?title=page/Salesforce_touch_platform" target="_blank">Salesforce Platform Mobile Services</a></li>
-								<li>Conduct user research &amp; design a new concept for Salesforce’s process automation tool (workflows &amp; approvals), which is used by more than 100K organizations</li>
-							</ul>
-						</div>
-						<div class="container-section-item">
-							<h3>Designer/Web Developer</h3>
-							<h4>Freelance &middot;&middot;&middot; 2006&ndash;2016</h4>
-							<ul class="list-text">
-								<li>Blum Center &middot;&middot;&middot; Design brand identity for <a href="http://dil.berkeley.edu/" target="_blank">Development Impact Lab (DIL)</a>, a new international development initiative; architect, design, &amp; build a Wordpress-based, responsive site for DIL in three months</li>
-								<li>UC Berkeley &middot;&middot;&middot; Collaborate with Professor Marti Hearst to design a new interface for <a href="http://wordseer.berkeley.edu/" target="_blank">WordSeer</a>, a text analysis tool for Humanities scholars; create graphic illustrations for Professor Robert Glushko&rsquo;s book <a href="http://tdo.berkeley.edu/" target="_blank">&ldquo;The Discipline of Organizing&rdquo;</a></li>
-							</ul>
-						</div>
-						<div class="container-section-item">
-							<h3>Senior Associate Front-End Developer</h3>
-							<h4><a href="https://www.accenture.com/us-en/interactive-index" target="_balnk">Acquity Group</a> &middot;&middot;&middot; 2011&ndash;2012</h4>
-							<ul class="list-text">
-								<li>Develop rich front-end desktop &amp; mobile web interfaces that integrate with platforms such as Demandware to deliver the best custom e-commerce experience</li>
-								<li>Educate both the clients &amp; design team on web best practices to ensure that the team is delivering innovative but viable solutions</li>
-								<li>Clients include: Discover Financial Services, L&rsquo;Oreal, Michaels, Transamerica Insurance</li>
-							</ul>
-						</div>
-						<div class="container-section-item">
-							<h3>Web Developer/Designer</h3>
-							<h4><a href="http://decisioncounsel.com/" target="_balnk">Decision Counsel</a> &middot;&middot;&middot; 2009&ndash;2011</h4>
-							<ul class="list-text">
-								<li>Build interfaces using standards-compliant HTML/CSS/Javascript &amp; educate clients on best practices</li>
-								<li>Collaborate with the design team to create original visual designs &amp; help build user flows, wireframes, &amp; schematics while fulfilling client&rsquo;s objectives, requirements, &amp; functional needs</li>
-								<li>Clients include: Driscoll&rsquo;s, Hanley Wood, Kaspersky Lab, Levi&rsquo;s, Northstar Travel Media</li>
-							</ul>
-						</div>
-						<div class="container-section-item">
-							<h3>Web Designer</h3>
-							<h4>Sender LLC</a> &middot;&middot;&middot; 2007&ndash;2009</h4>
-							<ul class="list-text">
-								<li>Design websites, web marketing materials, &amp; email campaigns</li>
-								<li>Assist front-end web development work &amp; help bridge the gap between web design &amp; development</li>
-								<li>Clients include: Apartments.com, Crain&rsquo;s Chicago Business, Shure</li>
-							</ul>
-						</div>
-						<div class="container-section-item">
-							<h3>Design Intern</h3>
-							<h4><a href="https://www.edelman.com/" target="_blank">Edelman Worldwide</a> &middot;&middot;&middot; Spring &amp; Summer 2007</h4>
-							<ul class="list-text">
-								<li>Design public relations print materials for both corporate &amp; consumer needs</li>
-							</ul>
-						</div>
-						<div class="container-section-item">
-							<h3>Design Intern</h3>
-							<h4><a href="https://www.orbitz.com/" target="_blank">Orbitz</a> &middot;&middot;&middot; Spring &amp; Summer 2006</h4>
-							<ul class="list-text">
-								<li>Assist the in-house design team with daily tasks, such as creating landing pages &amp; call-to-action modules for Orbitz.com &amp; Cheaptickets.com</li>
-							</ul>
-						</div>
-					</section>
-				</div>
-
-				<div class="container-section">
-					<aside>
-						<h2>EDUCATION</h2>
-						<hr class="separator" />
-					</aside>
-					<section>
-						<div class="container-section-item">
-							<h3>Master of Information Management &amp; Systems</h3>
-							<h4><a href="http://ischool.berkeley.edu/" target="_blank">University of California at Berkeley, School of Information</a> &middot;&middot;&middot; 2014</h4>
-							<ul class="list-text">
-								<li>Recipient of &ldquo;Outstanding Teaching Assistant&rdquo; award</li>
-								<li>Recipient of <a href="http://www.ischool.berkeley.edu/programs/mims/projects/chenawards" target="_blank">James R. Chen award</a> for best project in the category of &ldquo;Enhancing User Experiences&rdquo;</li>
-								<li>Finalist in 2014 Big Ideas competition in the category of Information Technology for Society</li>
-								<li>Speaker at 2014 InfoCamp Berkeley, an unconference for the information community &middot;&middot;&middot; &ldquo;Viz &amp; the City&rdquo;</li>
-							</ul>
-						</div>
-						<div class="container-section-item">
-							<h3>Bachelor of Fine Arts</h3>
-							<h4><a href="http://www.saic.edu/academics/departments/visual-communication-design" target="_blank">The School of the Art Institute of Chicago, Visual Communication</a> &middot;&middot;&middot; 2007</h4>
-							<ul class="list-text">
-								<li>Exhibitor in the inaugural Senior Design Show</li>
-								<li>Student Leadership Award &middot;&middot;&middot; 2006&ndash;2007</li>
-								<li>Program Director of Student Chapter of American Institute of Graphic Arts (AIGA)</li>
-							</ul>
-						</div>
-					</section>
-				</div>
->>>>>>> 0a8ed84fcd071e3c9f3d06a54b985cd97abb5825
 
 			<div class="container-section">
 				<aside>

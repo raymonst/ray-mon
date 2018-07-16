@@ -1,8 +1,13 @@
+<?php 
+	include "_inc/work-list.php";
+	$workSelected = $work["giorgio-armani-beauty-foundation-world"];
+?>
+
 <!DOCTYPE html>
 <html>
 	<head>
 		<?php include "_inc/head.php" ?>
-		<title>Raymon Sutedjo-The / Giorgio Armani Beauty Foundation World</title>
+		<title>Raymon Sutedjo-The / <?php echo $workSelected[0]?></title>
 	</head>
 
 	<body class="with-cover">
@@ -11,9 +16,9 @@
 		<div class="cover"><img src="_images/work-giorgio-armani-beauty-foundation-world-cover.jpg" alt="work-giorgio-armani-beauty-foundation-world-cover" width="700" height="432"></div>
 		<header>
 			<div class="title">
-				<h1>GIORGIO ARMANI BEAUTY FOUNDATION WORLD</h1>
+				<h1><?php echo $workSelected[0]?></h1>
 			</div>
-			<span class="intro">Helping users find the perfect beauty products</span>
+			<span class="intro"><?php echo $workSelected[1]?></span>
 			<ul class="role">
 				<li>Front-end development</li>
 			</ul>

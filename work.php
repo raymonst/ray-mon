@@ -1,3 +1,7 @@
+<?php 
+	include "_inc/work-list.php";
+?>
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -16,21 +20,24 @@
 		
 		<main class="container">
 			<ul class="list-item-visual">
+				<?php
+					
+				?>
+				
 				<li>
 					<figure><a href="work-conversational-analytics.php"><img src="_images/work-conversational-analytics-cover.png" alt="" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-conversational-analytics.php">Conversational Analytics</a></span></div>
-					<div class="list-item-visual-description"><span>Enabling conversations with your data</span></div>
+					<div class="list-item-visual-title"><span><a href="work-conversational-analytics.php"><?php echo $work["conversational-analytics"][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work["conversational-analytics"][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-lightning-messaging-framework.php"><img src="_images/placeholder-2.jpg" alt="" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="#">Lightning Messaging Framework</a></span></div>
-					<div class="list-item-visual-description"><span>Moving a design system forward</span></div>
+					<div class="list-item-visual-title"><span><a href="#"><?php echo $work["lightning-messaging-framework"][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work["lightning-messaging-framework"][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-lightning-messaging-framework.php"><img src="_images/placeholder-3.jpg" alt="" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="#">Analytics Learning App</a></span></div>
-					<div class="list-item-visual-description"><span>Educating users with hands-on examples &amp; best practices
-</span></div	>
+					<div class="list-item-visual-title"><span><a href="#"><?php echo $work["analytics-learning-app"][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work["analytics-learning-app"][1]?></span></div>
 				</li>
 			</ul>
 
@@ -69,17 +76,17 @@
 			<ul class="list-item-visual list-item-visual-s">
 				<li>
 					<figure><a href="https://medium.com/salesforce-ux/designing-the-not-so-happy-path-fde484759a54" target="_blank"><img src="_images/placeholder-4.jpg" alt="" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="https://medium.com/salesforce-ux/designing-the-not-so-happy-path-fde484759a54" target="_blank">Designing the Not-So-Happy Paths</a></span></div>
+					<div class="list-item-visual-title"><span><a href="https://medium.com/salesforce-ux/designing-the-not-so-happy-path-fde484759a54" target="_blank">Designing the Not-So-Happy Paths</a>&nbsp;&#8599;</span></div>
 					<div class="list-item-visual-description"><span>How to craft the right error messages when things go wrong</span></div>
 				</li>
 				<li>
 					<figure><a href="https://medium.com/salesforce-ux/turning-constraints-into-catalysts-for-creativity-ce2393673c1b" target="_blank"><img src="_images/placeholder-4.jpg" alt="" width="800" height="600" target="_blank"></a></figure>
-					<div class="list-item-visual-title"><span><a href="https://medium.com/salesforce-ux/turning-constraints-into-catalysts-for-creativity-ce2393673c1b">Turning Constraints into Catalysts for Creativity</a></span></div>
+					<div class="list-item-visual-title"><span><a href="https://medium.com/salesforce-ux/turning-constraints-into-catalysts-for-creativity-ce2393673c1b">Turning Constraints into Catalysts for Creativity</a>&nbsp;&#8599;</span></div>
 					<div class="list-item-visual-description"><span>Lessons from Designing Inline Edit Experience in Lightning</span></div>
 				</li>
 				<li>
 					<figure><a href="https://medium.com/salesforce-ux/designing-more-efficient-forms-10d23bc72c9f" target="_blank"><img src="_images/placeholder-4.jpg" alt="" width="800" height="600" target="_blank"></a></figure>
-					<div class="list-item-visual-title"><span><a href="https://medium.com/salesforce-ux/designing-more-efficient-forms-10d23bc72c9f">Designing More Efficient Forms</a></span></div>
+					<div class="list-item-visual-title"><span><a href="https://medium.com/salesforce-ux/designing-more-efficient-forms-10d23bc72c9f" target="_blank">Designing More Efficient Forms</a>&nbsp;&#8599;</span></div>
 					<div class="list-item-visual-description"><span>Examples from Salesforce&rsquo;s Lightning Experience</span></div>
 				</li>
 			</ul>
