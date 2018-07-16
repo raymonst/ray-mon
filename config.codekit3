@@ -148,6 +148,62 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_assets\/diagram.sketch": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-R9W1GO",
+		"oF": 0
+		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-9tjhwj": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-9tjhwj",
+		"oF": 0
+		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-gujIHi": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-gujIHi",
+		"oF": 0
+		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-H4FA4u": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-H4FA4u",
+		"oF": 0
+		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-JW6dWS": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-JW6dWS",
+		"oF": 0
+		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-LFVVjS": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-LFVVjS",
+		"oF": 0
+		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-R9W1GO": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-R9W1GO",
+		"oF": 0
+		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-wbUpmu": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-wbUpmu",
+		"oF": 0
+		},
 	"\/_assets\/Image uploaded from iOS.jpg": {
 		"ft": 16384,
 		"iS": 5205848,
@@ -324,6 +380,72 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_assets\/IMG_5181.JPG": {
+		"ft": 16384,
+		"iS": 1881637,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5181.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5182.JPG": {
+		"ft": 16384,
+		"iS": 1893060,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5182.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5183.JPG": {
+		"ft": 16384,
+		"iS": 1869935,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5183.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5184.JPG": {
+		"ft": 16384,
+		"iS": 1878443,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5184.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/IMG_5185.JPG": {
+		"ft": 16384,
+		"iS": 2045144,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/IMG_5185.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/Messaging States - Lightning Design System (2018-07-15 19-24-44).png": {
+		"ft": 32768,
+		"iS": 2543229,
+		"oA": 0,
+		"oAP": "\/_assets\/Messaging States - Lightning Design System (2018-07-15 19-24-44).png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_assets\/placeholder.psd": {
 		"cB": 0,
 		"ft": 8192,
@@ -402,6 +524,127 @@
 		"iS": 1190738,
 		"oA": 0,
 		"oAP": "\/_assets\/Screen Shot 2018-07-09 at 9.49.03 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 2.26.39 PM.png": {
+		"ft": 32768,
+		"iS": 29641,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 2.26.39 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 2.29.00 PM.png": {
+		"ft": 32768,
+		"iS": 21555,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 2.29.00 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 4.23.00 PM.png": {
+		"ft": 32768,
+		"iS": 334308,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 4.23.00 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 4.34.45 PM.png": {
+		"ft": 32768,
+		"iS": 625123,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 4.34.45 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 4.35.02 PM.png": {
+		"ft": 32768,
+		"iS": 843460,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 4.35.02 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 4.35.08 PM.png": {
+		"ft": 32768,
+		"iS": 660866,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 4.35.08 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 4.35.24 PM.png": {
+		"ft": 32768,
+		"iS": 571622,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 4.35.24 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 5.53.31 PM.png": {
+		"ft": 32768,
+		"iS": 244712,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 5.53.31 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 6.20.03 PM.png": {
+		"ft": 32768,
+		"iS": 595502,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 6.20.03 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 6.20.13 PM.png": {
+		"ft": 32768,
+		"iS": 617571,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 6.20.13 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 7.45.11 PM.png": {
+		"ft": 32768,
+		"iS": 559075,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 7.45.11 PM.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -735,6 +978,105 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_images\/work-lightning-messaging-framework-classic.png": {
+		"ft": 32768,
+		"iS": 316768,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-classic.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-lightning-messaging-framework-component-properties.png": {
+		"ft": 32768,
+		"iS": 23522,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-component-properties.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-lightning-messaging-framework-component-scope.png": {
+		"ft": 32768,
+		"iS": 1100659,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-component-scope.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-lightning-messaging-framework-component-spectrum.png": {
+		"ft": 32768,
+		"iS": 65013,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-component-spectrum.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-lightning-messaging-framework-error.png": {
+		"ft": 32768,
+		"iS": 46097,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-error.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-lightning-messaging-framework-guidelines.png": {
+		"ft": 32768,
+		"iS": 167723,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-guidelines.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-lightning-messaging-framework-posters.jpg": {
+		"ft": 16384,
+		"iS": 161640,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-posters.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_images\/work-lightning-messaging-framework-sketches.png": {
+		"ft": 32768,
+		"iS": 180285,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-sketches.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-lightning-messaging-framework-states.png": {
+		"ft": 32768,
+		"iS": 66389,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-states.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_images\/work-sams-01.jpg": {
 		"ft": 16384,
 		"iS": 189212,
@@ -936,7 +1278,7 @@
 		"oAP": "\/_inc\/nav.php",
 		"oF": 0
 		},
-	"\/_inc\/work-LIST.php": {
+	"\/_inc\/work-list.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,

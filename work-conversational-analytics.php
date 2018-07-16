@@ -81,7 +81,7 @@
 						<p>We also realized that the right UI context would be critical in grounding the user&rsquo;s expectations. The higher it sits in the UI, the higher the expectation is. We decided to embed the query field in two specific parts of EA: the explorer (where the user explores/plays with a chart to discover further insights) and the builder (where the user builds apps and dashboards). The specificity of these contexts communicates to the users that they can only ask questions that are narrower in scope.</p>
 						<figure>
 							<img src="_images/work-conversational-analytics-explorer-builder.png" alt="work-conversational-analytics-explorer-builder" width="2640" height="1040">
-							<figcaption>Specific contexts for the query field: explorer (L) and builder (R)</figcaption>
+							<figcaption>Specific contexts for the query field: explorer (left) and builder (right)</figcaption>
 						</figure>
 					</div>
 				</section>
