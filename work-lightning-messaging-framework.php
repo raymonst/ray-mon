@@ -70,7 +70,7 @@
 						</figure>						
 						<p>I began to explore ways to address this. The first step was to collect all the different messaging examples from various features so I could get a general sense of the diversity of messaging that&rsquo;s possible within the ecosystem. Additionally, I looked at past examples of guidelines to understand what has been done before and learn from them.</p>
 						<p>Messaging between the application and the end-user vary in tone, from subtle informational messages to dire system errors. Additionally, messaging can appear in various points of the user&rsquo;s experience (e.g. when logging in, after filling out a form, before deleting a file, etc.). </p>
-						<p>As I delved in further, I developed some basic guiding principles that are central to the messaging framework:
+						<p>As I delved in further, I developed some basic guiding principles for the framework:
 						<ul>
 							<li><strong>Timely, not noisy.</strong><br/>Deliver messages at the right time. Not every interaction requires messaging to go with it.</li>
 							<li><strong>Informative, not verbose.</strong><br/>Say what&rsquo;s necessary and not much more.</li>
