@@ -30,7 +30,7 @@
 							<li>Lead design for onboarding, <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN" target="_blank">product education</a>, &amp; troubleshooting experiences in Einstein Analytics; systemize the design patterns so they are reusable in other Salesforce products</li>
 							<li>Design Lightning dashboard subscription experience, which enables 2.5M+ dashboard users to send a snapshot of their dashboard as an email; create prototypes &amp; collaborate with engineers to build a high-quality solution within the limits of email technologies</li>
 							<li>Create a set of design patterns for folder management &amp; sharing to accommodate various sharing models across the board (reports, dashboards, files, &amp; accounts sharing)</li>
-							<li>Act as editor of <a href="https://medium.com/salesforce-ux" target="_blank">Salesforce UX blog</a>; evangelize the blog internally and externally, helping it grow from 14K to 20K subscribers; formalize &amp; document the publication process to bring clarity to the blog team &amp; writers; build &amp; deploy a custom Salesforce app to streamline &amp; automate the process</li>
+							<li>Act as head editor of <a href="https://medium.com/salesforce-ux" target="_blank">Salesforce UX blog</a>; evangelize the blog internally and externally, helping it grow from 14K to 20K subscribers; formalize &amp; document the publication process to bring clarity to the blog team &amp; writers; build &amp; deploy a custom Salesforce app to streamline &amp; automate the process</li>
 							<li>Design &amp; build <a href="https://lightningdesignsystem.com/guidelines/messaging/overview/" target="_blank">Lightning Messaging Framework</a>, a UX guideline for messaging patterns in the Salesforce ecosystem; collaborate with writers to create a holistic UI text library that works harmoniously with UI patterns; integrate the documentation into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a></li>
 							<li>Lead design for <a href="https://releasenotes.docs.salesforce.com/en-us/spring16/release-notes/rn_general_inline_editing.htm" target="_blank">Lightning inline edit</a> experience, which allows users to update data efficiently; build prototypes &amp; conduct research to test design concepts; collaborate with engineers to build a high-quality end product that meets product, design, &amp; accessibility requirements</li>
 							<li>Design a refined forms experience as part of a larger application-wide redesign; build a components library &amp; user flows logic to clearly communicate the experience to various stakeholders, including product managers, engineers, &amp; other designers; integrate the components into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a>, which is used by 50+ scrum teams across Salesforce</li>
@@ -66,7 +66,7 @@
 						<h4><a href="http://decisioncounsel.com/" target="_balnk">Decision Counsel</a> &middot;&middot;&middot; 2009&ndash;2011</h4>
 						<ul class="list-text">
 							<li>Build interfaces using standards-compliant HTML/CSS/Javascript &amp; educate clients on best practices</li>
-							<li>Collaborate with the design team to create original visual designs & help build user flows, wireframes, &amp; schematics while fulfilling client&rsquo;s objectives, requirements, &amp; functional needs</li>
+							<li>Collaborate with the design team to create original visual designs &amp; help build user flows, wireframes, &amp; schematics while fulfilling client&rsquo;s objectives, requirements, &amp; functional needs</li>
 							<li>Clients include: Driscoll&rsquo;s, Hanley Wood, Kaspersky Lab, Levi&rsquo;s, Northstar Travel Media</li>
 						</ul>
 					</div>
@@ -90,7 +90,7 @@
 						<h3>Design Intern</h3>
 						<h4><a href="https://www.orbitz.com/" target="_blank">Orbitz</a> &middot;&middot;&middot; Spring &amp; Summer 2006</h4>
 						<ul class="list-text">
-							<li>Assist the in-house design team with daily tasks, such as creating landing pages &amp; call-to-action modules for Orbitz.com & Cheaptickets.com</li>
+							<li>Assist the in-house design team with daily tasks, such as creating landing pages &amp; call-to-action modules for Orbitz.com &amp; Cheaptickets.com</li>
 						</ul>
 					</div>
 				</section>
@@ -113,9 +113,9 @@
 							<ul class="list-text">
 								<li>Lead design for <a href="https://www.salesforce.com/blog/2018/03/einstein-analytics-conversational-queries.html" target="_blank">conversational query in Einstein Analytics</a>, which enables users to ask questions about their own data &amp; receive answers as interactive charts that they can explore further</li>
 								<li>Lead design for onboarding, <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN" target="_blank">product education</a>, &amp; troubleshooting experiences in Einstein Analytics; systemize the design patterns so they are reusable in other Salesforce products</li>
-								<li>Design Lightning dashboard subscription experience, which enables 2.5M+ dashboard users to send a snapshot of their dashboard as an email; create prototypes &amp; collaborate with engineers to build a high-quality solution within the limits of email technologies</li>
+								<li>Design Lightning dashboard subscription experience, which enables 4.2M+ daily dashboard users to send a snapshot of their dashboard as an email; create prototypes &amp; collaborate with engineers to build a high-quality solution within the limits of email technologies</li>
 								<li>Create a set of design patterns for folder management &amp; sharing to accommodate various sharing models across the board (reports, dashboards, files, &amp; accounts sharing)</li>
-								<li>Act as head editor of <a href="https://medium.com/salesforce-ux" target="_blank">Salesforce UX blog</a>; evangelize the blog internally and externally, helping it grow from 14K to 20K subscribers; formalize &amp; document the publication process to bring clarity to the blog team &amp; writers; build &amp; deploy a custom Salesforce app to streamline &amp; automate the process</li>
+								<li>Act as head editor of <a href="https://medium.com/salesforce-ux" target="_blank">Salesforce UX blog</a>; evangelize the blog internally and externally, helping it grow from 14K to 21K subscribers; formalize &amp; document the publication process to bring clarity to the blog team &amp; writers; build &amp; deploy a custom Salesforce app to streamline &amp; automate the process</li>
 								<li>Design &amp; build <a href="https://lightningdesignsystem.com/guidelines/messaging/overview/" target="_blank">Lightning Messaging Framework</a>, a UX guideline for messaging patterns in the Salesforce ecosystem; collaborate with writers to create a holistic UI text library that works harmoniously with UI patterns; integrate the documentation into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a></li>
 								<li>Lead design for <a href="https://releasenotes.docs.salesforce.com/en-us/spring16/release-notes/rn_general_inline_editing.htm" target="_blank">Lightning inline edit</a> experience, which allows users to update data efficiently; build prototypes &amp; conduct research to test design concepts; collaborate with engineers to build a high-quality end product that meets product, design, &amp; accessibility requirements</li>
 								<li>Design a refined forms experience as part of a larger application-wide redesign; build a components library &amp; user flows logic to clearly communicate the experience to various stakeholders, including product managers, engineers, &amp; other designers; integrate the components into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a>, which is used by 50+ scrum teams across Salesforce</li>
@@ -151,7 +151,7 @@
 							<h4><a href="http://decisioncounsel.com/" target="_balnk">Decision Counsel</a> &middot;&middot;&middot; 2009&ndash;2011</h4>
 							<ul class="list-text">
 								<li>Build interfaces using standards-compliant HTML/CSS/Javascript &amp; educate clients on best practices</li>
-								<li>Collaborate with the design team to create original visual designs & help build user flows, wireframes, &amp; schematics while fulfilling client&rsquo;s objectives, requirements, &amp; functional needs</li>
+								<li>Collaborate with the design team to create original visual designs &amp; help build user flows, wireframes, &amp; schematics while fulfilling client&rsquo;s objectives, requirements, &amp; functional needs</li>
 								<li>Clients include: Driscoll&rsquo;s, Hanley Wood, Kaspersky Lab, Levi&rsquo;s, Northstar Travel Media</li>
 							</ul>
 						</div>
@@ -175,7 +175,7 @@
 							<h3>Design Intern</h3>
 							<h4><a href="https://www.orbitz.com/" target="_blank">Orbitz</a> &middot;&middot;&middot; Spring &amp; Summer 2006</h4>
 							<ul class="list-text">
-								<li>Assist the in-house design team with daily tasks, such as creating landing pages &amp; call-to-action modules for Orbitz.com & Cheaptickets.com</li>
+								<li>Assist the in-house design team with daily tasks, such as creating landing pages &amp; call-to-action modules for Orbitz.com &amp; Cheaptickets.com</li>
 							</ul>
 						</div>
 					</section>
@@ -249,7 +249,7 @@
 						<h4>Information Visualization &amp; Presentation, UC Berkeley School of Information &middot;&middot;&middot; Spring 2014</h4>
 						<ul class="list-text">
 							<li>Support Professor Marti Hearst by leading design critiques, grading assignments, &amp; tutoring students</li>
-							<li>Teach a weekly lab session that covers web & visualization technologies, such as Adobe Illustrator, HTML, CSS, jQuery, &amp; d3</li>
+							<li>Teach a weekly lab session that covers web &amp; visualization technologies, such as Adobe Illustrator, HTML, CSS, jQuery, &amp; d3</li>
 						</ul>
 					</div>
 					<div class="container-section-item">
