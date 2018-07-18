@@ -13,7 +13,7 @@
 	<body class="with-cover">
 		<?php include "_inc/nav.php" ?>
 
-		<div class="cover"><img src="_images/work-conversational-analytics-cover.png" alt="work-conversational-analytics-cover" width="1280" height="1024"></div>
+		<div class="cover"><img src="_images/work-lightning-messaging-framework-cover.png" alt="work-lightning-messaging-framework-cover" width="1600" height="1200"></div>
 
 		<header>
 			<div class="title">

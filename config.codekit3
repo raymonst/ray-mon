@@ -9,6 +9,39 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/_assets\/_MG_4320.JPG": {
+		"ft": 16384,
+		"iS": 6111837,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/_assets\/_MG_4320.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/_MG_4335.JPG": {
+		"ft": 16384,
+		"iS": 6627228,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "\/_assets\/_MG_4335.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/Captura de pantalla 2012-10-06 a las 9.36.36 PM.png": {
+		"ft": 32768,
+		"iS": 547243,
+		"oA": 0,
+		"oAP": "\/_assets\/Captura de pantalla 2012-10-06 a las 9.36.36 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_assets\/conversational-analytics-personas.png": {
 		"ft": 32768,
 		"iS": 223588,
@@ -152,7 +185,14 @@
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-R9W1GO",
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-8FFcLP",
+		"oF": 0
+		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-8FFcLP": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-8FFcLP",
 		"oF": 0
 		},
 	"\/_assets\/diagram.sketch.sb-8f18d370-9tjhwj": {
@@ -162,11 +202,18 @@
 		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-9tjhwj",
 		"oF": 0
 		},
-	"\/_assets\/diagram.sketch.sb-8f18d370-gujIHi": {
+	"\/_assets\/diagram.sketch.sb-8f18d370-Bim6UN": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-gujIHi",
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-Bim6UN",
+		"oF": 0
+		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-ekFHil": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-ekFHil",
 		"oF": 0
 		},
 	"\/_assets\/diagram.sketch.sb-8f18d370-H4FA4u": {
@@ -190,11 +237,25 @@
 		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-LFVVjS",
 		"oF": 0
 		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-nyBu7O": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-nyBu7O",
+		"oF": 0
+		},
 	"\/_assets\/diagram.sketch.sb-8f18d370-R9W1GO": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-R9W1GO",
+		"oF": 0
+		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-RbxS6S": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-RbxS6S",
 		"oF": 0
 		},
 	"\/_assets\/diagram.sketch.sb-8f18d370-wbUpmu": {
@@ -530,6 +591,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_assets\/Screen Shot 2018-07-15 at 10.00.18 PM.png": {
+		"ft": 32768,
+		"iS": 427128,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 10.00.18 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_assets\/Screen Shot 2018-07-15 at 2.26.39 PM.png": {
 		"ft": 32768,
 		"iS": 29641,
@@ -645,6 +717,50 @@
 		"iS": 559075,
 		"oA": 0,
 		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 7.45.11 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-15 at 9.54.13 PM.png": {
+		"ft": 32768,
+		"iS": 588633,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-15 at 9.54.13 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-17 at 8.30.22 PM.png": {
+		"ft": 32768,
+		"iS": 1261141,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-17 at 8.30.22 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/x1.png": {
+		"ft": 32768,
+		"iS": 284174,
+		"oA": 0,
+		"oAP": "\/_assets\/x1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/x2.png": {
+		"ft": 32768,
+		"iS": 156117,
+		"oA": 0,
+		"oAP": "\/_assets\/x2.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -975,7 +1091,7 @@
 		"oAP": "\/_images\/work-giorgio-armani-beauty-foundation-world-cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/work-lightning-messaging-framework-classic.png": {
@@ -1022,6 +1138,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_images\/work-lightning-messaging-framework-cover.png": {
+		"ft": 32768,
+		"iS": 262312,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-cover.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_images\/work-lightning-messaging-framework-error.png": {
 		"ft": 32768,
 		"iS": 46097,
@@ -1044,6 +1171,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_images\/work-lightning-messaging-framework-mental-model.png": {
+		"ft": 32768,
+		"iS": 61880,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-mental-model.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_images\/work-lightning-messaging-framework-posters.jpg": {
 		"ft": 16384,
 		"iS": 161640,
@@ -1053,6 +1191,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/_images\/work-lightning-messaging-framework-site.jpg": {
+		"ft": 16384,
+		"iS": 154198,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-lightning-messaging-framework-site.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_images\/work-lightning-messaging-framework-sketches.png": {
@@ -1127,8 +1276,8 @@
 		"oA": 0,
 		"oAP": "\/_images\/work-sams-cover.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1195,7 +1344,7 @@
 		"oAP": "\/_images\/work-streetsavvy-cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/work-transit-quality-equity-01.jpg": {
@@ -1261,6 +1410,39 @@
 		"oAP": "\/_images\/work-transit-quality-equity-cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_images\/work-writing-designing-more-efficient-forms.png": {
+		"ft": 32768,
+		"iS": 5138,
+		"oA": 0,
+		"oAP": "\/_images\/work-writing-designing-more-efficient-forms.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-writing-designing-the-not-so-happy-paths.jpg": {
+		"ft": 16384,
+		"iS": 80018,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-writing-designing-the-not-so-happy-paths.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-writing-turning-constraints-into-catalysts-for-creativity.jpg": {
+		"ft": 16384,
+		"iS": 42192,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-writing-turning-constraints-into-catalysts-for-creativity.jpg",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -1278,7 +1460,7 @@
 		"oAP": "\/_inc\/nav.php",
 		"oF": 0
 		},
-	"\/_inc\/work-list.php": {
+	"\/_inc\/work-LIST.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,

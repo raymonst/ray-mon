@@ -13,7 +13,7 @@
 	<body class="with-cover">
 		<?php include "_inc/nav.php" ?>
 		
-		<div class="cover"><img src="_images/work-streetsavvy-cover.jpg" alt="work-streetsavvy-cover" width="700" height="432"></div>
+		<div class="cover"><img src="_images/work-streetsavvy-cover.jpg" alt="work-streetsavvy-cover" width="1000" height="750"></div>
 		
 		<header>
 			<div class="title">

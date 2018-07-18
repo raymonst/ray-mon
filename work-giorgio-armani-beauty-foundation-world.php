@@ -13,7 +13,7 @@
 	<body class="with-cover">
 		<?php include "_inc/nav.php" ?>
 
-		<div class="cover"><img src="_images/work-giorgio-armani-beauty-foundation-world-cover.jpg" alt="work-giorgio-armani-beauty-foundation-world-cover" width="700" height="432"></div>
+		<div class="cover"><img src="_images/work-giorgio-armani-beauty-foundation-world-cover.jpg" alt="work-giorgio-armani-beauty-foundation-world-cover" width="800" height="600"></div>
 		<header>
 			<div class="title">
 				<h1><?php echo $workSelected[0]?></h1>
