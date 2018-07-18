@@ -490,14 +490,20 @@ nav {
 		grid-row: row 1 / span 8;
 		position: relative;
 		
-		img {
-			box-shadow: 0 4px 12px #eaeaea;			
-			height: auto;
-			width: 100%;	
-		}
-
 		a {
-			
+
+			img {
+				box-shadow: 0 4px 16px #e0e0e0;			
+				height: auto;
+				width: 100%;	
+				transition: all 0.2s ease;
+
+				&:hover {
+					box-shadow: 0 2px 4px #eaeaea;	    	    
+				}
+
+			}
+
 			&:hover {
 				background: none;
 	/*
@@ -505,11 +511,7 @@ nav {
 	    	    -ms-transform: rotateZ(-1deg) scale(0.99);
 	    	    transform: rotateZ(-1deg) scale(0.99);
 	*/
-				transform: translateY(2px);
-	    	    
-	    	    img {
-					box-shadow: 0 2px 4px #eaeaea;	    	    
-	    	    }
+				transform: translateY(2px);	    	    
 	    	}
 		}
 
@@ -591,7 +593,7 @@ nav {
 			}
 
 			a:hover img {
-				box-shadow: 0 1px 3px #eee;				
+				box-shadow: 0 1px 2px #eaeaea;				
 			}
 		}
 		

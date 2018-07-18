@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/_assets\/_MG_4320.JPG": {
 		"ft": 16384,
 		"iS": 6111837,
@@ -185,7 +192,7 @@
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-8FFcLP",
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-ekFHil",
 		"oF": 0
 		},
 	"\/_assets\/diagram.sketch.sb-8f18d370-8FFcLP": {
@@ -1460,7 +1467,7 @@
 		"oAP": "\/_inc\/nav.php",
 		"oF": 0
 		},
-	"\/_inc\/work-LIST.php": {
+	"\/_inc\/work-list.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
