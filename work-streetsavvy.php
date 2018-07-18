@@ -46,7 +46,7 @@
 						</figure>
 						<figure>
 							<img src="_images/work-streetsavvy-02.jpg" alt="work-streetsavvy-01" width="700" height="432">
-							<figcaption>Talking to potential users about pedestrian safety (L) &amp; conducting usability testing (R)</figcaption>
+							<figcaption>Talking to potential users about pedestrian safety (left) &amp; conducting usability testing (right)</figcaption>
 						</figure>
 						<figure>
 							<img src="_images/work-streetsavvy-03.jpg" alt="work-streetsavvy-01" width="700" height="432">
