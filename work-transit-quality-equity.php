@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<?php include "_inc/head.php" ?>
+		<?php $page = "work"; include "_inc/head.php" ?>
 		<title>Raymon Sutedjo-The / <?php echo $workSelected[0]?></title>
 	</head>
 
@@ -42,23 +42,23 @@
 						<p>The project has been featured on <a href="https://www.citylab.com/transportation/2013/05/mapping-equality-bus/5487/" target="_blank">Citylab</a> and <a href="https://www.fastcodesign.com/1681868/3-creative-ways-to-visualize-urban-public-transportation" target="_blank">Fast Company Design</a>.</p>
 						<br/>
 						<figure>
-							<img src="_images/work-transit-quality-equity-01.jpg" alt="work-transit-quality-equity-01" width="1600" height="900">									<figcaption>Project summary</figcaption>
+							<img src="_images/work-transit-quality-equity-01.jpg" alt="work-transit-quality-equity-01" width="1600" height="900">										<figcaption>Project summary</figcaption>
 						</figure>
 						<figure>
 							<img src="_images/work-transit-quality-equity-02.jpg" alt="work-transit-quality-equity-01" width="1600" height="900">
 							<figcaption>Surfacing transit performance data</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-transit-quality-equity-03.jpg" alt="work-transit-quality-equity-01" width="1600" height="900">									<figcaption>Adding a layer of economic data as indicators of equity</figcaption>
+							<img src="_images/work-transit-quality-equity-03.jpg" alt="work-transit-quality-equity-01" width="1600" height="900">										<figcaption>Adding a layer of economic data as indicators of equity</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-transit-quality-equity-04.jpg" alt="work-transit-quality-equity-01" width="1600" height="900">									<figcaption>Same visualization, different city</figcaption>
+							<img src="_images/work-transit-quality-equity-04.jpg" alt="work-transit-quality-equity-01" width="1600" height="900">										<figcaption>Same visualization, different city</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-transit-quality-equity-05.jpg" alt="work-transit-quality-equity-01" width="1600" height="900">									<figcaption>Same visualization, different city (with economic data turned off)</figcaption>
+							<img src="_images/work-transit-quality-equity-05.jpg" alt="work-transit-quality-equity-01" width="1600" height="900">										<figcaption>Same visualization, different city (with economic data turned off)</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-transit-quality-equity-06.jpg" alt="work-transit-quality-equity-01" width="1600" height="900">									<figcaption>Investigating the role of data visualization in city planning</figcaption>
+							<img src="_images/work-transit-quality-equity-06.jpg" alt="work-transit-quality-equity-06" width="1000" height="1500">										<figcaption>Investigating the role of data visualization in city planning</figcaption>
 						</figure>
 					</div>
 				</section>

@@ -16,6 +16,28 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/_assets\/2013-04-17 17.19.47.jpg": {
+		"ft": 16384,
+		"iS": 1172775,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/2013-04-17 17.19.47.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/2013-05-03 23.54.32.jpg": {
+		"ft": 16384,
+		"iS": 1427402,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/2013-05-03 23.54.32.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_assets\/_MG_4320.JPG": {
 		"ft": 16384,
 		"iS": 6111837,
@@ -188,11 +210,25 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_assets\/CYPLAN290G-hw-02-3.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/CYPLAN290G-hw-02-3.pdf",
+		"oF": 0
+		},
 	"\/_assets\/diagram.sketch": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-ekFHil",
+		"oF": 0
+		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-4y33Jy": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-4y33Jy",
 		"oF": 0
 		},
 	"\/_assets\/diagram.sketch.sb-8f18d370-8FFcLP": {
@@ -503,6 +539,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_assets\/INFO247-hw-05-1.jpg": {
+		"ft": 16384,
+		"iS": 181134,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/INFO247-hw-05-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_assets\/Messaging States - Lightning Design System (2018-07-15 19-24-44).png": {
 		"ft": 32768,
 		"iS": 2543229,
@@ -752,6 +799,83 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_assets\/Screen Shot 2018-07-18 at 10.59.15 PM.png": {
+		"ft": 32768,
+		"iS": 5795613,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-18 at 10.59.15 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-18 at 11.09.22 PM.png": {
+		"ft": 32768,
+		"iS": 2014177,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-18 at 11.09.22 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-18 at 11.09.39 PM.png": {
+		"ft": 32768,
+		"iS": 5321807,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-18 at 11.09.39 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-18 at 11.10.34 PM.png": {
+		"ft": 32768,
+		"iS": 3078924,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-18 at 11.10.34 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-18 at 11.10.52 PM.png": {
+		"ft": 32768,
+		"iS": 4557355,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-18 at 11.10.52 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-18 at 11.11.44 PM.png": {
+		"ft": 32768,
+		"iS": 5581665,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-18 at 11.11.44 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_assets\/Screen Shot 2018-07-18 at 11.12.00 PM.png": {
+		"ft": 32768,
+		"iS": 1591075,
+		"oA": 0,
+		"oAP": "\/_assets\/Screen Shot 2018-07-18 at 11.12.00 PM.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_assets\/x1.png": {
 		"ft": 32768,
 		"iS": 284174,
@@ -901,6 +1025,61 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-analytics-learning-app-01.jpg": {
+		"ft": 16384,
+		"iS": 300675,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-analytics-learning-app-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-analytics-learning-app-02.jpg": {
+		"ft": 16384,
+		"iS": 258856,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-analytics-learning-app-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-analytics-learning-app-03.jpg": {
+		"ft": 16384,
+		"iS": 257147,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-analytics-learning-app-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-analytics-learning-app-04.jpg": {
+		"ft": 16384,
+		"iS": 259677,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-analytics-learning-app-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-analytics-learning-app-cover.png": {
+		"ft": 32768,
+		"iS": 246420,
+		"oA": 0,
+		"oAP": "\/_images\/work-analytics-learning-app-cover.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/_images\/work-conversational-analytics-cover.png": {
@@ -1288,6 +1467,116 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_images\/work-sf-transit-history-01.jpg": {
+		"ft": 16384,
+		"iS": 65873,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sf-transit-history-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_images\/work-sf-transit-history-02.jpg": {
+		"ft": 16384,
+		"iS": 97687,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sf-transit-history-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_images\/work-sf-transit-history-03.jpg": {
+		"ft": 16384,
+		"iS": 58270,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sf-transit-history-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_images\/work-sf-transit-history-04.jpg": {
+		"ft": 16384,
+		"iS": 144986,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sf-transit-history-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_images\/work-sf-transit-history-05.jpg": {
+		"ft": 16384,
+		"iS": 113614,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sf-transit-history-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_images\/work-sf-transit-history-06.jpg": {
+		"ft": 16384,
+		"iS": 75389,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sf-transit-history-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_images\/work-sf-transit-history-07.jpg": {
+		"ft": 16384,
+		"iS": 472362,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sf-transit-history-07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-sf-transit-history-08.jpg": {
+		"ft": 16384,
+		"iS": 448389,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sf-transit-history-08.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-sf-transit-history-09.jpg": {
+		"ft": 16384,
+		"iS": 254088,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sf-transit-history-09.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/work-sf-transit-history-cover.jpg": {
+		"ft": 16384,
+		"iS": 186411,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-sf-transit-history-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_images\/work-streetsavvy-01.jpg": {
 		"ft": 16384,
 		"iS": 61000,
@@ -1409,6 +1698,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_images\/work-transit-quality-equity-06.jpg": {
+		"ft": 16384,
+		"iS": 300973,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/work-transit-quality-equity-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/_images\/work-transit-quality-equity-cover.jpg": {
 		"ft": 16384,
 		"iS": 235585,
@@ -1525,6 +1825,13 @@
 		"oAP": "\/robots.txt",
 		"oF": 0
 		},
+	"\/work-analytics-learning-app.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/work-analytics-learning-app.php",
+		"oF": 0
+		},
 	"\/work-conversational-analytics.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -1551,6 +1858,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/work-sams.php",
+		"oF": 0
+		},
+	"\/work-sf-transit-history.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/work-sf-transit-history.php",
 		"oF": 0
 		},
 	"\/work-streetsavvy.php": {

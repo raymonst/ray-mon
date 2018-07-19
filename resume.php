@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<?php include "_inc/head.php" ?>
+		<?php $page = "resume"; include "_inc/head.php" ?>
 		<title>Raymon Sutedjo-The / Resume</title>
 	</head>
 

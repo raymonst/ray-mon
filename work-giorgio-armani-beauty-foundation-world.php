@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<?php include "_inc/head.php" ?>
+		<?php $page = "work"; include "_inc/head.php" ?>
 		<title>Raymon Sutedjo-The / <?php echo $workSelected[0]?></title>
 	</head>
 
