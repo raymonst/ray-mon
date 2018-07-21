@@ -26,18 +26,18 @@
 				
 				<li>
 					<figure><a href="work-conversational-analytics.php"><img src="_images/work-conversational-analytics-cover.png" alt="" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-conversational-analytics.php"><?php echo $work["conversational-analytics"][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work["conversational-analytics"][1]?></span></div>
+					<div class="list-item-visual-title"><span><a href="work-conversational-analytics.php"><?php echo $work[0][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work[0][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-lightning-messaging-framework.php"><img src="_images/work-lightning-messaging-framework-cover.png" alt="work-lightning-messaging-framework-cover" width="1600" height="1200"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-lightning-messaging-framework.php"><?php echo $work["lightning-messaging-framework"][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work["lightning-messaging-framework"][1]?></span></div>
+					<div class="list-item-visual-title"><span><a href="work-lightning-messaging-framework.php"><?php echo $work[1][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work[1][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-analytics-learning-app.php"><img src="_images/work-analytics-learning-app-cover.png" alt="work-analytics-learning-app-cover" width="1200" height="900"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-analytics-learning-app.php"><?php echo $work["analytics-learning-app"][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work["analytics-learning-app"][1]?></span></div>
+					<div class="list-item-visual-title"><span><a href="work-analytics-learning-app.php"><?php echo $work[2][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work[2][1]?></span></div>
 				</li>
 			</ul>
 
@@ -46,28 +46,28 @@
 			<ul class="list-item-visual list-item-visual-s">
 				<li>
 					<figure><a href="work-transit-quality-equity.php"><img src="_images/work-transit-quality-equity-cover.jpg" alt="work-transit-quality-equity-cover" width="1200" height="900"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-transit-quality-equity.php"><?php echo $work["transit-quality-equity"][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work["transit-quality-equity"][1]?></span></div>
+					<div class="list-item-visual-title"><span><a href="work-transit-quality-equity.php"><?php echo $work[3][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work[3][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-sams.php"><img src="_images/work-sams-cover.png" alt="work-sams-cover" width="1152" height="864"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-sams.php"><?php echo $work["sams"][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work["sams"][1]?></span></div>
+					<div class="list-item-visual-title"><span><a href="work-sams.php"><?php echo $work[4][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work[4][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-streetsavvy.php"><img src="_images/work-streetsavvy-cover.jpg" alt="work-streetsavvy-cover" width="1000" height="750"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-streetsavvy.php"><?php echo $work["streetsavvy"][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work["streetsavvy"][1]?></span></div>
+					<div class="list-item-visual-title"><span><a href="work-streetsavvy.php"><?php echo $work[5][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work[5][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-sf-transit-history.php"><img src="_images/work-sf-transit-history-cover.jpg" alt="work-sf-transit-history-cover" width="1000" height="750"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-sf-transit-history.php"><?php echo $work["sf-transit-history"][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work["sf-transit-history"][1]?></span></div>
+					<div class="list-item-visual-title"><span><a href="work-sf-transit-history.php"><?php echo $work[6][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work[6][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-giorgio-armani-beauty-foundation-world.php"><img src="_images/work-giorgio-armani-beauty-foundation-world-cover.jpg" alt="work-giorgio-armani-beauty-foundation-world-cover" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-giorgio-armani-beauty-foundation-world.php"><?php echo $work["giorgio-armani-beauty-foundation-world"][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work["giorgio-armani-beauty-foundation-world"][1]?></span></div>
+					<div class="list-item-visual-title"><span><a href="work-giorgio-armani-beauty-foundation-world.php"><?php echo $work[7][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work[7][1]?></span></div>
 				</li>
 			</ul>
 

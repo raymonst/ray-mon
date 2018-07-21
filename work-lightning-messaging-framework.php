@@ -1,6 +1,7 @@
 <?php 
 	include "_inc/work-list.php";
-	$workSelected = $work["lightning-messaging-framework"];
+	$key = 1;
+	$workSelected = $work[$key];
 ?>
 
 <!DOCTYPE html>
@@ -176,6 +177,8 @@
 					</div>
 				</section>
 			</div>
+
+			<?php include "_inc/work-links.php" ?>
 
 		</main>
 

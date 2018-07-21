@@ -1,6 +1,7 @@
 <?php 
 	include "_inc/work-list.php";
-	$workSelected = $work["giorgio-armani-beauty-foundation-world"];
+	$key = 7;
+	$workSelected = $work[$key];
 ?>
 
 <!DOCTYPE html>
@@ -66,6 +67,8 @@
 					</div>
 				</section>
 			</div>
+
+			<?php include "_inc/work-links.php" ?>
 
 		</main>
 

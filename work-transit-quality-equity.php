@@ -1,6 +1,7 @@
 <?php 
 	include "_inc/work-list.php";
-	$workSelected = $work["transit-quality-equity"];
+	$key = 3;
+	$workSelected = $work[$key];
 ?>
 
 <!DOCTYPE html>
@@ -63,6 +64,8 @@
 					</div>
 				</section>
 			</div>
+		
+			<?php include "_inc/work-links.php" ?>
 
 		</main>
 

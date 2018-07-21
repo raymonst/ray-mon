@@ -1,6 +1,7 @@
 <?php 
 	include "_inc/work-list.php";
-	$workSelected = $work["sf-transit-history"];
+	$key = 6;
+	$workSelected = $work[$key];
 ?>
 
 <!DOCTYPE html>
@@ -73,6 +74,8 @@
 					</div>
 				</section>
 			</div>
+
+			<?php include "_inc/work-links.php" ?>
 
 		</main>
 

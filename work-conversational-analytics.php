@@ -1,6 +1,7 @@
 <?php 
 	include "_inc/work-list.php";
-	$workSelected = $work["conversational-analytics"];
+	$key = 0;
+	$workSelected = $work[$key];
 ?>
 
 <!DOCTYPE html>
@@ -173,6 +174,8 @@
 					</div>
 				</section>
 			</div>
+
+			<?php include "_inc/work-links.php" ?>
 
 		</main>
 

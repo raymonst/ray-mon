@@ -1,6 +1,7 @@
 <?php 
 	include "_inc/work-list.php";
-	$workSelected = $work["analytics-learning-app"];
+	$key = 2;
+	$workSelected = $work[$key];
 ?>
 
 <!DOCTYPE html>
@@ -63,6 +64,9 @@
 					</div>
 				</section>
 			</div>
+
+			<?php include "_inc/work-links.php" ?>
+
 		</main>
 
 		<?php include "_inc/footer.php" ?>
