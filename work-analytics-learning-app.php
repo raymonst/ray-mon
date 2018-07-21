@@ -40,6 +40,7 @@
 						<blockquote>
 							<p>This is so meta, the[y] built a suite of dashboards to teach you how to build dashboards. I love it! Very clean, easy to follow, and well made.</p>
 							<span>&mdash;Peter Lyons, Senior Associate at Huron Consulting Group</span>
+							<div class="quote-decoration">&nbsp;</div>
 						</blockquote>
 						<p>The learning app is one manifestation of the larger &ldquo;learning journeys&rdquo; design effort in Salesforce. It originated as a one-off solution specific to Einstein Analytics, but given its success, we are looking into how to replicate this learning experience in other products.</p>
 						<br/>
@@ -63,6 +64,9 @@
 				</section>
 			</div>
 		</main>
+
+		<?php include "_inc/footer.php" ?>
+
 	</body>
 
 </html>

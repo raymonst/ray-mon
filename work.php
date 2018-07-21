@@ -14,7 +14,7 @@
 		
 		<header>
 			<div class="title">
-				<h1>SELECTED WORKS</h1>
+				<h1>SELECTED DESIGN WORKS</h1>
 			</div>
 		</header>
 		
@@ -92,6 +92,8 @@
 			</ul>
 
 		</main>
+		
+		<?php include "_inc/footer.php" ?>		
 		
 	</body>
 

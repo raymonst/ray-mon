@@ -7,12 +7,18 @@ $(document).ready(function() {
 	
 	var randomColor = Math.floor(Math.random() * 6);
 	$("#nav-link-home span").css({"color":colors[randomColor]});
-// 	$("#nav-link-home").css({"border-color":colors[randomColor]});
 	
 	if ($("body").hasClass("with-cover")) {
 		$("nav").addClass("transparent");	
-
+		
 		var offset = $(".container").offset().top;
+
+		if ($(window).scrollTop() > (offset - 72)) {
+			$("nav").removeClass("transparent");	
+		} else {
+			$("nav").addClass("transparent");	
+		}		
+
 		$(window).scroll(function(){
 			
 			if ($(window).scrollTop() > (offset - 72)) {

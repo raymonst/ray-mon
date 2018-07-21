@@ -1753,6 +1753,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_inc\/footer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_inc\/footer.php",
+		"oF": 0
+		},
 	"\/_inc\/head.php": {
 		"cB": 0,
 		"ft": 8192,

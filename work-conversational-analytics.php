@@ -117,6 +117,7 @@
 						<blockquote>
 							<p>I&rsquo;ve seen features like this in the past and they usually give generic answers.</p>
 							<span>&mdash;Call Center Supervisor</span>
+							<div class="quote-decoration">&nbsp;</div>
 						</blockquote>
 						<p>After trying out some approaches, I eventually created a set of interaction flows to show all the different micro-interaction patterns, including base patterns for keyboard and mouse as well as more complex query logic (e.g. how to show filter values, relative dates, etc.).</p>
 						<figure>
@@ -167,12 +168,16 @@
 						<blockquote>
 							<p>Conversational Queries is going to be a huge game-changer in the AI and BI space. Having the ability to ask questions and gain key insights into our data just by typing or speaking a few words is amazing.</p>
 							<span>&mdash;Rick Nania, Director of CRM Operations at Active International</span>
+							<div class="quote-decoration">&nbsp;</div>
 						</blockquote>
 					</div>
 				</section>
 			</div>
 
 		</main>
+
+		<?php include "_inc/footer.php" ?>
+		
 	</body>
 
 </html>
