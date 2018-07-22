@@ -37,18 +37,18 @@
 			<ul class="list-item-visual list-item-visual-s">
 				<li>
 					<figure><a href="work-conversational-analytics.php"><img src="_images/work-conversational-analytics-cover.png" alt="" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-conversational-analytics.php"><?php echo $work["conversational-analytics"][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work["conversational-analytics"][1]?></span></div>
+					<div class="list-item-visual-title"><span><a href="work-conversational-analytics.php"><?php echo $work[0][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work[0][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-lightning-messaging-framework.php"><img src="_images/work-lightning-messaging-framework-cover.png" alt="work-lightning-messaging-framework-cover" width="1600" height="1200"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-lightning-messaging-framework.php"><?php echo $work["lightning-messaging-framework"][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work["lightning-messaging-framework"][1]?></span></div>
+					<div class="list-item-visual-title"><span><a href="work-lightning-messaging-framework.php"><?php echo $work[1][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work[1][1]?></span></div>
 				</li>
 				<li>
 					<figure><a href="work-analytics-learning-app.php"><img src="_images/work-analytics-learning-app-cover.png" alt="work-analytics-learning-app-cover" width="1200" height="900"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-analytics-learning-app.php"><?php echo $work["analytics-learning-app"][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work["analytics-learning-app"][1]?></span></div>
+					<div class="list-item-visual-title"><span><a href="work-analytics-learning-app.php"><?php echo $work[2][0]?></a></span></div>
+					<div class="list-item-visual-description"><span><?php echo $work[2][1]?></span></div>
 				</li>
 				<li class="link-tile">
 					<div><a href="work.php">See all</a><div id="link-decoration">&nbsp;</div>&nbsp;</div>

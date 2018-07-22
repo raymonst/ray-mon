@@ -252,6 +252,13 @@
 		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-Bim6UN",
 		"oF": 0
 		},
+	"\/_assets\/diagram.sketch.sb-8f18d370-BUBsiG": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_assets\/diagram.sketch.sb-8f18d370-BUBsiG",
+		"oF": 0
+		},
 	"\/_assets\/diagram.sketch.sb-8f18d370-ekFHil": {
 		"cB": 0,
 		"ft": 8192,
@@ -1406,6 +1413,28 @@
 		"iS": 66389,
 		"oA": 0,
 		"oAP": "\/_images\/work-lightning-messaging-framework-states.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-links-next.png": {
+		"ft": 32768,
+		"iS": 473,
+		"oA": 0,
+		"oAP": "\/_images\/work-links-next.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_images\/work-links-prev.png": {
+		"ft": 32768,
+		"iS": 482,
+		"oA": 0,
+		"oAP": "\/_images\/work-links-prev.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

@@ -78,7 +78,7 @@ body {
 
 footer {
 	background: $color-brand;
-	-webkit-clip-path: polygon(0 0, 100% 21rem, 100% 100%, 0 100%);
+	-webkit-clip-path: polygon(0 0, 100% 2rem, 100% 100%, 0 100%);
 	clip-path: polygon(0 0, 100% 2rem, 100% 100%, 0 100%);
 	color: $color-text-dark;
 	font-size: .75rem;
@@ -413,6 +413,8 @@ nav {
 .cover {
 	background: linear-gradient(#312A1E, #0c0c0c);// 
 	box-shadow: inset 0 -16px 16px -8px #000;	
+	-webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 28rem);
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 28rem);
 	left: 0;
 	height: 30rem;
 	overflow: hidden;
@@ -456,7 +458,7 @@ nav {
 	.role {
 		color: #ddd;
 		font-size: .625rem;
-		margin: 0 0 1rem 0;
+		margin: 0 0 3rem 0;
 		padding: 0;
 		text-transform: uppercase;
 		
@@ -800,6 +802,62 @@ nav {
 
 
 
+#work-links {
+	display: flex;
+	font-size: .8125rem;	
+	hyphens: auto;
+	justify-content: space-between;
+	margin: 2rem 0 0 0;
+
+	h4 {
+		font-weight: 500;
+		line-height: 1.25;
+		margin: 0 0 .25rem 0;
+	}
+	
+	span {
+		font-size: .625rem;
+	}
+		
+	#work-links-prev,
+	#work-links-next {
+		background-size: 1rem;
+		border: 1px dotted $color-brand;
+		display: block;
+		padding: .75rem 1rem;
+		position: relative;
+		transition: transform 0.2s ease, background 0.4s ease;
+		width: 30%;		
+	}
+	
+	#work-links-next {
+		background: url("../_images/work-links-next.png") -20% .8125rem no-repeat;
+		background-size: 1rem;
+		text-align: right;
+		
+		&:focus,
+		&:hover {
+			background: url("../_images/work-links-next.png") 5% .8125rem no-repeat;
+			background-size: 1rem;
+			transform: translateX(2px);
+		}
+	}
+
+	#work-links-prev {
+		background: url("../_images/work-links-prev.png") 120% .8125rem no-repeat;
+		background-size: 1rem;
+		
+		&:focus,
+		&:hover {
+			background: url("../_images/work-links-prev.png") 95% .8125rem no-repeat;
+			background-size: 1rem;
+			transform: translateX(-2px);
+		}
+	}
+}
+
+
+
 /* ============================================================ */
 /* MOBILE STYLES */
 
@@ -946,6 +1004,22 @@ nav {
 		}
 		
 			
+	}
+
+	#work-links {
+		flex-direction: column;
+		
+		#work-links-next {
+			float: right;
+			margin-left: auto;
+			width: 80%;
+		}
+		
+		#work-links-prev {
+			margin: 0 0 1rem 0;
+			justify-content: flex-start;			
+			width: 80%;
+		}
 	}
 			
 }
