@@ -7,16 +7,14 @@
 <html>
 	<head>
 		<?php include "_inc/head.php" ?>
-		<title>Raymon Sutedjo-The / UX Design</title>
+		<title>Raymon Sutedjo-The / Product/UX Design</title>
 	</head>
 
 	<body class="with-cover home">
 		<?php include "_inc/nav.php" ?>
 		<div class="cover">
 			<div class="cover-mask">&nbsp;</div>
-			<?php 
-				echo '<img src="_images/home-' . random_int(1, 10) . '.jpg" alt="Cover image">' 
-			?>
+			<?php  echo '<img src="_images/home-' . rand(1, 10) . '.jpg" alt="Cover image">' ?>
 		</div>
 		<header>
 			<div class="container-header">
@@ -28,7 +26,7 @@
 		<main class="container">
 			<div id="bio">
 				<div class="intro">I&rsquo;m Raymon Sutedjo-The, <br/>a product/UX designer</div>
-				<div class="intro-secondary">&hellip; &amp; <?php echo $tidbits[random_int(0, 9)]?></div>
+				<div class="intro-secondary">&hellip; &amp; <?php echo $tidbits[rand (0, 9)]?></div>
 				<div class="intro-tertiary">
 					<p><strong>(Skip to <a href="resume.php">resume</a> or <a href="work.php">portfolio</a>)</strong></p>
 					<p>My design journey officially started when I attended the <a href="http://www.saic.edu/" target="_blank">School of the Art Institute of Chicago</a>, where I dabbled in fine arts before eventually graduating with a BFA in Visual Communication. I stayed in Chicago afterwards and worked at a number of digital agencies as both a visual designer and front-end developer, which gave me a broad exposure to the field. </p>
