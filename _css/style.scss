@@ -82,7 +82,7 @@ footer {
 	clip-path: polygon(0 0, 100% 2rem, 100% 100%, 0 100%);
 	color: $color-text-dark;
 	font-size: .75rem;
-	padding: 2rem 0 0 0;
+	padding: 3rem 0 0 0;
 	width: 100%;
 	
 	a {
@@ -250,6 +250,7 @@ hr.separator {
 	display: block;
 	font-size: 3rem;
 	font-style: italic;
+	font-weight: 500;
 	line-height: 1.25;
 	margin: 0 0 4rem 0;
 }
@@ -1009,7 +1010,6 @@ nav {
 		margin-right: 0;
 	}
 	
-	
 	.home {	
 		
 		header {
@@ -1021,8 +1021,9 @@ nav {
 		}
 		
 		#header-decoration {
-			height: 18rem;
-			width: 16rem;
+			height: 19rem;
+			width: 19rem;
+			left: -6%;
 			top: -1rem;
 		}
 		
@@ -1031,7 +1032,7 @@ nav {
 			grid-template-rows: repeat(auto, [row] auto);
 	
 			.intro {
-				font-size: 1.5rem;
+				font-size: 1.75rem;
 				grid-column: col 1 / span 4;
 				grid-row: row 1 / span 1;
 				margin: 0 0 2rem 0;
@@ -1074,6 +1075,12 @@ nav {
 					transform: rotateZ(-5deg);
 				}
 	
+			}
+		}
+		
+		.cover {
+			img {
+				margin-top: 0;
 			}
 		}
 	}
