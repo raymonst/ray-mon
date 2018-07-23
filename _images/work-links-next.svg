@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>xxxx</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="xxxx" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(2.000000, 4.000000)" fill="#F9A400" fill-rule="nonzero">
+            <rect id="Rectangle-2" x="0" y="10" width="30" height="4" rx="2"></rect>
+            <rect id="Rectangle" transform="translate(23.071068, 7.071068) rotate(45.000000) translate(-23.071068, -7.071068) " x="15.0710678" y="5.07106781" width="16" height="4" rx="2"></rect>
+            <rect id="Rectangle-Copy" transform="translate(23.071068, 17.071068) rotate(45.000000) translate(-23.071068, -17.071068) " x="21.0710678" y="9.07106781" width="4" height="16" rx="2"></rect>
+        </g>
+    </g>
+</svg>

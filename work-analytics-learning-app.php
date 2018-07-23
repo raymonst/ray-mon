@@ -50,16 +50,20 @@
 							<figcaption>App demo</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-analytics-learning-app-01.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										<figcaption>The app is divided into themes which cater to different skill levels</figcaption>
+							<img src="_images/work-analytics-learning-app-01.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										
+							<figcaption>The app is divided into themes which cater to different skill levels</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-analytics-learning-app-02.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										<figcaption>Live in-app chart examples with detailed guidelines</figcaption>
+							<img src="_images/work-analytics-learning-app-02.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										
+							<figcaption>Live in-app chart examples with detailed guidelines</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-analytics-learning-app-03.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										<figcaption>Live in-app chart examples with detailed guidelines</figcaption>
+							<img src="_images/work-analytics-learning-app-03.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										
+							<figcaption>Live in-app chart examples with detailed guidelines</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-analytics-learning-app-04.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										<figcaption>More advanced example with code snippets</figcaption>
+							<img src="_images/work-analytics-learning-app-04.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										
+							<figcaption>More advanced example with code snippets</figcaption>
 						</figure>
 					</div>
 				</section>

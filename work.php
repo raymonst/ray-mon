@@ -21,74 +21,62 @@
 		<main class="container">
 			<ul class="list-item-visual">
 				<?php
-					
+ 					for ($i = 0; $i <= 2; $i++) {
+ 					    $title = $work[$i][0];
+ 					    $description = $work[$i][1];
+ 					    $url = $work[$i][2];
+ 					    $image = $work[$i][3];
+ 						echo '<li>';
+ 						echo '<figure><a href="' . $url. '"><img src="_images/' . $image . '" alt="' . $title . '"></a></figure>';
+ 						echo '<div class="list-item-visual-title"><span><a href="' . $url. '">' . $title . '</a></span></div>';
+ 						echo '<div class="list-item-visual-description"><span>' . $description . '</span></div>';
+ 						echo '</li>';
+ 					};
+
+ 					/* OUTPUT:
+ 						<li>
+ 							<figure><a href="#"><img src="" alt=""></a></figure>
+ 							<div class="list-item-visual-title"><span><a href="#">TITLE</a></span></div>
+ 							<div class="list-item-visual-description"><span>DESCRIPTION</span></div>
+ 						</li>
+ 					*/
 				?>
-				
-				<li>
-					<figure><a href="work-conversational-analytics.php"><img src="_images/work-conversational-analytics-cover.png" alt="" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-conversational-analytics.php"><?php echo $work[0][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work[0][1]?></span></div>
-				</li>
-				<li>
-					<figure><a href="work-lightning-messaging-framework.php"><img src="_images/work-lightning-messaging-framework-cover.png" alt="work-lightning-messaging-framework-cover" width="1600" height="1200"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-lightning-messaging-framework.php"><?php echo $work[1][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work[1][1]?></span></div>
-				</li>
-				<li>
-					<figure><a href="work-analytics-learning-app.php"><img src="_images/work-analytics-learning-app-cover.png" alt="work-analytics-learning-app-cover" width="1200" height="900"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-analytics-learning-app.php"><?php echo $work[2][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work[2][1]?></span></div>
-				</li>
 			</ul>
 
 			<h2>MORE DESIGN WORKS</h2>
 			<hr class="separator" />
 			<ul class="list-item-visual list-item-visual-s">
-				<li>
-					<figure><a href="work-transit-quality-equity.php"><img src="_images/work-transit-quality-equity-cover.jpg" alt="work-transit-quality-equity-cover" width="1200" height="900"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-transit-quality-equity.php"><?php echo $work[3][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work[3][1]?></span></div>
-				</li>
-				<li>
-					<figure><a href="work-sams.php"><img src="_images/work-sams-cover.png" alt="work-sams-cover" width="1152" height="864"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-sams.php"><?php echo $work[4][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work[4][1]?></span></div>
-				</li>
-				<li>
-					<figure><a href="work-streetsavvy.php"><img src="_images/work-streetsavvy-cover.jpg" alt="work-streetsavvy-cover" width="1000" height="750"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-streetsavvy.php"><?php echo $work[5][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work[5][1]?></span></div>
-				</li>
-				<li>
-					<figure><a href="work-sf-transit-history.php"><img src="_images/work-sf-transit-history-cover.jpg" alt="work-sf-transit-history-cover" width="1000" height="750"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-sf-transit-history.php"><?php echo $work[6][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work[6][1]?></span></div>
-				</li>
-				<li>
-					<figure><a href="work-giorgio-armani-beauty-foundation-world.php"><img src="_images/work-giorgio-armani-beauty-foundation-world-cover.jpg" alt="work-giorgio-armani-beauty-foundation-world-cover" width="800" height="600"></a></figure>
-					<div class="list-item-visual-title"><span><a href="work-giorgio-armani-beauty-foundation-world.php"><?php echo $work[7][0]?></a></span></div>
-					<div class="list-item-visual-description"><span><?php echo $work[7][1]?></span></div>
-				</li>
+				<?php
+ 					for ($i = 3; $i <= 7; $i++) {
+ 					    $title = $work[$i][0];
+ 					    $description = $work[$i][1];
+ 					    $url = $work[$i][2];
+ 					    $image = $work[$i][3];
+ 						echo '<li>';
+ 						echo '<figure><a href="' . $url. '"><img src="_images/' . $image . '" alt="' . $title . '"></a></figure>';
+ 						echo '<div class="list-item-visual-title"><span><a href="' . $url. '">' . $title . '</a></span></div>';
+ 						echo '<div class="list-item-visual-description"><span>' . $description . '</span></div>';
+ 						echo '</li>';
+ 					};
+				?>
 			</ul>
 
 			<h2>WRITING</h2>
 			<hr class="separator" />
 			<ul class="list-item-visual list-item-visual-s">
-				<li>
-					<figure><a href="https://medium.com/salesforce-ux/designing-the-not-so-happy-path-fde484759a54" target="_blank"><img src="_images/work-writing-designing-the-not-so-happy-paths.jpg" alt="work-writing-designing-the-not-so-happy-paths" width="480" height="360"></a></figure>
-					<div class="list-item-visual-title"><span><a href="https://medium.com/salesforce-ux/designing-the-not-so-happy-path-fde484759a54" target="_blank">Designing the Not-So-Happy Paths</a>&nbsp;&#8599;</span></div>
-					<div class="list-item-visual-description"><span>How to craft the right error messages when things go wrong</span></div>
-				</li>
-				<li>
-					<figure><a href="https://medium.com/salesforce-ux/turning-constraints-into-catalysts-for-creativity-ce2393673c1b" target="_blank"><img src="_images/work-writing-turning-constraints-into-catalysts-for-creativity.jpg" alt="work-writing-turning-constraints-into-catalysts-for-creativity" width="480" height="360"></a></figure>
-					<div class="list-item-visual-title"><span><a href="https://medium.com/salesforce-ux/turning-constraints-into-catalysts-for-creativity-ce2393673c1b">Turning Constraints into Catalysts for Creativity</a>&nbsp;&#8599;</span></div>
-					<div class="list-item-visual-description"><span>Lessons from designing inline edit experience in Lightning</span></div>
-				</li>
-				<li>
-					<figure><a href="https://medium.com/salesforce-ux/designing-more-efficient-forms-10d23bc72c9f" target="_blank"><img src="_images/work-writing-designing-more-efficient-forms.png" alt="work-writing-designing-more-efficient-forms" width="480" height="360"></a></figure>
-					<div class="list-item-visual-title"><span><a href="https://medium.com/salesforce-ux/designing-more-efficient-forms-10d23bc72c9f" target="_blank">Designing More Efficient Forms</a>&nbsp;&#8599;</span></div>
-					<div class="list-item-visual-description"><span>Examples from Salesforce&rsquo;s Lightning Experience</span></div>
-				</li>
+				<?php
+ 					for ($i = 0; $i < count($workWriting); $i++) {
+ 					    $title = $workWriting[$i][0];
+ 					    $description = $workWriting[$i][1];
+ 					    $url = $workWriting[$i][2];
+ 					    $image = $workWriting[$i][3];
+ 						echo '<li>';
+ 						echo '<figure><a href="' . $url. '" target="_blank"><img src="_images/' . $image . '" alt="' . $title . '"></a></figure>';
+ 						echo '<div class="list-item-visual-title"><span><a href="' . $url. '">' . $title . '</a>&nbsp;<img src="_images/icon-link-external.svg" alt="Open in new tab" width="12" height="12"></span></div>';
+ 						echo '<div class="list-item-visual-description"><span>' . $description . '</span></div>';
+ 						echo '</li>';
+ 					};
+				?>
 			</ul>
 
 		</main>

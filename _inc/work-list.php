@@ -4,51 +4,72 @@
 		[
 			"Conversational Analytics",
 			"Enabling conversations with your data",
-			"work-conversational-analytics.php"
+			"work-conversational-analytics.php",
+			"work-conversational-analytics-cover.png"
 		],
 		[
 			"Lightning Messaging Framework",
 			"Moving a design system forward",
-			"work-lightning-messaging-framework.php"
+			"work-lightning-messaging-framework.php",
+			"work-lightning-messaging-framework-cover.png"
 		],
 		[
 			"Analytics Learning App",
 			"Educating users with hands-on examples &amp; best practices",
-			"work-analytics-learning-app.php"
+			"work-analytics-learning-app.php",
+			"work-analytics-learning-app-cover.png"
 		],
 		[
 			"Transit Quality &amp; Equity",
 			"Visualizing urban mobility",
-			"work-transit-quality-equity.php"
+			"work-transit-quality-equity.php",
+			"work-transit-quality-equity-cover.jpg"
 		],
 		[
 			"SAMS",
 			"Streamlining access to government assistance",
-			"work-sams.php"			
+			"work-sams.php",
+			"work-sams-cover.png"
 		],
 		[
 			"StreetSavvy",
 			"Rethinking the pedestrian experience",
-			"work-streetsavvy.php"			
+			"work-streetsavvy.php",
+			"work-streetsavvy-cover.jpg"					
 		],
 		[
 			"San Francisco Transit History",
-			"Telling local history using interactive visualization",
-			"work-transit-history.php"			
+			"Telling local history with interactive visualization",
+			"work-sf-transit-history.php",
+			"work-sf-transit-history-cover.jpg",
 		],
 		[
 			"Giorgia Armani Beauty Foundation World",
 			"Helping users find the perfect beauty products",
-			"work-giorgio-armani-beauty-foundation-world.php"
+			"work-giorgio-armani-beauty-foundation-world.php",
+			"work-giorgio-armani-beauty-foundation-world-cover.jpg"
 		]
 	];
   
-/*
-  $workOrdered = array_keys($work);
-  for ($x = 0; $x <= count($workOrdered)-1; $x++) {
-	  $url = "work-" . $workOrdered[$x] . ".php";
-	  array_push($work[$workOrdered[$x]], $url);
-  };
-*/
-  
+
+	$workWriting = [
+		[
+			"Designing the Not-So-Happy Paths", 
+			"How to craft the right error messages when things go wrong",
+			"https://medium.com/salesforce-ux/designing-the-not-so-happy-path-fde484759a54",
+			"work-writing-designing-the-not-so-happy-paths.jpg"					
+		],
+		[
+			"Turning Constraints into Catalysts for Creativity",
+			"Lessons from designing inline edit experience in Lightning",
+			"https://medium.com/salesforce-ux/turning-constraints-into-catalysts-for-creativity-ce2393673c1b",
+			"work-writing-turning-constraints-into-catalysts-for-creativity.jpg",
+		],
+		[
+			"Designing More Efficient Forms",
+			"Examples from Salesforce’s Lightning Experience",
+			"https://medium.com/salesforce-ux/designing-more-efficient-forms-10d23bc72c9f",
+			"work-writing-designing-more-efficient-forms.png"
+		]
+	]
 ?>

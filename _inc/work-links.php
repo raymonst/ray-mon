@@ -1,10 +1,21 @@
 <?php
+	
+	$workLast = count($work) - 1;
 	$prev = $work[$key - 1];			
+	$next = $work[$key + 1];
+
+	if ($key == 0) {
+		$prev = $work[$workLast];			
+	};
+	
+	if ($key == $workLast) {
+		$next = $work[0];
+	};
+		
 	$prevTitle = $prev[0];
 	$prevSubtitle = $prev[1];
 	$prevLink = $prev[2];
 
-	$next = $work[$key + 1];
 	$nextTitle = $next[0];
 	$nextSubtitle = $next[1];
 	$nextLink = $next[2];
