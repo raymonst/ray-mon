@@ -14,7 +14,9 @@
 		<?php include "_inc/nav.php" ?>
 		<div class="cover">
 			<div class="cover-mask">&nbsp;</div>
-			<img src="_images/home-<?php echo random_int(1, 10)?>.jpg" alt="cover">
+			<?php 
+				echo '<img src="_images/home-' . random_int(1, 10) . '.jpg" alt="Cover image">' 
+			?>
 		</div>
 		<header>
 			<div class="container-header">
