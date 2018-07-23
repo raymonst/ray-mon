@@ -59,14 +59,6 @@
  						echo '<div class="list-item-visual-description"><span>' . $description . '</span></div>';
  						echo '</li>';
  					};
-
- 					/* OUTPUT:
- 						<li>
- 							<figure><a href="#"><img src="" alt=""></a></figure>
- 							<div class="list-item-visual-title"><span><a href="#">TITLE</a></span></div>
- 							<div class="list-item-visual-description"><span>DESCRIPTION</span></div>
- 						</li>
- 					*/
 				?>
 				<li class="link-tile">
 					<div><a href="work.php">See all works</a><div id="link-decoration">&nbsp;</div>&nbsp;</div>
