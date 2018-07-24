@@ -190,7 +190,7 @@ hr {
 		border:0;
 		border-bottom: .25rem solid $color-brand;
 		height: 0;
-		margin: 0 0 2.5em 0;
+		margin: 0 0 1rem 0;
 		text-align: left;
 		width: 2.5rem;
 	}
@@ -466,14 +466,6 @@ nav {
 }	
 
 .home {	
-	h1 {
-		border-bottom: 1rem solid $color-brand;
-		font-size: 4rem;
-		position: relative;
-		z-index: 1;
-		text-shadow: 0 4px 8px #555;
-	}
-	
 	&.with-cover {
 		header {
 			height: 11rem;	
@@ -483,6 +475,14 @@ nav {
 			z-index: 0;
 		}	
 
+		h1 {
+			border-bottom: 1rem solid $color-brand;
+			font-size: 4rem;
+			position: relative;
+			z-index: 1;
+			text-shadow: 0 4px 8px #555;
+		}
+		
 		.container-header {
 			position: relative;
 			z-index: 1;
@@ -517,7 +517,7 @@ nav {
 		grid-gap: 1rem;
 		grid-template-columns: repeat(12, [col] 1fr) ;
 		grid-template-rows: repeat(4, [row] auto);
-		margin-bottom: 6rem;
+		margin-bottom: 4rem;
 		position: relative;
 		z-index: 1;
 		
