@@ -72,7 +72,7 @@
  					    $image = $workWriting[$i][3];
  						echo '<li>';
  						echo '<figure><a href="' . $url. '" target="_blank"><img src="_images/' . $image . '" alt="' . $title . '"></a></figure>';
- 						echo '<div class="list-item-visual-title"><span><a href="' . $url. '">' . $title . '</a>&nbsp;<img src="_images/icon-link-external.svg" alt="Open in new tab" width="12" height="12"></span></div>';
+ 						echo '<div class="list-item-visual-title"><span><a href="' . $url. '" target="_blank">' . $title . '</a>&nbsp;<img src="_images/icon-link-external.svg" alt="Open in new tab" width="12" height="12"></span></div>';
  						echo '<div class="list-item-visual-description"><span>' . $description . '</span></div>';
  						echo '</li>';
  					};
