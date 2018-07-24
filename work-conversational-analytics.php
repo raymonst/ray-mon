@@ -14,7 +14,7 @@
 	<body class="with-cover">
 		<?php include "_inc/nav.php" ?>
 		
-		<div class="cover"><img src="_images/work-conversational-analytics-cover.png" alt="work-conversational-analytics-cover" width="1280" height="1024"></div>
+		<div class="cover"><?php echo '<img src="_images/' . $workSelected[3] . '" alt="' . $workSelected[2] . '">'?></div>
 		
 		<header>
 			<div class="title">
@@ -49,12 +49,12 @@
 					<div class="container-section-item">
 						<p>Interacting with a machine using plain, non-technical language is tricky. When it works, it&rsquo;s magical; but when it doesn&rsquo;t, it&rsquo;s incredibly frustrating and inefficient. As the team began working on this project, we realized that achieving a completely &ldquo;natural&rdquo; language interaction would be extremely difficult to pull off, given the limited resources we had at hand.</p>
 						<figure>
-							<img src="_images/work-conversational-analytics-personas.png" alt="personas" width="750" height="150">
+							<img src="_images/work-conversational-analytics-personas.png" alt="Analytics personas" width="750" height="150">
 							<figcaption>Analytics personas</figcaption>
 						</figure>
 						<p>We have five Analytics personas across the board and for this feature in particular, we&rsquo;re primarily focused on the analyst and line-of-business-user, who are consumers of analytics apps and dashboards. Our secondary focus is the admin, who build apps and dashboards for their organizations. </p>
 						<figure class="image-size-s image-alignment-r">
-							<img src="_images/work-conversational-analytics-research.jpg" alt="work-conversational-analytics-research" width="800" height="600">
+							<img src="_images/work-conversational-analytics-research.jpg" alt="Conducting research" width="800" height="600">
 							<figcaption>Conducting research</figcaption>
 						</figure>
 						<p>In our initial research around the topic of natural language query, we talked to users who fit these profiles and asked them what they would expect from it. Without seeing any UI, we found that users had extremely high expectations, wanting it to answer complicated questions such as &ldquo;how do I get more profit?&rdquo;</p>
@@ -71,17 +71,17 @@
 					<div class="container-section-item">
 						<p>With this in mind, the UX team suggested that we start with a simpler first version. High-level queries such as &ldquo;how am I doing?&rdquo; is difficult for the machine to parse and answer without a high quantity and quality of data, analysis, and intelligence. On the other hand, simpler template-based queries such as &ldquo;show me top 5 accounts by revenue&rdquo; can be more easily parsed, even in the absence of &ldquo;smart&rdquo; machine analysis.</p>
 						<figure>
-							<img src="_images/work-conversational-analytics-sentence.jpg" alt="work-conversational-analytics-sentence" width="1200" height="675">
+							<img src="_images/work-conversational-analytics-sentence.jpg" alt="Simpler template-based queries" width="1200" height="675">
 							<figcaption>Simpler template-based queries</figcaption>
 						</figure>
 						<p>This type of query is also metadata-based, so it&rsquo;s scalable across different types of datasets. The underlying logic between &ldquo;show me <span>top 5</span> <span>accounts</span> by <span>revenue</span>&rdquo; and &ldquo;who are the <span>bottom 10</span> <span>agents</span> by <span>customer satisfaction score</span>&rdquo; are similar, i.e. the sentence pattern is reusable. Last but not least, this query type covers a good portion of potential questions a user may have about their data, which makes it ideal as a starting point.</p>
 						<figure>
-							<img src="_images/work-conversational-analytics-path-nlq.png" alt="work-conversational-analytics-path-nlq" width="812" height="288">
+							<img src="_images/work-conversational-analytics-path-nlq.png" alt="Journey to natural language (Original concept by JD Vogt)" width="812" height="288">
 							<figcaption>Journey to natural language<br/>(Original concept by JD Vogt)</figcaption>
 						</figure>
 						<p>We also realized that the right UI context would be critical in grounding the user&rsquo;s expectations. The higher it sits in the UI, the higher the expectation is. We decided to embed the query field in two specific parts of EA: the explorer (where the user explores/plays with a chart to discover further insights) and the builder (where the user builds apps and dashboards). The specificity of these contexts communicates to the users that they can only ask questions that are narrower in scope.</p>
 						<figure>
-							<img src="_images/work-conversational-analytics-explorer-builder.png" alt="work-conversational-analytics-explorer-builder" width="2640" height="1040">
+							<img src="_images/work-conversational-analytics-explorer-builder.png" alt="Specific contexts for the query field: explorer (left) and builder (right)" width="2640" height="1040">
 							<figcaption>Specific contexts for the query field: explorer (left) and builder (right)</figcaption>
 						</figure>
 					</div>
@@ -102,13 +102,13 @@
 							</ul>
 						</p>
 						<figure>
-							<img src="_images/work-conversational-analytics-main-flows.png" alt="work-conversational-analytics-main-flows" width="4960" height="1364">
+							<img src="_images/work-conversational-analytics-main-flows.png" alt="Primary user flows for conversational query" width="4960" height="1364">
 							<figcaption>Primary user flows for conversational query</figcaption>
 						</figure>
 						<p>I also defined some restraints. First, creating a chart and constructing a query is not reciprocal, i.e. the user can create a chart by submitting a query, but they cannot create/modify a query by creating/modifying a chart. Second, each query is independent of the next, i.e. the user can&rsquo;t ask related questions one after another, e.g. &ldquo;What&rsquo;s the average deal amount?&rdquo; &gt; &ldquo;What about ACME?&rdquo; &gt; &ldquo;In East Coast?&rdquo;</p>
 						<p>Though desirable, these functionalities are more &ldquo;nice-to-have&rdquo; than critical. Doing away with them for the first iteration significantly reduces engineering complexity without severely impacting the experience. </p>
 						<figure class="image-size-s image-alignment-l">
-							<img src="_images/work-conversational-analytics-ui.png" alt="work-conversational-analytics-ui" width="880" height="356">
+							<img src="_images/work-conversational-analytics-ui.png" alt="Minimal UI in conversational query" width="880" height="356">
 							<figcaption>Minimal UI in conversational query</figcaption>
 						</figure>
 						<h3>One Field, a Thousand Micro-Interactions</h3>
@@ -122,12 +122,12 @@
 						</blockquote>
 						<p>After trying out some approaches, I eventually created a set of interaction flows to show all the different micro-interaction patterns, including base patterns for keyboard and mouse as well as more complex query logic (e.g. how to show filter values, relative dates, etc.).</p>
 						<figure>
-							<img src="_images/work-conversational-analytics-logic.jpg" alt="work-conversational-analytics-logic" width="1346" height="1794">
+							<img src="_images/work-conversational-analytics-logic.jpg" alt="Defining micro-interaction patterns" width="1346" height="1794">
 							<figcaption>Defining micro-interaction patterns</figcaption>
 						</figure>
 						<p>This method led to more productive discussions between UX, Engineering, and PM; in particular, it helped Engineering understand and plan their work more effectively. More importantly, however, it helped us focus on delivering a highly guided experience for the users and lessen their concerns. These schemas went through multiple rounds of iterations, which were informed by continuous feedback, both internally and from users.</p>
 						<figure>
-							<img src="_images/work-conversational-analytics-poster.png" alt="work-conversational-analytics-poster" width="1200" height="900">
+							<img src="_images/work-conversational-analytics-poster.png" alt="Printed out posters facilitate discussions between UX, Engineering, and PM" width="1200" height="900">
 							<figcaption>Printed out posters facilitate discussions between UX, Engineering, and PM</figcaption>
 						</figure>
 					</div>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="Urban Data Challenge">
+	<meta name="keywords" content="Urban Data Challenge">
+	<link href='http://fonts.googleapis.com/css?family=Oxygen:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="_css/style.css" />
+	<script type="text/javascript" src="_js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="_js/backstretch.js"></script>
+	<title>Urban Data Challenge | Transit Quality & Equity</title>
+	<script type="text/javascript">
+	
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-16406645-1']);
+		_gaq.push(['_trackPageview']);
+		_gaq.push(['_trackPageview', location.pathname + location.search + location.hash]);
+		
+		(function() {
+		  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	
+	</script>
+</head>
+
+<body id="index">
+
+<div id="main">
+	<div class="c-01">
+		<ul>
+			<li><a href="sanfrancisco.html">San Francisco</a></li>
+			<li><a href="zurich.html">Zurich</a></li>
+			<li><a href="geneva.html">Geneva</a></li>
+		</ul>
+	</div>
+	<div class="c-02">
+		<div class="content">
+			<h1>Transit Quality &amp; Equity</h1>
+			<p>Transit performance is often solely measured by speed and efficiency. But how well do transit systems actually serve the diverse populations in a city? Do people of different economic classes experience different quality of service and access? By overlaying transit data with income levels, these maps visualize the equity impacts of transit service.</p>
+			<h2>Methodology</h2>
+			<p>In each city, transit route information is overlaid on a map showing different income levels for each part of the city. For San Francisco, the map displays the percentage of individuals living under the federal poverty line by census tract. For Zurich, the map displays median incomes per district.*</p>
+			<p>Either method allows users to compare relative economic prosperity in different parts of the city. For transit quality, access to transit stops can be seen by the density of dots around a neighborhood. The size of the dots represent the frequency in which a bus passes through that stop, measured by counting the number of times a bus passes through the stop during a one week period. The varying shades of the dots represent the average delay for each stop, which is calculated from the difference between the scheduled arrival times and actual arrival times. Each individual bus route can be highlighted upon selection.</p>
+			<small><p>* We unfortunately couldn&rsquo;t find the appropriate map data for Geneva; as such, we only tackled the issue of transit quality with Geneva.</p></small>
+			<hr class="line" />
+		<p class="byline">A project by <a href="http://ray-mon.com" target="_blank">Raymon Sutedjo-The</a> &amp; <a href="http://www.linkedin.com/profile/view?id=119588065" target="_blank">Sandra Lee</a><br/>Special thanks to David von Stroh &amp; <a href="http://www.delandchan.com/" target="_blank">Deland Chan</a></p>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	var num = Math.floor(Math.random()*3);
+	var img;
+	if (num == 0) {
+		img = "_images/bg-sanfrancisco.jpg";
+	} else if (num == 1) {
+		img = "_images/bg-zurich.jpg";
+	} else {
+		img = "_images/bg-geneva.jpg";
+	};
+	$("#index").backstretch(img);
+</script>
+
+</body>
+</html>

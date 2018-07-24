@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="description">
+	<meta name="keywords" content="keywords">
+	<link href='http://fonts.googleapis.com/css?family=Oxygen:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="_css/style.css" />
+	<script type="text/javascript" src="_js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="_js/d3.min.js"></script>	
+	<script type="text/javascript" src="_js/script.js"></script>
+	<title>Transit Quality & Equity | Zurich</title>
+	<script type="text/javascript">
+	
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-16406645-1']);
+		_gaq.push(['_trackPageview']);
+		_gaq.push(['_trackPageview', location.pathname + location.search + location.hash]);
+		
+		(function() {
+		  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	
+	</script>
+</head>
+
+<body>
+
+<div id="viz"></div>
+
+<div id="loading">loading</div>
+
+<div id="zoom">
+	<a id="zoom-in" href="#"><img src="_images/zoom-in.png" alt="zoom in" width="30" height="30" /></a>
+	<a id="zoom-out" href="#"><img src="_images/zoom-out.png" alt="zoom out" width="30" height="30" /></a>
+</div>
+
+<div id="info"></div>
+
+<div id="legend">
+	<h2><a href="#" class="closed">Legend</a></h2>
+	<div id="legend-detail">
+		<ul>
+			<li><svg width="20" height="20"><path d="M0 10 L20 10 Z" stroke="#2C7BC9" stroke-width="2" /></svg><span>route<span></li>
+			<li><svg width="20" height="20"><circle cx="10" cy="10" r="7" fill="#ED3A2D" /></svg><span>stop</span></li>
+		</ul>
+		<hr/>
+		<ul>
+			<li>
+				<svg width="170" height="30">
+					<circle cx="3" cy="15" r="3" fill="#ED3A2D" />
+					<circle cx="155" cy="15" r="15" fill="#ED3A2D" />
+				</svg>
+				<span class="c-01">less frequent<br/>service</span>
+				<span class="c-02">more frequent<br/>service</span>
+			</li>
+		</ul>
+		<hr/>
+		<ul>
+			<li>
+				<svg width="170" height="10">
+					<rect width="170" height="10" fill="url(#gradient)" />
+					<defs>
+						<linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+							<stop offset="0%" style="stop-color:#ED3A2D;" />
+							<stop offset="100%" style="stop-color:#2e0101" />
+						</linearGradient>
+					</defs>
+				</svg>
+				<span class="c-01">shorter<br/>delay<br/>(0 min.)</span>
+				<span class="c-02">longer<br/>delay<br/>(3+ min.)</span>
+			</li>
+		</ul>
+		<hr/>
+		<h3>median income</h3>
+		<ul>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#41660A" /></svg><span>&lt;= &euro;40,000</span></li>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#64961B" /></svg><span>&euro;40,001 - &euro;45,000</span></li>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#7CAD34" /></svg><span>&euro;45,001 - &euro;50,000</span></li>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#9FC961" /></svg><span>&euro;50,001 - &euro;55,000</span></li>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#CFE8AC" /></svg><span>&euro;55,001 - &euro;60,000</span></li>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#EAF5DA" /></svg><span>&gt; &euro;60,000</span></li>
+		</ul>
+	</div>
+</div>
+	
+<div id="container">
+
+	<h1>Zurich</h1>
+
+	<div id="content">
+		<h2>Economic Data</h2>
+		<ul id="economic">
+			<li><a href="#" id="toggle-tracts">MEDIAN INCOME</a></li>
+		</ul>
+		<hr/>
+		<h2>Routes</h2>
+		<ul>
+			<li><a href="#" id="toggle-route-2" class="toggle-routes-alt">2</a></li>
+			<li><a href="#" id="toggle-route-3" class="toggle-routes-alt">3</a></li>
+			<li><a href="#" id="toggle-route-4" class="toggle-routes-alt">4</a></li>
+			<li><a href="#" id="toggle-route-5" class="toggle-routes-alt">5</a></li>
+			<li><a href="#" id="toggle-route-6" class="toggle-routes-alt">6</a></li>
+			<li><a href="#" id="toggle-route-7" class="toggle-routes-alt">7</a></li>
+			<li><a href="#" id="toggle-route-8" class="toggle-routes-alt">8</a></li>
+			<li><a href="#" id="toggle-route-9" class="toggle-routes-alt">9</a></li>
+			<li><a href="#" id="toggle-route-10" class="toggle-routes-alt">10</a></li>
+			<li><a href="#" id="toggle-route-11" class="toggle-routes-alt">11</a></li>
+			<li><a href="#" id="toggle-route-12" class="toggle-routes-alt">12</a></li>
+			<li><a href="#" id="toggle-route-13" class="toggle-routes-alt">13</a></li>
+			<li><a href="#" id="toggle-route-14" class="toggle-routes-alt">14</a></li>
+			<li><a href="#" id="toggle-route-15" class="toggle-routes-alt">15</a></li>
+			<li><a href="#" id="toggle-route-17" class="toggle-routes-alt">17</a></li>
+			<li><a href="#" id="toggle-route-29" class="toggle-routes-alt">29</a></li>
+			<li><a href="#" id="toggle-route-31" class="toggle-routes-alt">31</a></li>
+			<li><a href="#" id="toggle-route-32" class="toggle-routes-alt">32</a></li>
+			<li><a href="#" id="toggle-route-33" class="toggle-routes-alt">33</a></li>
+			<li><a href="#" id="toggle-route-34" class="toggle-routes-alt">34</a></li>
+			<li><a href="#" id="toggle-route-35" class="toggle-routes-alt">35</a></li>
+			<li><a href="#" id="toggle-route-37" class="toggle-routes-alt">37</a></li>
+			<li><a href="#" id="toggle-route-38" class="toggle-routes-alt">38</a></li>
+			<li><a href="#" id="toggle-route-39" class="toggle-routes-alt">39</a></li>
+			<li><a href="#" id="toggle-route-40" class="toggle-routes-alt">40</a></li>
+			<li><a href="#" id="toggle-route-46" class="toggle-routes-alt">46</a></li>
+			<li><a href="#" id="toggle-route-72" class="toggle-routes-alt">72</a></li>
+			<li><a href="#" id="toggle-route-61" class="toggle-routes-alt">61</a></li>
+			<li><a href="#" id="toggle-route-62" class="toggle-routes-alt">62</a></li>
+			<li><a href="#" id="toggle-route-63" class="toggle-routes-alt">63</a></li>
+			<li><a href="#" id="toggle-route-64" class="toggle-routes-alt">64</a></li>
+			<li><a href="#" id="toggle-route-66" class="toggle-routes-alt">66</a></li>
+			<li><a href="#" id="toggle-route-67" class="toggle-routes-alt">67</a></li>
+			<li><a href="#" id="toggle-route-69" class="toggle-routes-alt">69</a></li>
+			<li><a href="#" id="toggle-route-70" class="toggle-routes-alt">70</a></li>
+			<li><a href="#" id="toggle-route-73" class="toggle-routes-alt">73</a></li>
+			<li><a href="#" id="toggle-route-76" class="toggle-routes-alt">76</a></li>
+			<li><a href="#" id="toggle-route-75" class="toggle-routes-alt">75</a></li>
+			<li><a href="#" id="toggle-route-77" class="toggle-routes-alt">77</a></li>
+			<li><a href="#" id="toggle-route-78" class="toggle-routes-alt">78</a></li>
+			<li><a href="#" id="toggle-route-79" class="toggle-routes-alt">79</a></li>
+			<li><a href="#" id="toggle-route-80" class="toggle-routes-alt">80</a></li>
+			<li><a href="#" id="toggle-route-89" class="toggle-routes-alt">89</a></li>
+			<li><a href="#" id="toggle-route-91" class="toggle-routes-alt">91</a></li>
+			<li><a href="#" id="toggle-route-94" class="toggle-routes-alt">94</a></li>
+			<li><a href="#" id="toggle-route-95" class="toggle-routes-alt">95</a></li>
+			<li><a href="#" id="toggle-route-161" class="toggle-routes-alt">161</a></li>
+			<li><a href="#" id="toggle-route-162" class="toggle-routes-alt">162</a></li>
+			<li><a href="#" id="toggle-route-163" class="toggle-routes-alt">163</a></li>
+			<li><a href="#" id="toggle-route-165" class="toggle-routes-alt">165</a></li>
+			<li><a href="#" id="toggle-route-184" class="toggle-routes-alt">184</a></li>
+			<li><a href="#" id="toggle-route-185" class="toggle-routes-alt">185</a></li>
+			<li><a href="#" id="toggle-route-301" class="toggle-routes-alt">301</a></li>
+			<li><a href="#" id="toggle-route-302" class="toggle-routes-alt">302</a></li>
+			<li><a href="#" id="toggle-route-303" class="toggle-routes-alt">303</a></li>
+			<li><a href="#" id="toggle-route-304" class="toggle-routes-alt">304</a></li>
+			<li><a href="#" id="toggle-route-305" class="toggle-routes-alt">305</a></li>
+			<li><a href="#" id="toggle-route-306" class="toggle-routes-alt">306</a></li>
+			<li><a href="#" id="toggle-route-307" class="toggle-routes-alt">307</a></li>
+			<li><a href="#" id="toggle-route-308" class="toggle-routes-alt">308</a></li>
+			<li><a href="#" id="toggle-route-309" class="toggle-routes-alt">309</a></li>
+			<li><a href="#" id="toggle-route-311" class="toggle-routes-alt">311</a></li>
+			<li><a href="#" id="toggle-route-314" class="toggle-routes-alt">314</a></li>
+			<li><a href="#" id="toggle-route-323" class="toggle-routes-alt">323</a></li>
+			<li><a href="#" id="toggle-route-325" class="toggle-routes-alt">325</a></li>
+			<li><a href="#" id="toggle-route-747" class="toggle-routes-alt">747</a></li>
+			<li><a href="#" id="toggle-route-743" class="toggle-routes-alt">743</a></li>
+			<li><a href="#" id="toggle-route-744" class="toggle-routes-alt">744</a></li>
+			<li><a href="#" id="toggle-route-747" class="toggle-routes-alt">747</a></li>
+			<li><a href="#" id="toggle-route-751" class="toggle-routes-alt">751</a></li>
+			<li><a href="#" id="toggle-route-753" class="toggle-routes-alt">753</a></li>
+			<li><a href="#" id="toggle-route-786" class="toggle-routes-alt">786</a></li>
+			<li><a href="#" id="toggle-route-910" class="toggle-routes-alt">910</a></li>
+			<li><a href="#" id="toggle-route-912" class="toggle-routes-alt">912</a></li>
+			<li><a href="#" id="toggle-route-916" class="toggle-routes-alt">916</a></li>
+			<li><a href="#" id="toggle-route-917" class="toggle-routes-alt">917</a></li>
+			<li><a href="#" id="toggle-route-918" class="toggle-routes-alt">918</a></li>
+			<li><a href="#" id="toggle-route-919" class="toggle-routes-alt">919</a></li>
+			<li><a href="#" id="toggle-route-E" class="toggle-routes-alt">E</a></li>
+			<li><a href="#" id="toggle-route-S18" class="toggle-routes-alt">S18</a></li>
+		</ul>
+	</div>
+	
+</div>
+	
+<script type="text/javascript">
+	$(document).ready(function() {
+	    viz.zurich();
+	});
+</script>
+
+</body>
+</html>

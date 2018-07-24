@@ -46,6 +46,13 @@
 		"oAP": "\/_files\/rst-resume.pdf",
 		"oF": 0
 		},
+	"\/_files\/streetsavvy-report.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_files\/streetsavvy-report.pdf",
+		"oF": 0
+		},
 	"\/_images\/blockquote.png": {
 		"ft": 32768,
 		"iS": 6105,
@@ -197,6 +204,13 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/_images\/logo.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_images\/logo.ico",
+		"oF": 0
+		},
 	"\/_images\/logo.png": {
 		"ft": 32768,
 		"iS": 2064,
@@ -318,15 +332,15 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_images\/work-analytics-learning-app-cover.png": {
-		"ft": 32768,
-		"iS": 246420,
+	"\/_images\/work-analytics-learning-app-cover.jpg": {
+		"ft": 16384,
+		"iS": 160063,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_images\/work-analytics-learning-app-cover.png",
+		"oAP": "\/_images\/work-analytics-learning-app-cover.jpg",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_images\/work-conversational-analytics-cover.png": {
@@ -846,13 +860,13 @@
 		},
 	"\/_images\/work-streetsavvy-01.jpg": {
 		"ft": 16384,
-		"iS": 61000,
+		"iS": 177118,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_images\/work-streetsavvy-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/work-streetsavvy-02.jpg": {
@@ -863,7 +877,7 @@
 		"oAP": "\/_images\/work-streetsavvy-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/work-streetsavvy-03.jpg": {
@@ -874,7 +888,7 @@
 		"oAP": "\/_images\/work-streetsavvy-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/work-streetsavvy-04.jpg": {
@@ -885,7 +899,7 @@
 		"oAP": "\/_images\/work-streetsavvy-04.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/work-streetsavvy-05.jpg": {
@@ -896,7 +910,7 @@
 		"oAP": "\/_images\/work-streetsavvy-05.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_images\/work-streetsavvy-cover.jpg": {
@@ -1126,6 +1140,2081 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/robots.txt",
+		"oF": 0
+		},
+	"\/sftransithistory\/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/CNAME",
+		"oF": 0
+		},
+	"\/sftransithistory\/crossdomain.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/crossdomain.xml",
+		"oF": 0
+		},
+	"\/sftransithistory\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/css\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/sftransithistory\/css\/normalize.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/css\/normalize-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/sftransithistory\/drive\/ends.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/sftransithistory\/drive\/ends-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/sftransithistory\/drive\/events.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/sftransithistory\/drive\/events-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/sftransithistory\/favicon.png": {
+		"ft": 32768,
+		"iS": 2365,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/humans.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/humans.txt",
+		"oF": 0
+		},
+	"\/sftransithistory\/img\/end-bg.png": {
+		"ft": 32768,
+		"iS": 937,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/img\/end-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/img\/follower-bg.png": {
+		"ft": 32768,
+		"iS": 934,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/img\/follower-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/img\/icon-cablecar.png": {
+		"ft": 32768,
+		"iS": 3036,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/img\/icon-cablecar.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/img\/icon-heavyrail.png": {
+		"ft": 32768,
+		"iS": 3493,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/img\/icon-heavyrail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/img\/icon-lightrail.png": {
+		"ft": 32768,
+		"iS": 3391,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/img\/icon-lightrail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/img\/icon-motorbus.png": {
+		"ft": 32768,
+		"iS": 3401,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/img\/icon-motorbus.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/img\/icon-streetcar.png": {
+		"ft": 32768,
+		"iS": 3465,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/img\/icon-streetcar.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/img\/icon-trolleybus.png": {
+		"ft": 32768,
+		"iS": 3590,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/img\/icon-trolleybus.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/img\/rightarrow.png": {
+		"ft": 32768,
+		"iS": 1257,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/img\/rightarrow.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/img\/tip-close-l.png": {
+		"ft": 32768,
+		"iS": 1210,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/img\/tip-close-l.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/img\/tip-close.png": {
+		"ft": 32768,
+		"iS": 1013,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/img\/tip-close.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/index.html",
+		"oF": 0
+		},
+	"\/sftransithistory\/js\/app.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/js\/app-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/sftransithistory\/js\/ev.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/js\/ev-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/sftransithistory\/js\/events-o.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/js\/events-o-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/sftransithistory\/js\/events.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/js\/events-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/sftransithistory\/js\/vendor\/jquery-1.9.1.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/js\/vendor\/jquery-1.9.1.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/sftransithistory\/js\/vendor\/jquery-2.0.0.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/js\/vendor\/jquery-2.0.0.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/sftransithistory\/js\/vendor\/modernizr-2.6.2.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/js\/vendor\/modernizr-2.6.2.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/sftransithistory\/js\/vendor\/raphael-full.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/js\/vendor\/raphael-full-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/sftransithistory\/js\/vendor\/raphael-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/js\/vendor\/raphael-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/sftransithistory\/paths.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/paths.html",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/cable-car\/1873-9.jpg": {
+		"ft": 16384,
+		"iS": 43,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1873-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1873.jpg": {
+		"ft": 16384,
+		"iS": 192474,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1873.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1878-4.jpg": {
+		"ft": 16384,
+		"iS": 124258,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1878-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1883-12.jpg": {
+		"ft": 16384,
+		"iS": 26188,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1883-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1884.jpg": {
+		"ft": 16384,
+		"iS": 108549,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1884.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1888-3.jpg": {
+		"ft": 16384,
+		"iS": 38361,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1888-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1889-8.jpg": {
+		"ft": 16384,
+		"iS": 26879,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1889-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1891-2.jpg": {
+		"ft": 16384,
+		"iS": 32045,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1891-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1895.jpg": {
+		"ft": 16384,
+		"iS": 67683,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1895.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1906-5.jpg": {
+		"ft": 16384,
+		"iS": 188242,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1906-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1906.jpg": {
+		"ft": 16384,
+		"iS": 217078,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1906.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1929-11.jpg": {
+		"ft": 16384,
+		"iS": 187061,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1929-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1942-2.jpg": {
+		"ft": 16384,
+		"iS": 238674,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1942-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1942.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1942.psd",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/cable-car\/1954-5.jpg": {
+		"ft": 16384,
+		"iS": 43318,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1954-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1957-12.jpg": {
+		"ft": 16384,
+		"iS": 173418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1957-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1964-1.jpg": {
+		"ft": 16384,
+		"iS": 115287,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1964-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1973-8.jpg": {
+		"ft": 16384,
+		"iS": 223950,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1973-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1981-11.jpg": {
+		"ft": 16384,
+		"iS": 61693,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1981-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1982.jpg": {
+		"ft": 16384,
+		"iS": 65480,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1982.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1984.jpg": {
+		"ft": 16384,
+		"iS": 375107,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1984.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1985-6.jpg": {
+		"ft": 16384,
+		"iS": 292164,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1985-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1988-3.jpg": {
+		"ft": 16384,
+		"iS": 389610,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1988-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1997-3.jpg": {
+		"ft": 16384,
+		"iS": 92834,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1997-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1997.jpg": {
+		"ft": 16384,
+		"iS": 136855,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1997.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1998-7.jpg": {
+		"ft": 16384,
+		"iS": 380638,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1998-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/1998.jpg": {
+		"ft": 16384,
+		"iS": 52615,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/1998.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/2003-2.jpg": {
+		"ft": 16384,
+		"iS": 292461,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/2003-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/2009-6.jpg": {
+		"ft": 16384,
+		"iS": 499566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/2009-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/2012-2.jpg": {
+		"ft": 16384,
+		"iS": 178079,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/2012-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/cable-car\/_unused.rtf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/_unused.rtf",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/cable-car\/U00385.jpg": {
+		"ft": 16384,
+		"iS": 176209,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/cable-car\/U00385.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/1888-7.jpg": {
+		"ft": 16384,
+		"iS": 151328,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/1888-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/1962.jpg": {
+		"ft": 16384,
+		"iS": 188245,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/1962.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/1964.png": {
+		"ft": 32768,
+		"iS": 197070,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/1964.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/1969.jpg": {
+		"ft": 16384,
+		"iS": 76132,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/1969.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/1972.jpg": {
+		"ft": 16384,
+		"iS": 278896,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/1972.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/1974.jpg": {
+		"ft": 16384,
+		"iS": 51459,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/1974.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/1976-5.jpg": {
+		"ft": 16384,
+		"iS": 257746,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/1976-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/1977-6.jpg": {
+		"ft": 16384,
+		"iS": 101419,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/1977-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/1989.jpg": {
+		"ft": 16384,
+		"iS": 185440,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/1989.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/1997.jpg": {
+		"ft": 16384,
+		"iS": 65179,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/1997.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/2003.jpg": {
+		"ft": 16384,
+		"iS": 255430,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/2003.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/2007.jpg": {
+		"ft": 16384,
+		"iS": 65669,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/2007.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/2009-1.jpg": {
+		"ft": 16384,
+		"iS": 328243,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/2009-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/2009.jpg": {
+		"ft": 16384,
+		"iS": 45292,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/2009.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/2012-1.jpg": {
+		"ft": 16384,
+		"iS": 66696,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/2012-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/2012.jpg": {
+		"ft": 16384,
+		"iS": 224393,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/2012.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/8318622070_c9f0a6d31f_b.jpg": {
+		"ft": 16384,
+		"iS": 596750,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/8318622070_c9f0a6d31f_b.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/_unused.rtf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/_unused.rtf",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/heavy-rail\/BSV_RegionalMap_Portrait_forWEB.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/heavy-rail\/BSV_RegionalMap_Portrait_forWEB.pdf",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/light-rail\/1980-12.jpg": {
+		"ft": 16384,
+		"iS": 173554,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/light-rail\/1980-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/light-rail\/1980-2.JPG": {
+		"ft": 16384,
+		"iS": 32622,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/light-rail\/1980-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/light-rail\/1984.jpg": {
+		"ft": 16384,
+		"iS": 287155,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/light-rail\/1984.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/light-rail\/1998.jpg": {
+		"ft": 16384,
+		"iS": 92257,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/light-rail\/1998.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/light-rail\/2007.jpg": {
+		"ft": 16384,
+		"iS": 283604,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/light-rail\/2007.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/light-rail\/2012.jpg": {
+		"ft": 16384,
+		"iS": 79440,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/light-rail\/2012.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/light-rail\/2012.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/light-rail\/2012.psd",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/misc\/intro-light.jpg": {
+		"ft": 16384,
+		"iS": 73909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/misc\/intro-light.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/misc\/intro.jpg": {
+		"ft": 16384,
+		"iS": 64300,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/misc\/intro.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/misc\/map-110303.png": {
+		"ft": 32768,
+		"iS": 188363,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/misc\/map-110303.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/misc\/text-icon.png": {
+		"ft": 32768,
+		"iS": 983,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/misc\/text-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/1917-9.jpg": {
+		"ft": 16384,
+		"iS": 98747,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/1917-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/1941-5.jpg": {
+		"ft": 16384,
+		"iS": 186866,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/1941-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/1941.jpg": {
+		"ft": 16384,
+		"iS": 218847,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/1941.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/1969-6.jpg": {
+		"ft": 16384,
+		"iS": 173790,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/1969-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/1981.jpg": {
+		"ft": 16384,
+		"iS": 277079,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/1981.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/1984-o.jpg": {
+		"ft": 16384,
+		"iS": 301077,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/1984-o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/1984.jpg": {
+		"ft": 16384,
+		"iS": 397604,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/1984.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/1985.jpg": {
+		"ft": 16384,
+		"iS": 370008,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/1985.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/1989.jpg": {
+		"ft": 16384,
+		"iS": 359495,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/1989.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/1990.jpg": {
+		"ft": 16384,
+		"iS": 90169,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/1990.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/1993.jpg": {
+		"ft": 16384,
+		"iS": 483816,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/1993.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/2007-2.jpg": {
+		"ft": 16384,
+		"iS": 291753,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/2007-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/2007.jpg": {
+		"ft": 16384,
+		"iS": 490734,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/2007.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/2009.jpg": {
+		"ft": 16384,
+		"iS": 371947,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/2009.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/motor-bus\/2009.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/2009.pdf",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/motor-bus\/_unused.rtf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sftransithistory\/photos\/motor-bus\/_unused.rtf",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/street-car\/1888-7.jpg": {
+		"ft": 16384,
+		"iS": 116347,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1888-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1892-4.jpg": {
+		"ft": 16384,
+		"iS": 145685,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1892-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1892.jpg": {
+		"ft": 16384,
+		"iS": 188302,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1892.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1896-2.jpg": {
+		"ft": 16384,
+		"iS": 32682,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1896-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1896.jpg": {
+		"ft": 16384,
+		"iS": 68858,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1896.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1906-4.jpg": {
+		"ft": 16384,
+		"iS": 251931,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1906-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1906-5.jpg": {
+		"ft": 16384,
+		"iS": 57068,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1906-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1906-9.jpg": {
+		"ft": 16384,
+		"iS": 150663,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1906-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1907-7.jpg": {
+		"ft": 16384,
+		"iS": 127653,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1907-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1911-3.jpg": {
+		"ft": 16384,
+		"iS": 23558,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1911-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1911.jpg": {
+		"ft": 16384,
+		"iS": 313456,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1911.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1913-12.jpg": {
+		"ft": 16384,
+		"iS": 199396,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1913-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1913-4-o.jpg": {
+		"ft": 16384,
+		"iS": 44804,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1913-4-o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1913-4.jpg": {
+		"ft": 16384,
+		"iS": 48126,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1913-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1918-2.jpg": {
+		"ft": 16384,
+		"iS": 171063,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1918-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1918-6.jpg": {
+		"ft": 16384,
+		"iS": 209303,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1918-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1925-12.jpg": {
+		"ft": 16384,
+		"iS": 167633,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1925-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1928-10.jpg": {
+		"ft": 16384,
+		"iS": 177206,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1928-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1932-5.jpg": {
+		"ft": 16384,
+		"iS": 118863,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1932-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1932.jpg": {
+		"ft": 16384,
+		"iS": 55236,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1932.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1944-12.jpg": {
+		"ft": 16384,
+		"iS": 150663,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1944-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1949-3.jpg": {
+		"ft": 16384,
+		"iS": 106242,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1949-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1956-12.jpg": {
+		"ft": 16384,
+		"iS": 59480,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1956-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1957-4.jpg": {
+		"ft": 16384,
+		"iS": 50576,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1957-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1969.jpg": {
+		"ft": 16384,
+		"iS": 270475,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1969.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1972.jpg": {
+		"ft": 16384,
+		"iS": 450389,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1972.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1983.jpg": {
+		"ft": 16384,
+		"iS": 147960,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1983.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1987-12-replaced.jpg": {
+		"ft": 16384,
+		"iS": 222858,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1987-12-replaced.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1987.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1987.psd",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/street-car\/1992.jpg": {
+		"ft": 16384,
+		"iS": 528039,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1992.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1994-replaced.jpg": {
+		"ft": 16384,
+		"iS": 512641,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1994-replaced.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/1994.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1994.psd",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/street-car\/1995-9.jpg": {
+		"ft": 16384,
+		"iS": 221298,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/1995-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/2012.jpg": {
+		"ft": 16384,
+		"iS": 60607,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/2012.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/2012.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/2012.psd",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/street-car\/_unused.rtf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sftransithistory\/photos\/street-car\/_unused.rtf",
+		"oF": 0
+		},
+	"\/sftransithistory\/photos\/street-car\/carville.jpg": {
+		"ft": 16384,
+		"iS": 265809,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/carville.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/street-car\/seq-7.jpg": {
+		"ft": 16384,
+		"iS": 866829,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/street-car\/seq-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1935.jpg": {
+		"ft": 16384,
+		"iS": 236145,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1935.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1947-6.jpg": {
+		"ft": 16384,
+		"iS": 231392,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1947-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1949.jpg": {
+		"ft": 16384,
+		"iS": 130218,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1949.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1968-6.jpg": {
+		"ft": 16384,
+		"iS": 138133,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1968-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1979-1.jpg": {
+		"ft": 16384,
+		"iS": 73300,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1979-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1979-o.jpg": {
+		"ft": 16384,
+		"iS": 11080615,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1979-o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1979.jpg": {
+		"ft": 16384,
+		"iS": 261687,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1979.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1981.jpg": {
+		"ft": 16384,
+		"iS": 192729,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1981.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1983.jpg": {
+		"ft": 16384,
+		"iS": 307735,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1983.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1988.jpg": {
+		"ft": 16384,
+		"iS": 123514,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1988.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1994.jpg": {
+		"ft": 16384,
+		"iS": 521553,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1994.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/1995.jpg": {
+		"ft": 16384,
+		"iS": 542399,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/1995.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/sftransithistory\/photos\/trolley-bus\/un-used.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/photos\/trolley-bus\/un-used.txt",
+		"oF": 0
+		},
+	"\/sftransithistory\/robots.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/sftransithistory\/robots.txt",
+		"oF": 0
+		},
+	"\/urbandatachallenge\/_css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_css\/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/urbandatachallenge\/_images\/ajax-loader.gif": {
+		"ft": 4194304,
+		"iS": 3208,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_images\/ajax-loader.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/urbandatachallenge\/_images\/arrows.png": {
+		"ft": 32768,
+		"iS": 1487,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_images\/arrows.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/urbandatachallenge\/_images\/bg-geneva.jpg": {
+		"ft": 16384,
+		"iS": 120184,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_images\/bg-geneva.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/urbandatachallenge\/_images\/bg-sanfrancisco.jpg": {
+		"ft": 16384,
+		"iS": 108600,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_images\/bg-sanfrancisco.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/urbandatachallenge\/_images\/bg-zurich.jpg": {
+		"ft": 16384,
+		"iS": 131237,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_images\/bg-zurich.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/urbandatachallenge\/_images\/zoom-in.png": {
+		"ft": 32768,
+		"iS": 1848,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_images\/zoom-in.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/urbandatachallenge\/_images\/zoom-out.png": {
+		"ft": 32768,
+		"iS": 1835,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_images\/zoom-out.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/urbandatachallenge\/_js\/_original\/census-original.geojson": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/census-original.geojson",
+		"oF": 0
+		},
+	"\/urbandatachallenge\/_js\/_original\/census-unused.geojson": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/census-unused.geojson",
+		"oF": 0
+		},
+	"\/urbandatachallenge\/_js\/_original\/geneva-city-limit.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/geneva-city-limit-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_original\/geneva-routes-o.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/geneva-routes-o-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_original\/geneva-stops-o.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/geneva-stops-o-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_original\/sf-census-o.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/sf-census-o-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_original\/sf-city-limit.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/sf-city-limit-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_original\/sf-routes-o.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/sf-routes-o-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_original\/sf-stops-o.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/sf-stops-o-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_original\/zurich-city-limit-o.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/zurich-city-limit-o-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_original\/zurich-routes-o.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/zurich-routes-o-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_original\/zurich-stops-o.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_original\/zurich-stops-o-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_processed\/geneva-routes-n.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_processed\/geneva-routes-n-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_processed\/geneva-stops-n.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_processed\/geneva-stops-n-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_processed\/sf-census-n.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_processed\/sf-census-n-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_processed\/sf-routes-n.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_processed\/sf-routes-n-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_processed\/sf-stops-n.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_processed\/sf-stops-n-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_processed\/zurich-city-limit-n.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_processed\/zurich-city-limit-n-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_processed\/zurich-routes-n.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_processed\/zurich-routes-n-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/_processed\/zurich-stops-n.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/_processed\/zurich-stops-n-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/backstretch.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_js\/backstretch-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/urbandatachallenge\/_js\/d3.geo.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_js\/d3.geo.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/urbandatachallenge\/_js\/d3.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_js\/d3.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/urbandatachallenge\/_js\/geneva-routes.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/geneva-routes-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/geneva-stops.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/geneva-stops-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/jquery-1.8.2.min-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_js\/jquery-1.8.2.min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/urbandatachallenge\/_js\/jquery-1.8.2.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_js\/jquery-1.8.2.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/urbandatachallenge\/_js\/queue.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_js\/queue.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/urbandatachallenge\/_js\/script.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/_js\/script-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/urbandatachallenge\/_js\/sf-census.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/sf-census-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/sf-routes.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/sf-routes-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/sf-stops.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/sf-stops-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/zurich-city-limit.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/zurich-city-limit-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/zurich-routes.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/zurich-routes-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/_js\/zurich-stops.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/urbandatachallenge\/_js\/zurich-stops-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/urbandatachallenge\/geneva.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/geneva.html",
+		"oF": 0
+		},
+	"\/urbandatachallenge\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/index.html",
+		"oF": 0
+		},
+	"\/urbandatachallenge\/sanfrancisco.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/sanfrancisco.html",
+		"oF": 0
+		},
+	"\/urbandatachallenge\/zurich.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/urbandatachallenge\/zurich.html",
 		"oF": 0
 		},
 	"\/work-analytics-learning-app.php": {

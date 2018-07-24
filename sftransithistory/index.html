@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html style="background: #000;">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>San Francisco Transit History</title>
+        <meta name="description" content="The history of San Francisco&rsquo;s transit system can be traced back as far as 1873, when the first Cable Car began service. Tales of technological advances, natural disasters, political struggles, and triumphant celebrations color its 140-year history and shape it into a system today that&rsquo;s uniquely diverse and uniquely San Francisco.">
+        <meta name="viewport" content="width=1100">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        
+        <link href='http://fonts.googleapis.com/css?family=Signika+Negative:300,400,700|Unna' rel='stylesheet' type='text/css'>
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="icon" type="image/png" href="favicon.png">
+
+        <!-- <script src="js/vendor/modernizr-2.6.2.min.js"></script> -->
+
+        <script src="js/vendor/jquery-2.0.0.min.js"></script>
+        <script src="js/vendor/raphael-min.js"></script>
+
+        <script src="js/events.js"></script>
+        <script src="js/app.js"></script>
+
+    </head>
+    <body>
+        <div id="wrapper">        
+            <div id="bg"></div>
+            <div id="follower"></div>
+            <div id="holder"></div>
+            <div id="bgshape"></div>
+
+            <div id="timeline-holder">
+                <ul id="timeline"></ul>
+            </div>
+            <ul id="menu"></ul>
+            <div id="tip" class="tip"><div id="tip-content"></div><div id="tip-close">&nbsp;</div></div>
+            <div id="end">
+                <div class="right">
+                    <h3>Want to learn more?</h3>
+                    <div id="end-links"></div>
+                    <h3>Did you know?</h3>
+                    <div id="end-stat1"></div>
+                    <div id="end-stat2"></div>
+                </div>
+                <div class="left">
+                    <div id="end-overview"></div>
+                    <h3>What's next?</h3>
+                    <div id="end-next"></div>
+                </div>
+                <img id="end-image" />
+
+                <div id="end-name"></div>
+                <div id="end-close">&nbsp;</div>
+            </div>
+            <div id="end-arrow"></div>
+            <a id="source" href="#" target="_blank">Image Source</a>
+            <div id="titlecard">
+                <h1>
+                    San Francisco<br/>
+                    Transit
+                </h1>
+                <h2>
+                    The Good,<br/>
+                    The Bad,<br/>
+                    The Quirky&nbsp;
+                </h2>
+            </div>
+            <div id="intro">
+                <p>The history of San Francisco&rsquo;s transit system can be traced back as far as 1873, when the first Cable Car began service. Tales of technological advances, natural disasters, political struggles, and triumphant celebrations color its 140-year history and shape it into a system today that&rsquo;s uniquely diverse and uniquely San Francisco.</p>    
+                <a id="start" href="#start">Explore</a>
+                
+            </div>
+            
+            <div id="byline"><p>A project by:<br/><a href="http://fchasen.com/" target="_blank">Fred Chasen</a>, <a href="http://ray-mon.com" target="_blank">Raymon Sutedjo-The</a>, &amp; <a href="http://charles007.com/" target="_blank">Charles Wang</a></p><p>Info 247, Spring 2013 (UC Berkeley)</p></div>
+            
+            <div id="credit">
+                credits
+            </div>
+                
+            <div id="credits">
+                <div id="close-credits">&nbsp;</div>
+                <h3>Text and facts gathered from:</h3>
+                <a href="http://www.sfcablecar.com/history.html">http://www.sfcablecar.com/history.html</a>
+                <a href="http://www.sfmta.com/cms/rhome/documents/TransitinSanFrancisco-CallwellChronologyweb.pdf">http://www.sfmta.com/cms/rhome/documents/TransitinSanFrancisco-CallwellChronologyweb.pdf</a>
+                <a href="http://www.sfmta.com/cms/mfleet/trollhist.htm"/>http://www.sfmta.com/cms/mfleet/trollhist.htm</a>
+                <a href="http://www.sfmta.com/cms/mfleet/trolley.htm">http://www.sfmta.com/cms/mfleet/trolley.htm</a>
+                <a href="http://www.sfmta.com/cms/mfleet/hybrids.htm">http://www.sfmta.com/cms/mfleet/hybrids.htm</a>
+                <a href="http://www.sfmta.com/cms/mroutes/metro.htm">http://www.sfmta.com/cms/mroutes/metro.htm</a>
+                <a href="http://www.bart.gov/">http://www.bart.gov/</a>
+                <a href="http://www.ntdprogram.gov/ntdprogram/archives.htm">http://www.ntdprogram.gov/ntdprogram/archives.htm</a>
+                <a href="http://www.ntdprogram.gov/ntdprogram/archives.htm">http://www.ntdprogram.gov/ntdprogram/archives.htm</a>
+                <a href="http://www.sfmta.com/cms/rfact/documents/FactSheet12-19-12.pdf">http://www.sfmta.com/cms/rfact/documents/FactSheet12-19-12.pdf</a>
+                <a href="http://www.ntdprogram.gov/ntdprogram/archives.htm">http://www.ntdprogram.gov/ntdprogram/archives.htm</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            "use strict";
+            MM.init("holder", events, fleet, ends);
+        </script>
+
+    </body>
+
+    <script type="text/javascript">
+    
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-40691133-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    
+    </script>
+
+</html>

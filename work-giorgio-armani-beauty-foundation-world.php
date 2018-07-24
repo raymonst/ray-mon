@@ -14,7 +14,8 @@
 	<body class="with-cover">
 		<?php include "_inc/nav.php" ?>
 
-		<div class="cover"><img src="_images/work-giorgio-armani-beauty-foundation-world-cover.jpg" alt="work-giorgio-armani-beauty-foundation-world-cover" width="800" height="600"></div>
+		<div class="cover"><?php echo '<img src="_images/' . $workSelected[3] . '" alt="' . $workSelected[2] . '">'?></div>
+
 		<header>
 			<div class="title">
 				<h1><?php echo $workSelected[0]?></h1>
@@ -37,31 +38,31 @@
 						<p>Examples of these tools include the Foundation Finder (a short quiz to find the most suitable foundation) and Foundation Challenge (a tool to find Armani products similar to what the customer uses). To create these tools, I worked directly in Demandware and developed the necessary front-end components; afterward, I collaborated with the Demandware developers to integrate them accordingly.</p>
 						<br/>
 						<figure>
-							<img src="_images/work-giorgio-armani-beauty-foundation-world-01.jpg" alt="work-giorgio-armani-beauty-foundation-world-01" width="700" height="432">
+							<img src="_images/work-giorgio-armani-beauty-foundation-world-01.jpg" alt="Finding the right foundation" width="700" height="432">
 							<figcaption>Finding the right foundation</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-giorgio-armani-beauty-foundation-world-02.jpg" alt="work-giorgio-armani-beauty-foundation-world-01" width="700" height="432">
+							<img src="_images/work-giorgio-armani-beauty-foundation-world-02.jpg" alt="Discovering the right beauty product via a quiz" width="700" height="432">
 							<figcaption>Discovering the right beauty product via a quiz</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-giorgio-armani-beauty-foundation-world-03.jpg" alt="work-giorgio-armani-beauty-foundation-world-01" width="700" height="432">
+							<img src="_images/work-giorgio-armani-beauty-foundation-world-03.jpg" alt="Discovering the right beauty product via a quiz" width="700" height="432">
 							<figcaption>Discovering the right beauty product via a quiz</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-giorgio-armani-beauty-foundation-world-04.jpg" alt="work-giorgio-armani-beauty-foundation-world-01" width="700" height="432">
+							<img src="_images/work-giorgio-armani-beauty-foundation-world-04.jpg" alt="Summary of answers" width="700" height="432">
 							<figcaption>Summary of answers</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-giorgio-armani-beauty-foundation-world-05.jpg" alt="work-giorgio-armani-beauty-foundation-world-01" width="700" height="432">
+							<img src="_images/work-giorgio-armani-beauty-foundation-world-05.jpg" alt="Product recommendations based on quiz answers" width="700" height="432">
 							<figcaption>Product recommendations based on quiz answers</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-giorgio-armani-beauty-foundation-world-06.jpg" alt="work-giorgio-armani-beauty-foundation-world-01" width="700" height="432">
+							<img src="_images/work-giorgio-armani-beauty-foundation-world-06.jpg" alt="Seeking products similar to other brands that user already knows/uses" width="700" height="432">
 							<figcaption>Seeking products similar to other brands that user already knows/uses</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-giorgio-armani-beauty-foundation-world-07.jpg" alt="work-giorgio-armani-beauty-foundation-world-01" width="700" height="432">
+							<img src="_images/work-giorgio-armani-beauty-foundation-world-07.jpg" alt="Product recommendations based on other brands" width="700" height="432">
 							<figcaption>Product recommendations based on other brands</figcaption>
 						</figure>
 					</div>

@@ -14,19 +14,18 @@
 	<body class="with-cover">
 		<?php include "_inc/nav.php" ?>
 
-		<div class="cover"><img src="_images/work-sf-transit-history-cover.jpg" alt="work-transit-quality-equity-cover" width="1200" height="900"></div>
+		<div class="cover"><?php echo '<img src="_images/' . $workSelected[3] . '" alt="' . $workSelected[2] . '">'?></div>
 		
 		<header>
 			<div class="title">
 				<h1><?php echo $workSelected[0]?></h1>
-				<div class="title-link"><a href="#" class="link-cta">view project</a></div>
+				<div class="title-link"><a href="sftransithistory/" target="_blank" class="link-cta">view project</a></div>
 			</div>
 			<span class="intro"><?php echo $workSelected[1]?></span>
 			<ul class="role">
 				<li>UX design</li>
-				<li>User research</li>
 				<li>Data visualization</li>
-				<li>Front-end development</li>
+				<li>User research</li>
 			</ul>
 		</header>
 		
@@ -43,33 +42,39 @@
 						<p>The project has been featured on <a href="https://www.huffingtonpost.com/2013/05/15/san-francisco-transit-history_n_3280949.html" target="_blank">Huffington Post</a> and <a href="http://tumblr.thisbigcity.net/post/51286712752/san-francisco-transit-history-is-an-interactive" target="_blank">thisbigcity</a>.</p>
 						<br/>
 						<figure>
-							<img src="_images/work-sf-transit-history-01.jpg" alt="work-sf-transit-history-01" width="1600" height="900">
+							<img src="_images/work-sf-transit-history-01.jpg" alt="Concept sketches" width="1600" height="900">
 							<figcaption>Concept sketches</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sf-transit-history-02.jpg" alt="work-sf-transit-history-02" width="1020" height="574">
+							<img src="_images/work-sf-transit-history-02.jpg" alt="Early design with parallel timelines" width="1020" height="574">
 							<figcaption>Early design with parallel timelines</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sf-transit-history-03.jpg" alt="work-sf-transit-history-03" width="1600" height="900">												<figcaption>Intro screen</figcaption>
+							<img src="_images/work-sf-transit-history-03.jpg" alt="Intro screen" width="1600" height="900">							<figcaption>Intro screen</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sf-transit-history-04.jpg" alt="work-sf-transit-history-04" width="1600" height="900">												<figcaption>Showing one storyline from past to present</figcaption>
+							<img src="_images/work-sf-transit-history-04.jpg" alt="Showing one storyline from past to present" width="1600" height="900">							
+							<figcaption>Showing one storyline from past to present</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sf-transit-history-05.jpg" alt="work-sf-transit-history-05" width="1600" height="900">												<figcaption>Showing two storylines with an overlapping event</figcaption>
+							<img src="_images/work-sf-transit-history-05.jpg" alt="Showing two storylines with an overlapping event" width="1600" height="900">
+							<figcaption>Showing two storylines with an overlapping event</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sf-transit-history-06.jpg" alt="work-sf-transit-history-06" width="1600" height="900">												<figcaption>Showing all storylines, which altogether forms a &ldquo;system map&rdquo;</figcaption>
+							<img src="_images/work-sf-transit-history-06.jpg" alt="Showing all storylines, which altogether forms a system map" width="1600" height="900">
+							<figcaption>Showing all storylines, which altogether forms a &ldquo;system map&rdquo;</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sf-transit-history-07.jpg" alt="work-sf-transit-history-03" width="1600" height="900">												<figcaption>The user can click on any dot and read about the historical event that happen during that point in time</figcaption>
+							<img src="_images/work-sf-transit-history-07.jpg" alt="The user can click on any dot and read about the historical event that happen during that point in time" width="1600" height="900">							
+							<figcaption>The user can click on any dot and read about the historical event that happen during that point in time</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sf-transit-history-08.jpg" alt="work-sf-transit-history-03" width="1600" height="900">												<figcaption>Each event is accompanied by an image that illustrates and contextualizes it</figcaption>
+							<img src="_images/work-sf-transit-history-08.jpg" alt="Each event is accompanied by an image that illustrates and contextualizes it" width="1600" height="900">							
+							<figcaption>Each event is accompanied by an image that illustrates and contextualizes it</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sf-transit-history-09.jpg" alt="work-sf-transit-history-03" width="1600" height="900">												<figcaption>The last dot closes the storyline and talks about future vision</figcaption>
+							<img src="_images/work-sf-transit-history-09.jpg" alt="The last dot closes the storyline and talks about future vision" width="1600" height="900">							
+							<figcaption>The last dot closes the storyline and talks about future vision</figcaption>
 						</figure>
 					</div>
 				</section>

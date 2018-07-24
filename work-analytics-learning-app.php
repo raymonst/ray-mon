@@ -14,7 +14,7 @@
 	<body class="with-cover">
 		<?php include "_inc/nav.php" ?>
 
-		<div class="cover"><img src="_images/work-analytics-learning-app-cover.png" alt="work-analytics-learning-app-cover" width="1200" height="900"></div>
+		<div class="cover"><?php echo '<img src="_images/' . $workSelected[3] . '" alt="' . $workSelected[2] . '">'?></div>
 
 		<header>
 			<div class="title">
@@ -50,19 +50,19 @@
 							<figcaption>App demo</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-analytics-learning-app-01.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										
+							<img src="_images/work-analytics-learning-app-01.jpg" alt="The app is divided into themes which cater to different skill levels" width="1400" height="864">										
 							<figcaption>The app is divided into themes which cater to different skill levels</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-analytics-learning-app-02.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										
+							<img src="_images/work-analytics-learning-app-02.jpg" alt="Live in-app chart examples with detailed guidelines" width="1400" height="864">										
 							<figcaption>Live in-app chart examples with detailed guidelines</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-analytics-learning-app-03.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										
+							<img src="_images/work-analytics-learning-app-03.jpg" alt="Live in-app chart examples with detailed guidelines" width="1400" height="864">										
 							<figcaption>Live in-app chart examples with detailed guidelines</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-analytics-learning-app-04.jpg" alt="work-analytics-learning-app-01" width="1400" height="864">										
+							<img src="_images/work-analytics-learning-app-04.jpg" alt="More advanced example with code snippets" width="1400" height="864">										
 							<figcaption>More advanced example with code snippets</figcaption>
 						</figure>
 					</div>

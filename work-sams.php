@@ -1,6 +1,6 @@
 <?php 
 	include "_inc/work-list.php";
-	$key = 4;
+	$key = 3;
 	$workSelected = $work[$key];
 ?>
 
@@ -14,12 +14,12 @@
 	<body class="with-cover">
 		<?php include "_inc/nav.php" ?>
 
-		<div class="cover"><img src="_images/work-sams-cover.png" alt="work-sams-cover" width="1152" height="864"></div>
+		<div class="cover"><?php echo '<img src="_images/' . $workSelected[3] . '" alt="' . $workSelected[2] . '">'?></div>
 
 		<header>
 			<div class="title">
 				<h1><?php echo $workSelected[0]?></h1>
-				<div class="title-link"><a href="#" class="link-cta">view prototype</a></div>
+				<div class="title-link"><a href="https://eat-ux.herokuapp.com/" target="_blank" class="link-cta">view prototype</a></div>
 			</div>
 			<span class="intro"><?php echo $workSelected[1]?></span>
 			<ul class="role">
@@ -45,19 +45,19 @@
 							<figcaption>App walkthrough</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sams-01.jpg" alt="work-sams-01" width="1400" height="864">
+							<img src="_images/work-sams-01.jpg" alt="Introduction page" width="1400" height="864">
 							<figcaption>Introduction page</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sams-02.png" alt="work-sams-02" width="1400" height="864">
+							<img src="_images/work-sams-02.png" alt="Surfacing contextual help assists user along the way" width="1400" height="864">
 							<figcaption>Surfacing contextual help assists user along the way</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sams-03.png" alt="work-sams-03" width="1400" height="864">
+							<img src="_images/work-sams-03.png" alt="Summarizing user's information as they progress through the application" width="1400" height="864">
 							<figcaption>Summarizing user&rsquo;s information as they progress through the application</figcaption>
 						</figure>
 						<figure>
-							<img src="_images/work-sams-04.jpg" alt="work-sams-04" width="1400" height="864">
+							<img src="_images/work-sams-04.jpg" alt="Conducting usability research" width="1400" height="864">
 							<figcaption>Conducting usability research</figcaption>
 						</figure>
 					</div>

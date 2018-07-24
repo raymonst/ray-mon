@@ -12,7 +12,7 @@
 		<header>
 			<div class="title">
 				<h1>RESUME</h1>
-				<div><a class="link-cta" href="_files/rst-resume.pdf">Download pdf</a></div>
+				<div><a class="link-cta" href="_files/rst-resume.pdf" target="_blank">Download pdf</a></div>
 			</div>
 		</header>
 		
@@ -29,8 +29,8 @@
 						<ul class="list-text">
 							<li>Lead design for <a href="https://www.salesforce.com/blog/2018/03/einstein-analytics-conversational-queries.html" target="_blank">conversational query in Einstein Analytics</a>, which enables users to ask questions about their own data &amp; receive answers as interactive charts that they can explore further</li>
 							<li>Lead design for onboarding, <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN" target="_blank">product education</a>, &amp; troubleshooting experiences in Einstein Analytics; systemize the design patterns so they are reusable in other Salesforce products</li>
-							<li>Design Lightning dashboard subscription experience, which enables 4.2M+ daily dashboard users to send a snapshot of their dashboard as an email; create prototypes &amp; collaborate with engineers to build a high-quality solution within the limits of email technologies</li>
-							<li>Create a set of design patterns for folder management &amp; sharing to accommodate various sharing models across the board (reports, dashboards, files, &amp; accounts sharing)</li>
+							<li>Design Lightning dashboard subscription experience, which lets 4.2M+ daily dashboard users send a snapshot of their dashboard via email; create prototypes &amp; collaborate with engineers to build a high-quality solution within the limits of email technologies</li>
+							<li>Lead design for folder management &amp; sharing up to its release in Summer 2018, which addresses the #3 most requested feature by Salesforce customers</li>
 							<li>Act as head editor of <a href="https://medium.com/salesforce-ux" target="_blank">Salesforce UX blog</a>; evangelize the blog internally and externally, helping it grow from 14K to 21K subscribers; formalize &amp; document the publication process to bring clarity to the blog team &amp; writers; build &amp; deploy a custom Salesforce app to streamline &amp; automate the process</li>
 							<li>Design &amp; build <a href="https://lightningdesignsystem.com/guidelines/messaging/overview/" target="_blank">Lightning Messaging Framework</a>, a UX guideline for messaging patterns in the Salesforce ecosystem; collaborate with writers to create a holistic UI text library that works harmoniously with UI patterns; integrate the documentation into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a></li>
 							<li>Lead design for <a href="https://releasenotes.docs.salesforce.com/en-us/spring16/release-notes/rn_general_inline_editing.htm" target="_blank">Lightning inline edit</a> experience, which allows users to update data efficiently; build prototypes &amp; conduct research to test design concepts; collaborate with engineers to build a high-quality end product that meets product, design, &amp; accessibility requirements</li>
@@ -55,7 +55,7 @@
 					</div>
 					<div class="container-section-item">
 						<h3>Senior Associate Front-End Developer</h3>
-						<h4><a href="https://www.accenture.com/us-en/interactive-index" target="_balnk">Acquity Group</a> &middot;&middot;&middot; 2011&ndash;2012</h4>
+						<h4><a href="https://www.accenture.com/us-en/interactive-index" target="_balnk">Acquity Group</a> (acquired by Accenture Interactive) &middot;&middot;&middot; 2011&ndash;2012</h4>
 						<ul class="list-text">
 							<li>Develop rich front-end desktop &amp; mobile web interfaces that integrate with platforms such as Demandware to deliver the best custom e-commerce experience</li>
 							<li>Educate both the clients &amp; design team on web best practices to ensure that the team is delivering innovative but viable solutions</li>

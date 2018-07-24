@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="description">
+	<meta name="keywords" content="keywords">
+	<link href='http://fonts.googleapis.com/css?family=Oxygen:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="_css/style.css" />
+	<script type="text/javascript" src="_js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript" src="_js/d3.min.js"></script>	
+	<script type="text/javascript" src="_js/script.js"></script>
+	<title>San Francisco</title>
+</head>
+
+<body>
+
+<div id="viz"></div>
+
+<div id="loading">loading</div>
+
+<div id="zoom">
+	<a id="zoom-in" href="#"><img src="_images/zoom-in.png" alt="zoom in" width="30" height="30" /></a>
+	<a id="zoom-out" href="#"><img src="_images/zoom-out.png" alt="zoom out" width="30" height="30" /></a>
+</div>
+
+<div id="info"></div>
+
+<div id="legend">
+	<h2><a href="#" class="closed">Legend</a></h2>
+	<div id="legend-detail">
+		<ul>
+			<li><svg width="20" height="20"><path d="M0 10 L20 10 Z" stroke="#2C7BC9" stroke-width="2" /></svg><span>route<span></li>
+			<li><svg width="20" height="20"><circle cx="10" cy="10" r="7" fill="#ED3A2D" /></svg><span>stop</span></li>
+		</ul>
+		<hr/>
+		<ul>
+			<li>
+				<svg width="170" height="30">
+					<circle cx="3" cy="15" r="3" fill="#ED3A2D" />
+					<circle cx="155" cy="15" r="15" fill="#ED3A2D" />
+				</svg>
+				<span class="c-01">less frequent<br/>service</span>
+				<span class="c-02">more frequent<br/>service</span>
+			</li>
+		</ul>
+		<hr/>
+		<ul>
+			<li>
+				<svg width="170" height="10">
+					<rect width="170" height="10" fill="url(#gradient)" />
+					<defs>
+						<linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+							<stop offset="0%" style="stop-color:#ED3A2D;" />
+							<stop offset="100%" style="stop-color:#2e0101" />
+						</linearGradient>
+					</defs>
+				</svg>
+				<span class="c-01">shorter<br/>delay<br/>(0 min.)</span>
+				<span class="c-02">longer<br/>delay<br/>(15+ min.)</span>
+			</li>
+		</ul>
+		<hr/>
+		<h3>Poverty Level</h3>
+		<ul>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#EAF5DA" /></svg><span>&lt;= 5% of residents</span></li>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#CFE8AC" /></svg><span>5.01 - 10% of residents</span></li>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#9FC961" /></svg><span>10.01 - 15% of residents</span></li>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#7CAD34" /></svg><span>15.01 - 20% of residents</span></li>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#64961B" /></svg><span>20.01 - 25% of residents</span></li>
+			<li><svg width="20" height="20"><rect width="300" height="100" fill="#41660A" /></svg><span>&gt; 25% of residents</span></li>
+		</ul>
+	</div>
+</div>
+	
+<div id="container">
+
+	<h1>San Francisco</h1>
+	
+	<div id="content">
+
+		<h2>Demographic Data</h2>
+		<ul id="economic">
+			<li><a href="#" id="toggle-tracts">POVERTY LEVEL &amp;<br/>RACIAL BREAKDOWN</a></li>
+		</ul>
+	
+		<hr/>
+	
+		<h2>Routes</h2>
+		<ul>
+			<li><a href="#" id="toggle-route-001" class="toggle-routes">1</a>				</li>
+	<!-- 		<li><a href="#" id="toggle-route-01EXTRA" class="toggle-routes">1 (Extra)</a>	</li> -->
+			<li><a href="#" id="toggle-route-101X" class="toggle-routes">1X - 31X -38X </a>	</li>
+			<li><a href="#" id="toggle-route-002" class="toggle-routes">2 - 3 - 4</a>			</li>
+	<!-- 		<li><a href="#" id="toggle-route-002-WKY" class="toggle-routes">2-3-4 (Weekday)</a></li> -->
+			<li><a href="#" id="toggle-route-005" class="toggle-routes">5</a>				</li>
+	<!-- 		<li><a href="#" id="toggle-route-05EXTRA" class="toggle-routes">5 (Extra)</a>	</li> -->
+			<li><a href="#" id="toggle-route-006" class="toggle-routes">6</a>				</li>
+			<li><a href="#" id="toggle-route-008X" class="toggle-routes">8X</a>				</li>
+			<li><a href="#" id="toggle-route-012" class="toggle-routes">12</a>				</li>
+	<!--
+			<li><a href="#" id="toggle-route-10EXTRA" class="toggle-routes">12 (Folsom Pacific)</a>	</li>		
+			<li><a href="#" id="toggle-route-012-WKY" class="toggle-routes">12 (Wky)</a>	</li>
+	-->
+			<li><a href="#" id="toggle-route-016X" class="toggle-routes">16X</a>			</li>
+			<li><a href="#" id="toggle-route-019-WKY" class="toggle-routes">19</a>			</li>
+			<li><a href="#" id="toggle-route-028-WKY" class="toggle-routes">28</a>			</li>
+	<!-- 		<li><a href="#" id="toggle-route-028-SAT" class="toggle-routes">28 (Sat)</a>	</li> -->
+			<li><a href="#" id="toggle-route-014" class="toggle-routes">14</a>				</li>
+			<li><a href="#" id="toggle-route-114XL" class="toggle-routes">14X/L</a>			</li>
+			<li><a href="#" id="toggle-route-017" class="toggle-routes">17</a>				</li>
+			<li><a href="#" id="toggle-route-018" class="toggle-routes">18</a>				</li>
+	<!-- 		<li><a href="#" id="toggle-route-019" class="toggle-routes">19</a>				</li> -->
+			<li><a href="#" id="toggle-route-021" class="toggle-routes">21</a>				</li>
+			<li><a href="#" id="toggle-route-022" class="toggle-routes">22</a>				</li>
+			<li><a href="#" id="toggle-route-023" class="toggle-routes">23</a>				</li>
+			<li><a href="#" id="toggle-route-024" class="toggle-routes">24</a>				</li>
+			<li><a href="#" id="toggle-route-027" class="toggle-routes">27</a>				</li>
+			<li><a href="#" id="toggle-route-028" class="toggle-routes">28</a>				</li>
+			<li><a href="#" id="toggle-route-029" class="toggle-routes">29</a>				</li>
+			<li><a href="#" id="toggle-route-030" class="toggle-routes">30</a>				</li>
+			<li><a href="#" id="toggle-route-130X" class="toggle-routes">30X</a>			</li>
+			<li><a href="#" id="toggle-route-031" class="toggle-routes">31</a>				</li>
+			<li><a href="#" id="toggle-route-033" class="toggle-routes">33</a>				</li>
+			<li><a href="#" id="toggle-route-035" class="toggle-routes">35</a>				</li>
+			<li><a href="#" id="toggle-route-036" class="toggle-routes">36</a>				</li>
+			<li><a href="#" id="toggle-route-037" class="toggle-routes">37</a>				</li>
+			<li><a href="#" id="toggle-route-038" class="toggle-routes">38</a>				</li>
+	<!-- 		<li><a href="#" id="toggle-route-138L" class="toggle-routes">38L</a>			</li> -->
+			<li><a href="#" id="toggle-route-039" class="toggle-routes">39</a>				</li>
+			<li><a href="#" id="toggle-route-041" class="toggle-routes">41</a>				</li>
+			<li><a href="#" id="toggle-route-043" class="toggle-routes">43</a>				</li>
+	<!-- 		<li><a href="#" id="toggle-route-043-WKY" class="toggle-routes">43 (Wky)</a>	</li> -->
+			<li><a href="#" id="toggle-route-044" class="toggle-routes">44</a>				</li>
+			<li><a href="#" id="toggle-route-047" class="toggle-routes">47</a>				</li>
+	<!-- 		<li><a href="#" id="toggle-route-047-WKY" class="toggle-routes">47 (Wky)</a>	</li> -->
+			<li><a href="#" id="toggle-route-048" class="toggle-routes">48</a>				</li>
+			<li><a href="#" id="toggle-route-049" class="toggle-routes">49</a>				</li>
+			<li><a href="#" id="toggle-route-052" class="toggle-routes">52</a>				</li>
+			<li><a href="#" id="toggle-route-054" class="toggle-routes">54</a>				</li>
+			<li><a href="#" id="toggle-route-056" class="toggle-routes">56</a>				</li>
+			<li><a href="#" id="toggle-route-059" class="toggle-routes">59</a>				</li>
+			<li><a href="#" id="toggle-route-061" class="toggle-routes">61</a>				</li>
+			<li><a href="#" id="toggle-route-066" class="toggle-routes">66</a>				</li>
+			<li><a href="#" id="toggle-route-067" class="toggle-routes">67</a>				</li>
+			<li><a href="#" id="toggle-route-076X" class="toggle-routes">76X</a>			</li>
+			<li><a href="#" id="toggle-route-080" class="toggle-routes">80</a>				</li>
+			<li><a href="#" id="toggle-route-083X" class="toggle-routes">83X</a>			</li>
+			<li><a href="#" id="toggle-route-088" class="toggle-routes">88</a>				</li>
+			<li><a href="#" id="toggle-route-090" class="toggle-routes">90</a>				</li>
+			<li><a href="#" id="toggle-route-091" class="toggle-routes">91</a>				</li>
+			<li><a href="#" id="toggle-route-095SD" class="toggle-routes">95SD</a>			</li>
+			<li><a href="#" id="toggle-route-108" class="toggle-routes">108</a>				</li>
+	<!-- 		<li><a href="#" id="toggle-route-098E" class="toggle-routes">E</a>				</li> -->
+			<li><a href="#" id="toggle-route-098" class="toggle-routes">F</a>				</li>
+			<li><a href="#" id="toggle-route-093" class="toggle-routes">J - N</a>				</li>
+			<li><a href="#" id="toggle-route-N-EXPRE" class="toggle-routes">N (Exp)</a>		</li>
+			<li><a href="#" id="toggle-route-094" class="toggle-routes">L - N</a>				</li>
+			<li><a href="#" id="toggle-route-097" class="toggle-routes">K - L - M - S - T</a>		</li>
+		</ul>
+
+	</div>		
+
+</div>
+	
+<script type="text/javascript">
+	$(document).ready(function() {
+	    viz.sanfrancisco();
+	});
+</script>
+
+</body>
+</html>

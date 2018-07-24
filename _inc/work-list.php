@@ -17,19 +17,19 @@
 			"Analytics Learning App",
 			"Educating users with hands-on examples &amp; best practices",
 			"work-analytics-learning-app.php",
-			"work-analytics-learning-app-cover.png"
-		],
-		[
-			"Transit Quality &amp; Equity",
-			"Visualizing urban mobility",
-			"work-transit-quality-equity.php",
-			"work-transit-quality-equity-cover.jpg"
+			"work-analytics-learning-app-cover.jpg"
 		],
 		[
 			"SAMS",
 			"Streamlining access to government assistance",
 			"work-sams.php",
 			"work-sams-cover.png"
+		],
+		[
+			"Transit Quality &amp; Equity",
+			"Visualizing urban mobility",
+			"work-transit-quality-equity.php",
+			"work-transit-quality-equity-cover.jpg"
 		],
 		[
 			"StreetSavvy",
