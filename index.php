@@ -13,7 +13,7 @@
 	<body class="with-cover home">
 		<?php include "_inc/nav.php" ?>
 		<div class="cover">
-			<?php  echo '<img src="_images/home-' . rand(1, 12) . '.jpg" alt="Cover image">' ?>
+			<?php  echo '<img src="_images/home-' . rand(1, 15) . '.jpg" alt="Cover image">' ?>
 			<div class="cover-mask">&nbsp;</div>
 		</div>
 		<header>
