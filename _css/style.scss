@@ -477,7 +477,7 @@ nav {
 
 		h1 {
 			border-bottom: 1rem solid $color-brand;
-			font-size: 3.5rem;
+			font-size: 4rem;
 			position: relative;
 			z-index: 1;
 			text-shadow: 0 4px 8px #555;
@@ -989,7 +989,7 @@ nav {
 	}	
 	
 	.intro {
-		font-size: 2rem;
+		font-size: 1.5rem;
 		font-style: italic;
 		line-height: 1.25;
 		margin: 0 0 2rem 0;
@@ -1010,7 +1010,7 @@ nav {
 			grid-template-rows: repeat(auto, [row] auto);
 	
 			.intro {
-				font-size: 1.75rem;
+				font-size: 1.5rem;
 				grid-column: col 1 / span 4;
 				grid-row: row 1 / span 1;
 				margin: 0 0 2rem 0;
@@ -1056,8 +1056,8 @@ nav {
 		}
 		
 		#header-decoration {
-			height: 19rem;
-			width: 18rem;
+			height: 18rem;
+			width: 16rem;
 			left: -6%;
 			top: -1rem;
 		}
