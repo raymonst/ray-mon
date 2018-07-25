@@ -16,6 +16,13 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/404.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/404.php",
+		"oF": 0
+		},
 	"\/_css\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -81,6 +88,61 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_images\/home-10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/home-11.jpg": {
+		"ft": 16384,
+		"iS": 340960,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/home-11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/home-12.jpg": {
+		"ft": 16384,
+		"iS": 315396,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/home-12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/home-13.jpg": {
+		"ft": 16384,
+		"iS": 142076,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/home-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/home-14.jpg": {
+		"ft": 16384,
+		"iS": 250000,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/home-14.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/home-15.jpg": {
+		"ft": 16384,
+		"iS": 115076,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/home-15.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -860,7 +922,7 @@
 		},
 	"\/_images\/work-streetsavvy-01.jpg": {
 		"ft": 16384,
-		"iS": 177118,
+		"iS": 61000,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_images\/work-streetsavvy-01.jpg",
@@ -1029,6 +1091,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_images\/work-writing-turning-constraints-into-catalysts-for-creativity.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_images\/WPI]I=\\.jpg": {
+		"ft": 16384,
+		"iS": 245553,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_images\/WPI]I=\\.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
