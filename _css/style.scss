@@ -527,10 +527,10 @@ nav {
 		.intro {
 			color: $color-text-dark;
 			font-style: normal;
-			font-size: 2.5rem;
+			font-size: 2.25rem;
 			grid-column: col 1 / span 9;
 			grid-row: row 1 / span 2;
-			line-height: 1.375;
+			line-height: 1.25;
 			margin: 0 0 2rem 0;
 		}
 		
@@ -616,10 +616,10 @@ nav {
 	
 	#header-decoration {
 		background: rgba(249,164,0,.1);
-		height: 22rem;
+		height: 20rem;
 		position: absolute;
 		left: -2rem;
-		width: 22rem;
+		width: 20rem;
 		top: -1rem;
 		z-index: 0;	
 	}
@@ -988,7 +988,7 @@ nav {
 	}	
 	
 	.intro {
-		font-size: 2rem;
+		font-size: 1.5rem;
 		font-style: italic;
 		line-height: 1.25;
 		margin: 0 0 2rem 0;
@@ -1009,7 +1009,7 @@ nav {
 			grid-template-rows: repeat(auto, [row] auto);
 	
 			.intro {
-				font-size: 1.75rem;
+				font-size: 1.5rem;
 				grid-column: col 1 / span 4;
 				grid-row: row 1 / span 1;
 				margin: 0 0 2rem 0;
@@ -1055,9 +1055,9 @@ nav {
 		}
 		
 		#header-decoration {
-			height: 19rem;
-			width: 18rem;
-			left: -6%;
+			height: 18rem;
+			width: 15rem;
+			left: -2rem;
 			top: -1rem;
 		}
 		

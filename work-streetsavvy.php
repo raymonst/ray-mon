@@ -39,7 +39,7 @@
 					<div class="container-section-item">
 						<p>StreetSavvy is a mobile web-based mobile mapping tool that aims to improve the pedestrian experience&mdash;particularly women&mdash;by helping users make informed decisions about which route to walk. It combines a combination of time-sensitive data about safety, an easy way to define their own safety preferences, and the ability to navigate a route &ldquo;hands free.&rdquo;</p>
 						<p>In this project, I led the design process while keeping our product&rsquo;s goal in mind, i.e. to build a tool where people can explore data based on their own idea of what safety means to them, rather than an imposed &ldquo;safety algorithm.&rdquo; By letting users explore positive data beyond standard crime statistics, we aim to provide a more balanced, socially conscious tool for data-driven discussions about safety.</p>
-						<p>StreetSavvy was developed as a <a href="http://www.ischool.berkeley.edu/programs/mims/projects/2014/streetsavvy" target="_blank">Masters final project</a> and it won the 2014 Chen Awards in the “Enhancing User Experience” category.</p>
+						<p>StreetSavvy was developed as a <a href="http://www.ischool.berkeley.edu/programs/mims/projects/2014/streetsavvy" target="_blank">Masters final project</a> and it won the 2014 Chen Awards in the &ldquo;Enhancing User Experience&rdquo; category.</p>
 						<br/>
 						<figure>
 							<img src="_images/work-streetsavvy-01.jpg" alt="Early wireframes" width="1200" height="675">

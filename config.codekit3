@@ -16,6 +16,13 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/404.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/404.php",
+		"oF": 0
+		},
 	"\/_css\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -110,7 +117,11 @@
 		},
 	"\/_images\/home-13.jpg": {
 		"ft": 16384,
+<<<<<<< HEAD
 		"iS": 144770,
+=======
+		"iS": 142076,
+>>>>>>> a0f4eaf1f35cf2716ef83cd183669c17e8498333
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_images\/home-13.jpg",
@@ -915,7 +926,7 @@
 		},
 	"\/_images\/work-streetsavvy-01.jpg": {
 		"ft": 16384,
-		"iS": 177118,
+		"iS": 61000,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_images\/work-streetsavvy-01.jpg",
