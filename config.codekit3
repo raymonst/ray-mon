@@ -117,7 +117,7 @@
 		},
 	"\/_images\/home-13.jpg": {
 		"ft": 16384,
-		"iS": 142076,
+		"iS": 144770,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_images\/home-13.jpg",
@@ -922,7 +922,7 @@
 		},
 	"\/_images\/work-streetsavvy-01.jpg": {
 		"ft": 16384,
-		"iS": 61000,
+		"iS": 177118,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_images\/work-streetsavvy-01.jpg",
@@ -5279,7 +5279,7 @@
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
-		"outputStyle": 3,
+		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 1
