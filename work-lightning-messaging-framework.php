@@ -157,7 +157,7 @@
 				<section>
 					<div class="container-section-item">
 						<p>The messaging framework started off as a personal design exploration to address a gap within SLDS and I built it separately from the main design system by choice. At the time, the main design system environment didn&rsquo;t have an easy way for contributors to add/edit content. As such, building the draft framework in a separate environment gave me far more flexibility and velocity, which was essential in the early stages.</p>
-						<p>As I refined the framework and shared it with others, it quickly became a go-to resource for SLDS users. The enthusiastic response demonstrated that the “framework” concept was highly valuable for users, which convinced the SLDS team to integrate it to the main design system site. The messaging framework became an official part of the Lightning Design System as of <a href="https://lightningdesignsystem.com/release-notes/" target="_blank">SLDS v2.2</a>.</p>
+						<p>As I refined the framework and shared it with others, it quickly became a go-to resource for SLDS users. The enthusiastic response demonstrated that the &ldquo;framework&rdquo; concept was highly valuable for users, which convinced the SLDS team to integrate it to the main design system site. The messaging framework became an official part of the Lightning Design System as of <a href="https://lightningdesignsystem.com/release-notes/" target="_blank">SLDS v2.2</a>.</p>
 						<figure>
 							<img src="_images/work-lightning-messaging-framework-site.jpg" alt="Integrating the messaging framework back into Salesforce's Lightning Design System" width="1916" height="945">
 							<figcaption>Integrating the messaging framework back into Salesforce&rsquo;s Lightning Design System</figcaption>
