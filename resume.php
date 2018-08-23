@@ -42,7 +42,7 @@
 						<h4>Salesforce (Platform UX) &middot;&middot;&middot; Summer 2013</h4>
 						<ul class="list-text">
 							<li>Design <a href="https://developer.salesforce.com/mobile/services/mobile-templates" target="_blank">mobile web templates</a> that enable 2M+ Salesforce developers to build cross-platform mobile applications rapidly in conjunction with other tools in <a href="https://developer.salesforce.com/mobile?title=page/Salesforce_touch_platform" target="_blank">Salesforce Platform Mobile Services</a></li>
-							<li>Conduct user research &amp; design a new concept for Salesforce’s process automation tool (workflows &amp; approvals), which is used by more than 100K organizations</li>
+							<li>Conduct user research &amp; design a new concept for Salesforce&rsquo;s process automation tool (workflows &amp; approvals), which is used by more than 100K organizations</li>
 						</ul>
 					</div>
 					<div class="container-section-item">
