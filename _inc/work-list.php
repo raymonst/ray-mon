@@ -67,7 +67,7 @@
 		],
 		[
 			"Designing More Efficient Forms",
-			"Examples from Salesforce’s Lightning Experience",
+			"Examples from Salesforce&rsquo;s Lightning Experience",
 			"https://medium.com/salesforce-ux/designing-more-efficient-forms-10d23bc72c9f",
 			"work-writing-designing-more-efficient-forms.png"
 		]
