@@ -47,7 +47,7 @@
 			<hr class="separator" />
 			<ul class="list-item-visual list-item-visual-s">
 				<?php
- 					for ($i = 3; $i <= 7; $i++) {
+ 					for ($i = 3; $i <= 8; $i++) {
  					    $title = $work[$i][0];
  					    $description = $work[$i][1];
  					    $url = $work[$i][2];

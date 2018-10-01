@@ -14,6 +14,12 @@
 			"work-lightning-messaging-framework-cover.png"
 		],
 		[
+			"Learning in Analytics",
+			"Building a learning ecosystem for customer success",
+			"work-learning-in-analytics.php",
+			"work-learning-in-analytics-cover.jpg"
+		],
+		[
 			"Analytics Learning App",
 			"Educating users with hands-on examples &amp; best practices",
 			"work-analytics-learning-app.php",

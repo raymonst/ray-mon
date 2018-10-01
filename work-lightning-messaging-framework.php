@@ -54,7 +54,7 @@
 							<img src="_images/work-lightning-messaging-framework-error.png" alt="Examples of error messages in different components - text (top) and toast (bottom)" width="657" height="200">
 							<figcaption>Examples of error messages in different components&mdash;text (top) and toast (bottom)</figcaption>
 						</figure>
-						<p>Adoption was a critical issue for a fledgling design system like SLDS. This gap, in particular, stumped designers and engineers frequently when they built their respective features. They guessed around a lot&mdash;a designer for feature A might use plain text to show an error message, while another designer for feature B decided to use a toast to convey a similar message. Unfortunately, this led to a wildly inconsistent experience across the board, which doesn&rsquo;t inspire confidence in Salesforce.</p>
+						<p><strong>Adoption was a critical issue for a fledgling design system like SLDS.</strong> This gap, in particular, stumped designers and engineers frequently when they built their respective features. They guessed around a lot&mdash;a designer for feature A might use plain text to show an error message, while another designer for feature B decided to use a toast to convey a similar message. Unfortunately, this led to a wildly inconsistent experience across the board, which doesn&rsquo;t inspire confidence in Salesforce.</p>
 					</div>
 				</section>
 			</div>
@@ -136,7 +136,7 @@
 							<figcaption>Examples of typical scenarios for error state along with specific guidelines for each</figcaption>
 						</figure>
 						<p>As the framework developed, I shopped it around to a number of SLDS users to get feedback. While the users were delighted that a framework was emerging, this version simply wasn&rsquo;t clear enough for them.</p> 
-						<p>Seeing usage guidelines for each component and how the components were ordered made sense. However, the user typically wouldn&rsquo;t think of the component as a starting point. Instead, they usually thought about the state first, e.g. &ldquo;I need to show an <span>error</span> message in this flow,&rdquo; or &ldquo;What is the <span>empty state</span> for a new list?&rdquo; etc.</p>
+						<p>Seeing usage guidelines for each component and how the components were ordered made sense. <strong>However, this didn&rsquo;t quite match the common mental model; a user typically wouldn&rsquo;t think of the component as a starting point.</strong> Instead, they usually thought about the state first, e.g. &ldquo;I need to show an <span>error</span> message in this flow,&rdquo; or &ldquo;What is the <span>empty state</span> for a new list?&rdquo; etc.</p>
 						<p>This discovery helped me evolve the framework. For the next iteration, I put together a number of common states, typical scenarios (for each state), and specific component guidelines (one for each scenario). </p>
 						<p>Each of the component guideline here also linked back to the primary component page, which contains more details and examples. This information architecture enabled users to find the specific guideline they needed quickly.  </p>
 						<p>This addition made a major difference, as it fit the user&rsquo;s mental model more closely. The users who saw the revised framework were able to find the help they needed much more efficiently.</p>

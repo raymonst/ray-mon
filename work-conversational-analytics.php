@@ -35,7 +35,7 @@
 				</aside>
 				<section>
 					<div class="container-section-item">
-						<p><a href="https://www.salesforce.com/products/einstein-analytics/products/" target="_blank">Einstein Analytics (EA)</a> provides Salesforce customers with the ability to build analytics dashboards and apps that deliver business insights. While it&rsquo;s incredibly powerful, EA can feel intimidating for novice users who have little experience in analytics and/or Salesforce. To address this gap, the Analytics team built conversational queries to enable and simplify how users interact with their business data.</p>
+						<p><a href="https://www.salesforce.com/products/einstein-analytics/products/" target="_blank">Einstein Analytics (EA)</a> provides Salesforce customers with the ability to build analytics dashboards and apps that deliver business insights. While it&rsquo;s incredibly powerful, EA can feel intimidating for novice users who have little experience in analytics and/or Salesforce. With this gap in mind, <strong>how could we make Einstein Analytics more accessible so users can reap the benefits regardless of their skill level?</strong></p>
 					</div>
 				</section>
 			</div>

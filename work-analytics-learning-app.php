@@ -1,6 +1,6 @@
 <?php 
 	include "_inc/work-list.php";
-	$key = 2;
+	$key = 3;
 	$workSelected = $work[$key];
 ?>
 
@@ -43,7 +43,7 @@
 							<span>&mdash;Peter Lyons, Senior Associate at Huron Consulting Group</span>
 							<div class="quote-decoration">&nbsp;</div>
 						</blockquote>
-						<p>The learning app is one manifestation of the larger &ldquo;learning journeys&rdquo; design effort in Salesforce. It originated as a one-off solution specific to Einstein Analytics, but given its success, we are looking into how to replicate this learning experience in other products.</p>
+						<p>The learning app is one manifestation of the larger <a href="work-learning-in-analytics.php" target="_blank">&ldquo;learning journeys&rdquo;</a> design effort in Salesforce. It originated as a one-off solution specific to Einstein Analytics, but given its success, we are looking into how to replicate this learning experience in other products.</p>
 						<br/>
 						<figure>
 							<iframe width="100%" height="400" src="https://player.vimeo.com/video/253101855" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
