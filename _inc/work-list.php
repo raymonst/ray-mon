@@ -45,7 +45,7 @@
 		],
 		[
 			"San Francisco Transit History",
-			"Telling local history with interactive visualization",
+			"Narrating local history through interactive visualization",
 			"work-sf-transit-history.php",
 			"work-sf-transit-history-cover.jpg",
 		],

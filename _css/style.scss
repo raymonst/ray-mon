@@ -380,6 +380,7 @@ nav {
 
 .container {
 	figcaption {
+		color: $color-text-light;
 		font-size: .75rem;	
 		text-align: center;
 	}
@@ -870,10 +871,10 @@ nav {
 	
 	.role {
 		color: #ddd;
-		font-size: .625rem;
+		font-size: .75rem;
 		margin: 0 0 3rem 0;
 		padding: 0;
-		text-transform: uppercase;
+// 		text-transform: uppercase;
 		
 		li {
 			background: rgba(255,255,255,.1);
