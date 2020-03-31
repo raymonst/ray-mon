@@ -53,6 +53,7 @@ table {
 /* VARIABLES */
 
 $color-brand: #f9a400;
+$color-text-light: #888;
 $color-text-default: #555;
 $color-text-dark: #222;
 
@@ -142,8 +143,8 @@ footer {
 	-webkit-clip-path: polygon(0 0, 100% 2rem, 100% 100%, 0 100%);
 	clip-path: polygon(0 0, 100% 2rem, 100% 100%, 0 100%);
 	color: $color-text-dark;
-	font-size: .75rem;
-	padding: 2.5rem 0 0 0;
+	font-size: .8125rem;
+	padding: 2.5rem 0 2.5rem 0;
 	width: 100%;
 	
 	a {
@@ -384,7 +385,7 @@ nav {
 	}
 	
 	figure {
-		font-style: italic;
+// 		font-style: italic;
 		margin: 0 0 2.5rem 0;
 		max-width: 45rem;	
 
@@ -450,7 +451,8 @@ nav {
 }
 
 .cover {
-	background: linear-gradient(#312A1E, #0c0c0c);// 
+// 	background: linear-gradient(#312A1E, #0c0c0c);
+	background: linear-gradient(#1f2021, #030303);
 	box-shadow: inset 0 -16px 16px -8px #000;	
 	-moz-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 28rem);
 	-webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 28rem);
@@ -468,7 +470,7 @@ nav {
 		height: auto;
 		min-height: 30rem;
 		width: 100%;
-		opacity: 0.1;
+		opacity: 0.05;
 	}
 }	
 
@@ -532,7 +534,8 @@ nav {
 		.intro {
 			color: $color-text-dark;
 			font-style: normal;
-			font-size: 2.25rem;
+			font-size: 2.75rem;
+			font-weight: 500;
 			grid-column: col 1 / span 9;
 			grid-row: row 1 / span 2;
 			line-height: 1.25;
@@ -540,6 +543,7 @@ nav {
 		}
 		
 		.intro-secondary {
+			color: $color-text-light;
 			font-size: 1rem;
 			font-style: italic;
 			grid-column: col 5 / span 6;
@@ -621,7 +625,7 @@ nav {
 	
 	#header-decoration {
 		background: rgba(249,164,0,.1);
-		height: 20rem;
+		height: 24rem;
 		position: absolute;
 		left: -2rem;
 		width: 20rem;
@@ -633,8 +637,8 @@ nav {
 .intro {
 	color: #fff /* #5c80a9 */;
 	display: block;
-	font-size: 3rem;
-	font-style: italic;
+	font-size: 2.75rem;
+// 	font-style: italic;
 	font-weight: 500;
 	line-height: 1.25;
 	margin: 0 0 4rem 0;
@@ -672,19 +676,20 @@ nav {
 		
 		a {
 			img {
-				box-shadow: 0 4px 16px #e0e0e0;			
+				box-shadow: 0 4px 16px #eaeaea;			
 				height: auto;
 				width: 100%;	
 				transition: all 0.2s ease;
 
 				&:hover {
-					box-shadow: 0 2px 4px #eaeaea;	    	    
+// 					box-shadow: 0 2px 4px #eaeaea;	    	    
+					box-shadow: 0 0 0 #eaeaea;
 				}
 			}
 
 			&:hover {
 				background: none;
-	    	    transform: rotateZ(-.5deg) scale(0.99);	
+//	    	    transform: rotateZ(-.5deg) scale(0.99);	
 	    	}
 		}
 		
@@ -732,14 +737,15 @@ nav {
 
 		figure {
 			display: block;
-			margin: 0 0 .5rem 0;
+			margin: 0 0 .625rem 0;
 
 			a:hover img {
-				box-shadow: 0 1px 2px #eaeaea;				
+// 				box-shadow: 0 1px 2px #eaeaea;				
+				box-shadow: 0 0 0 #eaeaea;
 			}
 			
 			img {
-				box-shadow: 0 2px 4px #eaeaea;			
+				box-shadow: 0 4px 8px #eaeaea;			
 				height: auto;
 				width: 100%;	
 			}
@@ -800,9 +806,9 @@ nav {
 		}
 
 		.list-item-visual-description {
-			color: $color-text-default;
+			color: $color-text-light;
 			font-size: .8125rem;
-			font-style: italic;
+// 			font-style: italic;
 			display: block;
 			text-align: left;
 		}
@@ -810,9 +816,9 @@ nav {
 	}
 
 	.list-item-visual-description {
-		color: $color-text-default;
-		font-size: 1.5rem;
-		font-style: italic;
+		color: $color-text-light;
+		font-size: 1.625rem;
+// 		font-style: italic;
 		grid-column: col 8 / span 4;
 		grid-row: row 5;
 		line-height: 1.375;
@@ -821,7 +827,8 @@ nav {
 
 	.list-item-visual-title {
 		color: $color-text-dark;
-		font-size: 3rem;
+		font-size: 2.75rem;
+		font-weight: 500;
 		grid-column: col 6 / span 7;
 		grid-row: row 3 / span 2;
 		line-height: 1.25;
@@ -829,6 +836,7 @@ nav {
 		
 		a {
 			background: rgba(252,248,240,.9);
+			cursor: pointer;
 			
 			&:hover {
 				background: $color-brand;
@@ -868,18 +876,19 @@ nav {
 		text-transform: uppercase;
 		
 		li {
-			background: rgba(0,0,0,0.5);
-			border-radius: 1rem;
+			background: rgba(255,255,255,.1);
+			border-radius: 0;
 			display: inline-block;
 			line-height: 1;
 			list-style-type: none;
-			margin: 0 .25rem .5rem 0;
-			padding: .375rem .75rem;
+			margin: 0 .5rem .5rem 0;
+			padding: .5rem .625rem;
 		}
 	}	
 }
 
 #work-links {
+	color: $color-text-light;
 	display: flex;
 	font-size: .8125rem;	
 	hyphens: auto;
@@ -887,14 +896,15 @@ nav {
 	margin: 2rem 0 0 0;
 
 	h4 {
+		font-size: 1rem;
 		font-style: normal;
 		font-weight: 500;
 		line-height: 1.25;
-		margin: 0 0 .25rem 0;
+		margin: .5rem 0 .125rem 0;
 	}
 	
 	span {
-		font-size: .625rem;
+		font-size: .75rem;
 		font-style: normal;
 	}
 		
@@ -902,8 +912,8 @@ nav {
 	#work-links-prev {
 		border: 1px dotted $color-brand;
 		display: block;
-		font-style: italic;
-		padding: .75rem 1rem;
+// 		font-style: italic;
+		padding: .75rem 1rem 1rem 1rem;
 		position: relative;
 		-webkit-transition: transform 0.2s ease, background-position .4s ease;
 		transition: transform 0.2s ease, background-position .4s ease;
@@ -994,7 +1004,8 @@ nav {
 	
 	.intro {
 		font-size: 1.5rem;
-		font-style: italic;
+		font-weight: 400;
+// 		font-style: italic;
 		line-height: 1.25;
 		margin: 0 0 2rem 0;
 	}
@@ -1102,12 +1113,12 @@ nav {
 			grid-gap: 0;
 			grid-template-columns: 1fr;
 			grid-template-rows: 1fr auto auto;
-			margin: 0 0 2.5rem 0;		
+			margin: 0 0 4rem 0;		
 		}
 		
 		.list-item-visual-description {
+			color: $color-text-light;
 			font-size: 1.25rem;
-			font-weight: 500;
 			grid-column: 1;
 			grid-row: row 3 / span 1;
 			text-align: left;
@@ -1120,7 +1131,6 @@ nav {
 				figure {
 					display: block;
 					float: left;
-					margin-right: 0;
 					margin-right: 1rem;
 					width: 33%;
 					

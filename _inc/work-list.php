@@ -60,6 +60,13 @@
 
 	$workWriting = [
 		[
+			"A Library to Call Your Own", 
+            "A behind-the-scenes look at the redesign of Medium&rsquo;s reading list",
+			"https://medium.design/a-library-to-call-your-own-9c1fcdb6e4bc",
+			"work-writing-a-library-to-call-your-own.jpg"					
+		],
+
+		[
 			"Designing the Not-So-Happy Paths", 
 			"How to craft the right error messages when things go wrong",
 			"https://medium.com/salesforce-ux/designing-the-not-so-happy-path-fde484759a54",
