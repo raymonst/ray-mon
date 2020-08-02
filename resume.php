@@ -24,6 +24,12 @@
 				</aside>
 				<section>
 					<div class="container-section-item">
+						<h3>Principal Product Designer</h3>
+						<h4><a href="http://medium.com/" target="_blank">Medium</a> &middot;&middot;&middot; January 2019&ndash;present</h4>
+						<ul class="list-text">
+						</ul>
+					</div>
+					<div class="container-section-item">
 						<h3>Staff &rsaquo; Senior &rsaquo; Lead Product Designer</h3>
 						<h4><a href="http://salesforce.com/" target="_blank">Salesforce (Analytics UX)</a> &middot;&middot;&middot; February 2017&ndash;present<br/><a href="http://salesforce.com/" target="_blank">Salesforce (Platform UX)</a> &middot;&middot;&middot; July 2014&ndash;February 2017</h4>
 						<ul class="list-text">

@@ -18,7 +18,7 @@
 		</div>
 		<header>
 			<div class="container-header">
-				<h1>HI</h1>
+				<h1>Hi</h1>
 			</div>
 			<div id="header-decoration">&nbsp;</div>
 		</header>
@@ -36,11 +36,13 @@
 				</div>
 				<div class="intro-photo">
 					<div id="intro-photo-main"><img src="_images/photo.jpg" alt="Raymon Sutedjo-The" width="120" height="120"></div>
+<!--
 					<div id="intro-photo-decoration">&nbsp;</div>
 					<ul id="intro-photo-links">
-						<li><a href="https://www.linkedin.com/in/raymonst/" target="_blank"><img src="_images/icon-linkedin.svg" alt="LinkedIn link" width="12" height="12"></a></li>
-						<li><a href="https://twitter.com/raymonst" target="_blank"><img src="_images/icon-twitter.svg" alt="Twitter link" width="12" height="12"></a></li>
+						<li><a href="https://www.linkedin.com/in/raymonst/" target="_blank"><img src="_images/icon-linkedin.svg" alt="LinkedIn link" width="16" height="16"></a></li>
+						<li><a href="https://twitter.com/raymonst" target="_blank"><img src="_images/icon-twitter.svg" alt="Twitter link" width="16" height="16"></a></li>
 					</ul>
+-->
 				</div>
 			</div>
 			
