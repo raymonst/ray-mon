@@ -23,7 +23,7 @@
 					<hr class="separator" />
 				</aside>
 				<section>
-					<div class="container-section-item">
+					<div class="container-section-item container-section-item-single">
 						<h3>Principal Product Designer</h3>
 						<h4><a href="http://medium.com/" target="_blank">Medium</a> &middot;&middot;&middot; January 2019&ndash;present</h4>
 						<ul class="list-text">
@@ -36,7 +36,7 @@
 							<li>Lead design for <a href="https://www.salesforce.com/blog/2018/03/einstein-analytics-conversational-queries.html" target="_blank">conversational query in Einstein Analytics</a>, which enables users to ask questions about their own data &amp; receive answers as interactive charts that they can explore further</li>
 							<li>Lead design for onboarding, <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN" target="_blank">product education</a>, &amp; troubleshooting experiences in Einstein Analytics; <a href="work-learning-in-analytics.php">systemize the design patterns</a> so they are reusable in other Salesforce products</li>
 							<li>Design Lightning dashboard subscription experience, which lets 4.2M+ daily dashboard users send a snapshot of their dashboard via email; create prototypes &amp; collaborate with engineers to build a high-quality solution within the limits of email technologies</li>
-							<li>Lead design for folder management &amp; sharing up to its release in Summer 2018, addressesing the #3 most requested feature by Salesforce customers</li>
+							<li>Lead design for folder management &amp; sharing up to its release in Summer 2018, which addresses the #3 most requested feature by Salesforce customers</li>
 							<li>Act as head editor of <a href="https://medium.com/salesforce-ux" target="_blank">Salesforce UX blog</a>; evangelize the blog internally and externally, helping it grow from 14K to 21K subscribers; formalize &amp; document the publication process to bring clarity to the blog team &amp; writers; build &amp; deploy a custom Salesforce app to streamline &amp; automate the process</li>
 							<li>Design &amp; build <a href="https://lightningdesignsystem.com/guidelines/messaging/overview/" target="_blank">Lightning Messaging Framework</a>, a UX guideline for messaging patterns in the Salesforce ecosystem; collaborate with writers to create a holistic UI text library that works harmoniously with UI patterns; integrate the documentation into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a></li>
 							<li>Lead design for <a href="https://releasenotes.docs.salesforce.com/en-us/spring16/release-notes/rn_general_inline_editing.htm" target="_blank">Lightning inline edit</a> experience, which allows users to update data efficiently; build prototypes &amp; conduct research to test design concepts; collaborate with engineers to build a high-quality end product that meets product, design, &amp; accessibility requirements</li>

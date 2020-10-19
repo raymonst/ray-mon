@@ -91,7 +91,7 @@
 				</aside>
 				<section>
 					<div class="container-section-item">
-						<p>In a nutshell, SLDS users were often aware that the components/patterns they needed did exist, but they didn&rsquo;t know <span>when</span> and <span>how</span> to use these components. This became central to my design explorations for the framework.</p>
+						<p>In a nutshell, SLDS users were often aware that the components/patterns they needed did exist, but they didn&rsquo;t know <strong>when</strong> and <strong>how</strong> to use these components. This became central to my design explorations for the framework.</p>
 						<figure>
 							<img src="_images/work-lightning-messaging-framework-sketches.png" alt="Sketching out logic for the framework" width="1000" height="750">
 							<figcaption>Sketching out logic for the framework</figcaption>

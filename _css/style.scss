@@ -19,8 +19,11 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
 	font: inherit;
+	font-size: 100%;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: antialiased;
+	font-smoothing: antialiased;
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -53,6 +56,8 @@ table {
 /* VARIABLES */
 
 $color-brand: #f9a400;
+$color-brand-light: rgba(249, 164, 0, .05);
+$color-brand-medium: rgba(249, 164, 0, .5);
 $color-text-light: #757575;
 $color-text-default: #555;
 $color-text-dark: #222;
@@ -71,14 +76,16 @@ $color-text-dark: #222;
 }
 
 a {
-	background: rgba(252,248,240,1);
-	border-bottom: 1px dotted $color-brand;
+	background: $color-brand-light;
+// 	background: rgba(252,248,240,1);
+// 	border-bottom: 1px dotted $color-brand;
 	color: $color-text-default;
-	text-decoration: none;
+	text-decoration: underline;
+// 	text-decoration-color: $color-brand;
 	transition: all 0.2s ease;
 	
 	&:hover {
-		background: $color-brand;
+		background: none;
 		color: $color-text-dark;
 	}
 }
@@ -86,12 +93,14 @@ a {
 blockquote {
 	background: url("../_images/blockquote.png") 0 0 no-repeat;
 	background-size: 100px 100px;
-	font-size: 1.5rem;
 	font-style: italic;
+	font-weight: 400;
+	letter-spacing: -.005rem;
 	padding: 1.5rem 0 2.5rem 6rem;	
 	position: relative;
 	
 	p {
+		font-size: 1.5rem;
 		z-index: 1;
 	}
 	
@@ -114,7 +123,8 @@ blockquote {
 body {
 	background: #fff;
 	color: $color-text-default;
-	font-family: 'Rubik', sans-serif;
+// 	font-family: 'Rubik', sans-serif;
+	font-family: 'Heebo', sans-serif;
 	line-height: 1.5;
 }
 
@@ -143,7 +153,6 @@ footer {
 	-webkit-clip-path: polygon(0 0, 100% 2rem, 100% 100%, 0 100%);
 	clip-path: polygon(0 0, 100% 2rem, 100% 100%, 0 100%);
 	color: $color-text-dark;
-	font-size: .8125rem;
 	padding: 2.5rem 0 2.5rem 0;
 	width: 100%;
 	
@@ -155,6 +164,10 @@ footer {
 		&:hover {
 			border-color: #fff;
 		}
+	}
+	
+	p {
+		font-size: .875rem;
 	}
 	
 	.footer-section {
@@ -237,7 +250,8 @@ h1 {
 	color: $color-text-dark;
 	display: inline-block;
 	font-size: 1.5rem;
-	font-weight: 700;
+// 	font-weight: 700;
+	font-weight: 900;
 	line-height: 1.25;
 	margin: 0 0 1.5rem 0;
 	padding: 0 0 .375rem 0;
@@ -246,8 +260,10 @@ h1 {
 
 h2 {
 	color: $color-text-dark;
-	font-size: 1rem;
-	font-weight: 500;
+// 	font-size: 1rem;
+	font-size: 1.125rem;
+// 	font-weight: 500;
+	font-weight: 600;
 	line-height: 1.5;
 	margin: 0 0 .5rem 0;
 	text-transform: uppercase;
@@ -255,8 +271,10 @@ h2 {
 
 h3 {
 	color: $color-text-dark;
-	font-size: 1rem;
-	font-weight: 500;
+// 	font-size: 1rem;
+	font-size: 1.125rem;
+// 	font-weight: 500;
+	font-weight: 600;
 	line-height: 1.25;
 	margin: 0 0 .75rem 0;
 }
@@ -273,6 +291,7 @@ main {
 }
 
 p {
+	font-size: 1.125rem;
 	margin: 0 0 1rem 0;	
 	
 	span {
@@ -281,12 +300,16 @@ p {
 }
 
 strong {
-	font-weight: 500;
+	font-weight: 600;
 }
 
 ul {
 	list-style-type: circle;
 	padding: 0 0 0 2.5rem;
+	
+	li {
+		font-size: 1.125rem;	
+	}
 	
 	&.list-text {
 		line-height: 1.375;
@@ -295,7 +318,7 @@ ul {
 		padding: 0 0 .5rem 0;
 		
 		li {
-			font-size: .8125rem;
+			font-size: .875rem;
 			margin: 0 0 .75rem 0;
 		}
 	}	
@@ -331,10 +354,10 @@ nav {
 		color: #777;
 		display: block;
 		font-size: .75rem;
-		font-weight: 400;
 		line-height: 1.5;
 		overflow: hidden;
 		padding-top: .25rem;
+		text-decoration: none;
 		vertical-align: middle;
 
 		&:focus {
@@ -414,7 +437,7 @@ nav {
 .container {
 	figcaption {
 		color: $color-text-light;
-		font-size: .75rem;	
+		font-size: .875rem;	
 		text-align: center;
 	}
 	
@@ -477,6 +500,10 @@ nav {
 	
 	.container-section-item {
 		margin: 0 0 1rem 0;
+		
+		&.container-section-item-single {
+			margin: 0;	
+		}
 	}
 
 	.container-section-item :last-child {
@@ -568,19 +595,20 @@ nav {
 		.intro {
 			color: $color-text-dark;
 			font-style: normal;
-			font-size: 2.625rem;
-			font-weight: 700;
+			font-size: 2.75rem;
+// 			font-weight: 700;
+			font-weight: 900;
 			grid-column: col 1 / span 9;
 			grid-row: row 1 / span 1;
 			line-height: 1.25;
 			letter-spacing: -.05rem;
-			margin: 0 0 .5rem 0;
+			margin: 0;
 		}
 		
 		.intro-secondary {
 			color: $color-text-light;
 			font-size: 1rem;
- 			font-weight: 500;
+ 			font-weight: 600;
 			grid-column: col 5 / span 6;
 			grid-row: row 2 / span 1;
 			height: 6rem;
@@ -676,9 +704,8 @@ nav {
 	color: #fff /* #5c80a9 */;
 	display: block;
 	font-size: 2.625rem;
-// 	font-style: italic;
-	font-weight: 700;
-// 	letter-spacing: -.05rem;
+// 	font-weight: 700;
+	font-weight: 900;
 	line-height: 1.25;
 	margin: 0 0 4rem 0;
 }
@@ -689,11 +716,13 @@ nav {
 	color: $color-text-dark;
 	display: block;	
 	font-size: .75rem;
-	font-weight: 500;
+	font-weight: 600;
 	padding: .375rem .625rem;
+	text-decoration: none;
 	text-transform: uppercase;
 	
 	&:hover {
+		background: $color-brand;
 		border-bottom: 2px solid #BD7F06;
 		transform: translateY(-2px);
 	}
@@ -735,7 +764,8 @@ nav {
 		.link-external {
 			background: rgba(255,255,255,0.9);
 			color: $color-brand;
-			font-weight: 700;
+// 			font-weight: 700;
+			font-weight: 900;
 			position: absolute;
 			padding: .125rem .375rem 0 0;
 			right: 0;
@@ -771,12 +801,12 @@ nav {
 
 		li {
 			display: block;
-			margin: 0 0 .5rem 0;
+			margin: 0 0 .75rem 0;
 		}
 
 		figure {
 			display: block;
-			margin: 0 0 .625rem 0;
+			margin: 0 0 .5rem 0;
 
 			a:hover img {
 // 				box-shadow: 0 1px 2px #eaeaea;				
@@ -798,12 +828,13 @@ nav {
 				border: 0;
 			 	display: block;
 			 	font-style:normal;
-				font-weight: 500;
+				font-weight: 600;
 				left: 0%;
 				padding: 1rem 0;
 				position: absolute;
 				width: 100%;
 				text-align: center;
+				text-decoration: none;
 				text-transform: uppercase;
 				transform: none;
 				top: 23%;
@@ -838,17 +869,18 @@ nav {
 		
 		.list-item-visual-title {			
 			color: $color-text-dark;
-			font-size: 1rem;
-			font-weight: 500;
-			line-height: 1.375;
-			margin-bottom: .25rem;
+			font-size: 1.125rem;
+			font-weight: 600;
+			line-height: 1.5;
+			margin: 0 0 .125rem 0;
 		}
 
 		.list-item-visual-description {
 			color: $color-text-light;
-			font-size: .8125rem;
+			font-size: .875rem;
 // 			font-style: italic;
 			display: block;
+			margin: 0;
 			text-align: left;
 		}
 
@@ -856,29 +888,33 @@ nav {
 
 	.list-item-visual-description {
 		color: $color-text-light;
-		font-size: 1.625rem;
+		font-size: 1.75rem;
 // 		font-style: italic;
-		grid-column: col 8 / span 4;
-		grid-row: row 5;
-		line-height: 1.375;
+		grid-column: col 7 / span 5;
+		grid-row: row 4;
+		line-height: 1.25;
+		margin-left: 1.5rem;
 		text-align: left;
 	}
 
 	.list-item-visual-title {
 		color: $color-text-dark;
-		font-size: 2.625rem;
-		font-weight: 700;
-		grid-column: col 6 / span 7;
-		grid-row: row 3 / span 2;
-		line-height: 1.25;
+		font-size: 2.5rem;
+// 		font-weight: 700;
+		font-weight: 900;
+		grid-column: col 7 / span 7;
+		grid-row: row 2 / span 2;
+		line-height: 1.5;
+		margin-left: 1.5rem;
 		z-index: 2;
 		
 		a {
-			background: rgba(252,248,240,.9);
+			background: $color-brand-light;
 			cursor: pointer;
+			text-decoration: none;
 			
 			&:hover {
-				background: $color-brand;
+				background: none;
 			}
 		}
 	}
@@ -909,15 +945,14 @@ nav {
 	
 	.role {
 		color: #ddd;
-		font-size: .75rem;
 		margin: 0 0 3rem 0;
 		padding: 0;
-// 		text-transform: uppercase;
 		
 		li {
 			background: rgba(255,255,255,.1);
 			border-radius: 0;
 			display: inline-block;
+			font-size: .875rem;
 			line-height: 1;
 			list-style-type: none;
 			margin: 0 .5rem .5rem 0;
@@ -929,15 +964,16 @@ nav {
 #work-links {
 	color: $color-text-light;
 	display: flex;
-	font-size: .8125rem;	
+	font-size: .875rem;	
 	hyphens: auto;
 	justify-content: space-between;
 	margin: 2rem 0 0 0;
+	text-decoration: none;
 
 	h4 {
 		font-size: 1rem;
 		font-style: normal;
-		font-weight: 500;
+		font-weight: 600;
 		line-height: 1.25;
 		margin: .5rem 0 .125rem 0;
 	}
@@ -955,6 +991,7 @@ nav {
 		padding: .75rem 1rem 1rem 1rem;
 		position: relative;
 		-webkit-transition: transform 0.2s ease, background-position .4s ease;
+		text-decoration: none;
 		transition: transform 0.2s ease, background-position .4s ease;
 		width: 30%;		
 	}
@@ -1172,6 +1209,7 @@ nav {
 			font-size: 1.25rem;
 			grid-column: 1;
 			grid-row: row 3 / span 1;
+			margin: 0;
 			text-align: left;
 		}
 	
@@ -1195,6 +1233,10 @@ nav {
 					float: left;
 					width: calc(67% - 1rem);
 				}
+				
+				.list-item-visual-description {
+					font-size: 1rem;
+				}
 
 			}
 
@@ -1206,6 +1248,7 @@ nav {
 					top: 150%;
 				}
 			}
+
 		}
 		
 		.list-item-visual-title {
@@ -1215,7 +1258,7 @@ nav {
 			grid-row: row 2 / span 1;
 // 			letter-spacing: -.05rem;
 			line-height: 1.25;
-			margin-bottom: .5rem;
+			margin: 0 0 .5rem 0;
 		}
 	}
 
