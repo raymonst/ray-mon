@@ -25,15 +25,15 @@
 				<section>
 					<div class="container-section-item container-section-item-single">
 						<h3>Principal Product Designer</h3>
-						<h4><a href="http://medium.com/" target="_blank">Medium</a> &middot;&middot;&middot; January 2019&ndash;present</h4>
+						<h4><a href="http://medium.com/" target="_blank">Medium</a> &middot;&middot;&middot; January 2019&ndash;October 2020</h4>
 						<ul class="list-text">
 						</ul>
 					</div>
 					<div class="container-section-item">
 						<h3>Staff &rsaquo; Senior &rsaquo; Lead Product Designer</h3>
-						<h4><a href="http://salesforce.com/" target="_blank">Salesforce (Analytics UX)</a> &middot;&middot;&middot; February 2017&ndash;present<br/><a href="http://salesforce.com/" target="_blank">Salesforce (Platform UX)</a> &middot;&middot;&middot; July 2014&ndash;February 2017</h4>
+						<h4><a href="http://salesforce.com/" target="_blank">Salesforce (Analytics UX)</a> &middot;&middot;&middot; February 2017&ndash;December 2018<br/><a href="http://salesforce.com/" target="_blank">Salesforce (Platform UX)</a> &middot;&middot;&middot; July 2014&ndash;February 2017</h4>
 						<ul class="list-text">
-							<li>Lead design for <a href="https://www.salesforce.com/blog/2018/03/einstein-analytics-conversational-queries.html" target="_blank">conversational query in Einstein Analytics</a>, which enables users to ask questions about their own data &amp; receive answers as interactive charts that they can explore further</li>
+							<li>Lead design for <a href="work-conversational-analytics.php">conversational query in Einstein Analytics</a>, which enables users to ask questions about their own data &amp; receive answers as interactive charts that they can explore further</li>
 							<li>Lead design for onboarding, <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN" target="_blank">product education</a>, &amp; troubleshooting experiences in Einstein Analytics; <a href="work-learning-in-analytics.php">systemize the design patterns</a> so they are reusable in other Salesforce products</li>
 							<li>Design Lightning dashboard subscription experience, which lets 4.2M+ daily dashboard users send a snapshot of their dashboard via email; create prototypes &amp; collaborate with engineers to build a high-quality solution within the limits of email technologies</li>
 							<li>Lead design for folder management &amp; sharing up to its release in Summer 2018, which addresses the #3 most requested feature by Salesforce customers</li>
@@ -172,38 +172,6 @@
 
 			<div class="container-section">
 				<aside>
-					<h2>PROJECTS</h2>
-					<hr class="separator" />
-				</aside>
-				<section>
-					<div class="container-section-item">
-						<h3>DailyVote</h3>
-						<h4>University of California at Berkeley &middot;&middot;&middot; 2013&ndash;2016</h4>
-						<ul class="list-text">
-							<li>Co-found DailyVote, a platform to improve civic engagement through sharing news, voting on politicians, &amp; tracking long-term opinions</li>
-							<li>Lead product design &amp; front-end engineering</li>
-						</ul>
-					</div>
-					<div class="container-section-item">
-						<h3>StreetSavvy</h3>
-						<h4>University of California at Berkeley, School of Information &middot;&middot;&middot; 2014</h4>
-							<ul class="list-text">
-								<li>Lead design for a mobile mapping tool that provides a combination of time-sensitive data about safety, a way to define users&rsquo; own safety preferences, &amp; the ability to navigate a route &ldquo;hands free&rdquo;</li>
-							</ul>
-					</div>
-					<div class="container-section-item">
-						<h3>Transit Quality &amp; Equity</h3>
-						<h4>Urban Data Challenge &middot;&middot;&middot; Spring 2013</h4>
-						<ul class="list-text">
-							<li>Design &amp; build a data visualization tool that maps transit level of service &amp; economic data to explore equity issues in transportation</li>
-							<li>Win 2nd place &amp; present work at San Francisco Municipal Transportation Agency (SFMTA), Young Professionals in Transportation (YPT), &amp; d3 Bay Area Meetup</li>
-						</ul>
-					</div>
-				</section>
-			</div>
-
-			<div class="container-section">
-				<aside>
 					<h2>SKILLS</h2>
 					<hr class="separator" />
 				</aside>
@@ -211,19 +179,20 @@
 					<div class="container-section-item">
 						<h3>General</h3>
 						<ul class="list-text">
-							<li>User Experience &amp; Visual Design</li>
-							<li>Information &amp; Data Visualization</li>
-							<li>Prototyping &amp; Front-End Development</li>
+							<li>User experience &amp; visual design</li>
+							<li>Information &amp; data visualization</li>
+							<li>User research</li>
+							<li>Prototyping &amp; front-end development</li>
 						</ul>
 					</div>
 					<div class="container-section-item">
 						<h3>Tools</h3>
 						<ul class="list-text">
-							<li>Design &amp; Prototyping &middot;&middot;&middot; Adobe Creative Suite (Illustrator, InDesign, Photoshop), Balsamiq, Omnigraffle, Principle, Sketch
+							<li>Design &amp; Prototyping &middot;&middot;&middot; Adobe Creative Suite (Illustrator, InDesign, Photoshop), Figma, Principle, Sketch
 							<li>Front-End Development &middot;&middot;&middot; CSS, d3, HTML, Javascript (jQuery), Sass</li>
-							<li>Back-End Development &amp; Database &middot;&middot;&middot; MySQL, PHP, Postgres, Python</li>
+							<li>Back-End Development &amp; Database &middot;&middot;&middot; MySQL, PHP, PostgreSQL, Python</li>
 							<li>Version Control &middot;&middot;&middot; Git, SVN</li>
-							<li>Misc &middot;&middot;&middot; R, Wordpress</li>
+							<li>Misc &middot;&middot;&middot; Arduino, R, Tableau, Wordpress</li>
 						</ul>
 					</div>
 					<div class="container-section-item">
@@ -262,11 +231,45 @@
 					<div class="container-section-item">
 						<h3>Volunteer Work</h3>
 						<ul class="list-text">
+							<li>Indivisible &middot;&middot;&middot; 2020</li>
+							<li>San Francisco Recreation &amp; Park Department &middot;&middot;&middot; 2018</li>
 							<li>GLIDE &middot;&middot;&middot; 2018</li>
-							<li>Project Homeless Connect &middot;&middot;&middot; 2015&ndash;2017</li>
+							<li>Project Homeless Connect &middot;&middot;&middot; 2015&ndash;2018</li>
 							<li>Queer &amp; Transgender Advocacy Project &middot;&middot;&middot; 2014</li>
 							<li>Gender Equity Resource Center &middot;&middot;&middot; 2012</li>
 							<li>Human Rights Campaign &middot;&middot;&middot; 2010</li>
+						</ul>
+					</div>
+				</section>
+			</div>
+
+			<div class="container-section">
+				<aside>
+					<h2>PROJECTS</h2>
+					<hr class="separator" />
+				</aside>
+				<section>
+					<div class="container-section-item">
+						<h3>dailyvote</h3>
+						<h4>University of California at Berkeley &middot;&middot;&middot; 2013&ndash;2016</h4>
+						<ul class="list-text">
+							<li>Co-found <a href="http://dailyvote.co" target="_blank">dailyvote</a>, a platform to improve civic engagement through sharing news, voting on politicians, &amp; tracking long-term opinions</li>
+							<li>Lead product design &amp; front-end engineering</li>
+						</ul>
+					</div>
+					<div class="container-section-item">
+						<h3>StreetSavvy</h3>
+						<h4>University of California at Berkeley, School of Information &middot;&middot;&middot; 2014</h4>
+							<ul class="list-text">
+								<li>Lead design for a <a href="work-streetsavvy.php">mobile mapping tool</a> that provides a combination of time-sensitive data about safety, a way to define users&rsquo; own safety preferences, &amp; the ability to navigate a route &ldquo;hands free&rdquo;</li>
+							</ul>
+					</div>
+					<div class="container-section-item">
+						<h3>Transit Quality &amp; Equity</h3>
+						<h4>Urban Data Challenge &middot;&middot;&middot; Spring 2013</h4>
+						<ul class="list-text">
+							<li>Design &amp; build a <a href="work-transit-quality-equity.php">data visualization tool</a> that maps transit level of service &amp; economic data to explore equity issues in transportation</li>
+							<li>Win 2nd place &amp; present work at San Francisco Municipal Transportation Agency (SFMTA), Young Professionals in Transportation (YPT), &amp; d3 Bay Area Meetup</li>
 						</ul>
 					</div>
 				</section>
@@ -278,6 +281,10 @@
 					<hr class="separator" />
 				</aside>
 				<section>
+					<div class="container-section-item">
+						<h3>Runner-up</h3>
+						<h4>Urban Data Challenge &middot;&middot;&middot; 2012</h4>
+					</div>
 					<div class="container-section-item">
 						<h3>Winner</h3>
 						<h4>Wikimedia&rsquo;s Wiki Loves Monuments &middot;&middot;&middot; 2012</h4>

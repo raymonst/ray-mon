@@ -977,6 +977,61 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/_images/work-medium-app-architecture.png": {
+		"ft": 32768,
+		"iS": 34221,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-architecture.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-feed.png": {
+		"ft": 32768,
+		"iS": 426922,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-feed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-north-star-sketches.png": {
+		"ft": 32768,
+		"iS": 372269,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-north-star-sketches.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-north-star-video.jpg": {
+		"ft": 16384,
+		"iS": 130258,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-north-star-video.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-plan.png": {
+		"ft": 32768,
+		"iS": 113914,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-plan.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/_images/work-sams-01.jpg": {
 		"ft": 16384,
 		"iS": 189212,
@@ -3609,6 +3664,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/work-lightning-messaging-framework.php",
+		"oF": 0
+		},
+	"/work-medium.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/work-medium.php",
 		"oF": 0
 		},
 	"/work-sams.php": {

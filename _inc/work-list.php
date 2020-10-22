@@ -2,6 +2,12 @@
 
 	$work = [
 		[
+			"Medium app",
+			"Building a more relational Medium ???",
+			"work-medium.php",
+			"work-medium-cover.png"
+		],
+		[
 			"Conversational Analytics",
 			"Enabling conversations with your data",
 			"work-conversational-analytics.php",
@@ -50,7 +56,7 @@
 			"work-sf-transit-history-cover.jpg",
 		],
 		[
-			"Giorgia Armani Beauty Foundation World",
+			"Giorgio Armani Beauty Foundation World",
 			"Helping users find the perfect beauty products",
 			"work-giorgio-armani-beauty-foundation-world.php",
 			"work-giorgio-armani-beauty-foundation-world-cover.jpg"

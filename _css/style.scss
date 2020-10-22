@@ -56,7 +56,7 @@ table {
 /* VARIABLES */
 
 $color-brand: #f9a400;
-$color-brand-light: rgba(249, 164, 0, .05);
+$color-brand-light: rgba(249, 164, 0, .075);
 $color-brand-medium: rgba(249, 164, 0, .5);
 $color-text-light: #757575;
 $color-text-default: #555;
@@ -79,13 +79,14 @@ a {
 	background: $color-brand-light;
 // 	background: rgba(252,248,240,1);
 // 	border-bottom: 1px dotted $color-brand;
+// 	box-shadow: inset 0 0 #ffffff, inset 0 -0.1em $color-brand-medium;
 	color: $color-text-default;
-	text-decoration: underline;
 // 	text-decoration-color: $color-brand;
 	transition: all 0.2s ease;
 	
 	&:hover {
 		background: none;
+// 		box-shadow: inset 0 0 #ffffff, inset 0 -0.2em $color-brand;
 		color: $color-text-dark;
 	}
 }
@@ -93,8 +94,8 @@ a {
 blockquote {
 	background: url("../_images/blockquote.png") 0 0 no-repeat;
 	background-size: 100px 100px;
-	font-style: italic;
-	font-weight: 400;
+// 	font-style: italic;
+	font-weight: 300;
 	letter-spacing: -.005rem;
 	padding: 1.5rem 0 2.5rem 6rem;	
 	position: relative;
@@ -263,7 +264,7 @@ h2 {
 // 	font-size: 1rem;
 	font-size: 1.125rem;
 // 	font-weight: 500;
-	font-weight: 600;
+	font-weight: 700;
 	line-height: 1.5;
 	margin: 0 0 .5rem 0;
 	text-transform: uppercase;
@@ -274,13 +275,13 @@ h3 {
 // 	font-size: 1rem;
 	font-size: 1.125rem;
 // 	font-weight: 500;
-	font-weight: 600;
+	font-weight: 700;
 	line-height: 1.25;
-	margin: 0 0 .75rem 0;
+	margin: 0 0 .5rem 0;
 }
 
 h4 {
-	margin: 0 0 1rem 0;
+	margin: 0 0 .75rem 0;
 }
 
 main {
@@ -297,10 +298,45 @@ p {
 	span {
 		text-decoration: underline;
 	}
+	
+	&.text-secondary {
+		font-size: .75rem;
+	}
+	
 }
 
 strong {
-	font-weight: 600;
+	font-weight: 700;
+}
+
+table {
+	font-size: .875rem;
+	margin: 2.5rem 0 1rem 0;
+	
+	td {
+		padding: .5rem .75rem .5rem;
+	}
+	
+	th {
+		background: #f6f4f1;
+		font-weight: 700;
+		padding: .5rem .75rem;
+		text-align: left;
+	}
+	
+	tr {
+		border-bottom: 1px solid #e8e3de;
+		
+		&.table-header {
+			border-bottom: 0;
+		}
+		
+		&.table-header-secondary th {
+			background: #fBf9f7;
+		}
+	}
+
+	
 }
 
 ul {
@@ -315,7 +351,7 @@ ul {
 		line-height: 1.375;
 		list-style-type: none;
 		margin: 0 0 0 2.5rem;
-		padding: 0 0 .5rem 0;
+		padding: 0 0 .25rem 0;
 		
 		li {
 			font-size: .875rem;
@@ -331,9 +367,9 @@ ul {
 
 nav {
 	background: rgba(255,255,255,0.95);
-	border-bottom: 4px double #E8E3DE;
+	border-bottom: 4px double #e8e3de;
 	display: grid;
-	font-size: .75rem;
+	font-size: .875rem;
 	grid-gap: 1rem;
 	grid-template-columns: auto 1fr auto auto;
 	left: 0;
@@ -350,13 +386,13 @@ nav {
 	a {
 		background: none;
 		border: 0;
-		border-top: 1px solid transparent;
+		border-top: 2px solid transparent;
 		color: #777;
 		display: block;
-		font-size: .75rem;
+		font-size: .875rem;
 		line-height: 1.5;
 		overflow: hidden;
-		padding-top: .25rem;
+		padding-top: .125rem;
 		text-decoration: none;
 		vertical-align: middle;
 
@@ -378,10 +414,10 @@ nav {
 		
 		&#nav-link-home {
 			background: none;
-			border-top: 1px solid transparent;
+			border-top: 2px solid transparent;
 			color: $color-text-dark;
 			text-transform: uppercase;
-			padding: .25rem 0 0 0;
+			padding: .125rem 0 0 0;
 
 			&:hover {
 				transform: translateY(-2px);
@@ -389,7 +425,7 @@ nav {
 		}
 
 		&.nav-link-active {
-			border-top: 1px solid $color-text-dark;
+			border-top: 2px solid $color-text-dark;
 			color: $color-text-dark;
 
 			&:hover {
@@ -407,7 +443,7 @@ nav {
 		a {
 			color: #fff;
 			&.nav-link-active {
-				border-top: 1px solid #fff;
+				border-top: 2px solid #fff;
 				
 				&:hover {
 					color: #fff;
@@ -452,13 +488,17 @@ nav {
 			width: 100%;
 		}
 		
+		&.image-size-xs {
+			width: 33%;
+		}
+
 		&.image-size-s {
 			width: 50%;
 		}
 		
 		&.image-alignment-l {
 			float: left;
-			margin: 0 1rem 1rem 0;
+			margin: 0 1.5rem 1rem 0;
 		}
 
 		&.image-alignment-m {
@@ -468,7 +508,7 @@ nav {
 
 		&.image-alignment-r {
 			float: right;
-			margin: 0 0 1rem 1rem;
+			margin: 0 0 1rem 1.5rem;
 		}
 	}
 	
@@ -499,7 +539,7 @@ nav {
 	}
 	
 	.container-section-item {
-		margin: 0 0 1rem 0;
+		margin: 0 0 1.25rem 0;
 		
 		&.container-section-item-single {
 			margin: 0;	
@@ -602,13 +642,13 @@ nav {
 			grid-row: row 1 / span 1;
 			line-height: 1.25;
 			letter-spacing: -.05rem;
-			margin: 0;
+			margin: 0 0 .125rem 0;
 		}
 		
 		.intro-secondary {
 			color: $color-text-light;
 			font-size: 1rem;
- 			font-weight: 600;
+ 			font-weight: 700;
 			grid-column: col 5 / span 6;
 			grid-row: row 2 / span 1;
 			height: 6rem;
@@ -690,7 +730,7 @@ nav {
 	}
 	
 	#header-decoration {
-		background: rgba(249,164,0,.075);
+		background: $color-brand-light;
 		height: 23.625rem;
 		position: absolute;
 		left: -2rem;
@@ -715,9 +755,9 @@ nav {
 	border: 1px solid $color-brand;
 	color: $color-text-dark;
 	display: block;	
-	font-size: .75rem;
-	font-weight: 600;
-	padding: .375rem .625rem;
+	font-size: .875rem;
+	font-weight: 700;
+	padding: .25rem .625rem .1875rem;
 	text-decoration: none;
 	text-transform: uppercase;
 	
@@ -828,14 +868,14 @@ nav {
 				border: 0;
 			 	display: block;
 			 	font-style:normal;
-				font-weight: 600;
+				font-weight: 700;
 				left: 0%;
 				padding: 1rem 0;
 				position: absolute;
 				width: 100%;
 				text-align: center;
 				text-decoration: none;
-				text-transform: uppercase;
+// 				text-transform: uppercase;
 				transform: none;
 				top: 23%;
 				z-index: 1;
@@ -866,31 +906,32 @@ nav {
 				transition: all 0.2s ease;
 			}
 		}
+
+		.list-item-visual-description {
+			color: $color-text-light;
+			font-size: 1rem;
+// 			font-style: italic;
+			display: block;
+			line-height: 1.375;
+			margin: 0;
+			text-align: left;
+		}
 		
 		.list-item-visual-title {			
 			color: $color-text-dark;
 			font-size: 1.125rem;
-			font-weight: 600;
+			font-weight: 700;
 			line-height: 1.5;
 			margin: 0 0 .125rem 0;
-		}
-
-		.list-item-visual-description {
-			color: $color-text-light;
-			font-size: .875rem;
-// 			font-style: italic;
-			display: block;
-			margin: 0;
-			text-align: left;
 		}
 
 	}
 
 	.list-item-visual-description {
 		color: $color-text-light;
-		font-size: 1.75rem;
+		font-size: 2rem;
 // 		font-style: italic;
-		grid-column: col 7 / span 5;
+		grid-column: col 7 / span 6;
 		grid-row: row 4;
 		line-height: 1.25;
 		margin-left: 1.5rem;
@@ -973,9 +1014,9 @@ nav {
 	h4 {
 		font-size: 1rem;
 		font-style: normal;
-		font-weight: 600;
+		font-weight: 700;
 		line-height: 1.25;
-		margin: .5rem 0 .125rem 0;
+		margin: .5rem 0 .25rem 0;
 	}
 	
 	span {
@@ -1029,7 +1070,7 @@ nav {
 		background: url("../_images/blockquote.png") 0 1rem no-repeat;
 		background-size: 60px 60px;
 		font-size: 1.25rem;
-		font-style: italic;
+		font-weight: 300;
 		padding: 1.5rem 0 2.5rem 4rem;
 	}
 
@@ -1050,7 +1091,7 @@ nav {
 	iframe {
 		height: 16rem;
 	}
-	
+
 	.container-section aside {
 		grid-column: col 1 / span 4;
 	}
@@ -1212,7 +1253,7 @@ nav {
 			margin: 0;
 			text-align: left;
 		}
-	
+
 		&.list-item-visual-s {
 			grid-template-columns: 1fr;
 			

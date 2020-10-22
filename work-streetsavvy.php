@@ -1,6 +1,6 @@
 <?php 
 	include "_inc/work-list.php";
-	$key = 6;
+	$key = 7;
 	$workSelected = $work[$key];
 ?>
 
@@ -25,7 +25,7 @@
 			<ul class="role">
 				<li>UX design</li>
 				<li>User research</li>
-				<li>Data Visualization</li>
+				<li>Data visualization</li>
 			</ul>
 		</header>
 		
@@ -47,7 +47,7 @@
 						</figure>
 						<figure>
 							<img src="_images/work-streetsavvy-02.jpg" alt="Talking to potential users about pedestrian safety (left) & conducting usability testing (right)" width="1200" height="675">
-							<figcaption>Talking to potential users about pedestrian safety (left) &amp; conducting usability testing (right)</figcaption>
+							<figcaption>Talking to potential users about pedestrian safety (left) and conducting usability testing (right)</figcaption>
 						</figure>
 						<figure>
 							<img src="_images/work-streetsavvy-03.jpg" alt="Grouping themes via affinity diagrams" width="1200" height="675">
