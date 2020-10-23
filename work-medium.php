@@ -65,7 +65,7 @@
 				</aside>
 				<section>
 					<div class="container-section-item">
-						<p>We started off with a &ldquo;north star&rdquo; design sprint to create a vision for the app experience. I led the overall effort and guided three other designers from both reader and creator experience teams. We focused our explorations on key surfaces (app home, writer/publication home, and story page) and investigated the following themes:
+						<p>We started off with a &ldquo;north star&rdquo; design sprint to create a vision for the app experience. I led the overall effort and collaborated with three other designers from both the reader and creator experience teams. We focused our explorations on key surfaces (app home, writer/publication home, and story page) and investigated the following themes:
 							<ul>
 								<li><strong>Discovery</strong><br/>How might we help readers explore and discover content that&rsquo;s relevant to them and encourage them to build ongoing relationships with entities they find interesting?</li>
 								<li><strong>Sense of place</strong><br/>How might we convey a sense of place, brand, and trust for both readers &amp; creators (writers &amp; publications) on the platform so they continue to find value in Medium?
@@ -102,7 +102,7 @@
 						<p>Redesigning a mobile app is no small feat, so to make it more manageable, we broke it down into smaller chunks that focus on specific parts of the experience and split this work among a few designers. We also planned out how we would test this with users along the way.</p>
 						<figure>
 							<img src="_images/work-medium-app-plan.png" alt="work-medium-app-plan" width="2560" height="1200" >
-						<figcaption>A high-level plan to make the vision a reality.</figcaption>
+							<figcaption>A high-level plan to make the vision a reality.</figcaption>
 						</figure>
 					</div>
 				</section>
@@ -140,7 +140,7 @@
 						<p>We saw the redesign process as an opportunity to simplify the overall app architecture. Our usage data showed that the mobile app was primarily used for reading. Writers and publication editors may occasionally edit their stories or check their story stats in the app, but the majority of creator activities occurred on desktop web. As such, we didn&rsquo;t think that &ldquo;write&rdquo; warranted such a premium placement in the app&rsquo;s primary navigation bar. We moved it out of the nav bar and into the user&rsquo;s &ldquo;you&rdquo; tab, making it secondary but still fairly accessible.</p>
 						<p>Our data also showed that <a href="https://medium.design/a-library-to-call-your-own-9c1fcdb6e4bc" target="_blank">reading list</a>, a place for the user&rsquo;s saved stories, was a heavily used feature but only by a small portion of app users. We didn&rsquo;t want to hide it completely, but placing it in the primary navigation bar didn&rsquo;t seem right for most users either. We eventually decided to put it on app home, which seemed to be the right compromise. Since home is the first surface in the app, users could still easily access the reading list if they wanted to, but those who don&rsquo;t use reading list aren&rsquo;t constantly seeing it in the primary nav bar.</p>
 						<figure>
-							<img src="_images/work-medium-app-architecture.png" alt="work-medium-app-architecture" width="2080" height="686" >
+							<img src="_images/work-medium-app-architecture.png" alt="work-medium-app-architecture" width="1560" height="515" >
 							<figcaption>Simplifying the base app architecture helps reduce noise in the experience.</figcaption>
 						</figure>
 						
@@ -177,7 +177,7 @@
 				</aside>
 				<section>
 					<div class="container-section-item">
-						<p>Research findings from the first private beta group helped shape the design and got us to a more robust version of the product. As we prepared for the second, larger private beta group, we wanted to include both qualitative and quantitative measures so we could get a more holistic understanding overall. In addition to the ongoing user interviews, we set up an in-app feedback form to get more user input and programmed events tracking in the beta app to capture user behavior. Researcher Laura Carroll also set up benchmark surveys to measure user satisfaction more broadly and consistently as the product continued to evolve.</p>
+						<p>Research findings from the first private beta group helped shape the design and led us to a more robust version of the product. As we prepared for the second, larger private beta group, we wanted to include both qualitative and quantitative measures so we could get a more holistic understanding overall. In addition to the ongoing user interviews, we set up an in-app feedback form to get more user input and programmed events tracking in the beta app to capture user behavior. Researcher Laura Carroll also set up benchmark surveys to measure user satisfaction more broadly and consistently as the product continued to evolve.</p>
 						<p>From this survey, we saw that a majority of respondents (58%) was either very or somewhat satisfied with the beta version of the app. On the other hand, we also received feedback around story discovery, with one user remarking that &ldquo;&hellip; [i]t&rsquo;s more difficult to find article suggestions as well as to bookmark to read later.&rdquo; We knew that moving away from the infinite feed would negatively impact some users who are used to discovering content that way. That said, we also measured other success metrics that would be more indicative of where the product was heading towards strategically.</p>
 						<figure>
 							<table>
@@ -226,17 +226,19 @@
 						<figure>
 							<figcaption>Meter + Paywall Non-members have to tap twice to load a paywalled story. In certain cases, friction in the experience is desired.</figcaption>
 						</figure>
-						<p>As designers on the reader experience group worked through the app designs, there was a parallel effort happening on the creator side to <a href="https://blog.medium.com/a-more-expressive-medium-483e567b19ff" target="_blank">enable more expressiveness</a> and establish a better sense of place, context, and brand for their work on Medium. Naturally, readers need to see this as they read content from various creators in the app. The creator&rsquo;s creative decisions on colors, typography, and branding needed to be translated into the app experience, which differed slightly from its web counterpart and had its own constraints.</p>
+						<p>As designers on the reader experience group worked through the app designs, there was a parallel effort happening on the creator side to <a href="https://blog.medium.com/a-more-expressive-medium-483e567b19ff" target="_blank">enable more expressiveness</a> and establish a better sense of place, context, and brand for their work on Medium. Naturally, readers need to see this as they read content from various creators in the app. The creator&rsquo;s creative decisions needed to be translated into the app experience. However, the app environment differed slightly from its web counterpart and had its own constraints. To get around these limitations, we decided that the app&rsquo;s official first version would only show key parts of the customization (with future plans to implement themes in full).</p>
 						<figure>
-							<figcaption>screen of web + app custom theme on pub.</figcaption>
+							<img src="_images/work-medium-app-themes.png" alt="work-medium-app-themes" width="1542" height="1590" >
+							<figcaption>An example of different themes being applied to the same publication to convey a sense of place, context, and brand. The app&rsquo;s official first version would show essential parts of the customization, with a more complete implementation to follow.</figcaption>
 						</figure>
-						<p>Medium&rsquo;s product changes were accompanied by an <a href="https://blog.medium.com/a-more-expressive-medium-starting-with-medium-63b562206d8f" target="_blank">evolved brand</a> that illustrates the openness of the platform. This brand identity is an integral part of Medium&rsquo;s future direction and as such, must be communicated through all product surfaces. I collaborated with the brand team to design and implement this brand language in product (which included significant changes to typography, colors, and illustrations), and coordinated subsequent efforts with other designers and scrum teams on the product side for final implementation.</p>
-						<figure>
-							<figcaption>screens of brand stuff in the app + dark mode.</figcaption>
+						<p>Medium&rsquo;s product changes were accompanied by an <a href="https://blog.medium.com/a-more-expressive-medium-starting-with-medium-63b562206d8f" target="_blank">evolved brand</a> that conveys the openness of the platform. This brand identity is an integral part of Medium&rsquo;s future direction and as such, must be communicated through all product surfaces. I collaborated with the brand team to design and implement this language in product (which included significant changes to typography, colors, and illustration styles), and coordinated subsequent efforts with other designers and scrum teams on the product side for final implementation.</p>
+						<figure class="figure-l">
+							<img src="_images/work-medium-app-rebrand.png" alt="work-medium-app-rebrand" width="1520" height="1116" >
+							<figcaption>Medium&rsquo;s evolved brand as seen on various product surfaces.<br/>Additional designs by Abby Aker (email digest) and Ryan Hubbard (web homepage).</figcaption>
 						</figure>
-						<p>All the product and brand changes that happened during this process strained our existing design system. We found that some of the components, semantics, and structure we had been using no longer served our product needs and as a result, we made some fundamental updates to the system. I then conducted an audit across all our product surfaces and stress-tested the proposed changes to ensure the system was robust enough for current uses, but also flexible enough to accommodate future changes if needed.</p>
-						<figure>
-							<figcaption>screens of ds stuff.</figcaption>
+						<p>All the product and brand changes that happened during this process strained our existing design system. We found that some of the components, semantics, and structure we had been using no longer served our product needs and as a result, we decided to make some fundamental updates to the system. I then conducted an audit across all our product surfaces and stress-tested the proposed changes to ensure the system was robust enough for current uses, but also flexible enough to accommodate future changes if needed.</p>
+						<figure class="figure-l">
+							<img src="_images/work-medium-app-design-system.png" alt="work-medium-app-design-system" width="2400" height="1720" >							<figcaption>Changes to the design system had to be audited and evaluated globally. Above is an example of how I stress-tested typography changes across product surfaces.</figcaption>
 						</figure>
 					</div>
 				</section>

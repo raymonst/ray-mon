@@ -101,7 +101,7 @@
 								<li>Exploring a chart within an existing dashboard using conversational query (explorer use case)</li>
 							</ul>
 						</p>
-						<figure>
+						<figure class="figure-l">
 							<img src="_images/work-conversational-analytics-main-flows.png" alt="Primary user flows for conversational query" width="4960" height="1364">
 							<figcaption>Primary user flows for conversational query</figcaption>
 						</figure>
@@ -121,8 +121,9 @@
 							<div class="quote-decoration">&nbsp;</div>
 						</blockquote>
 						<p>After trying out some approaches, I eventually created a set of interaction flows to show all the different micro-interaction patterns, including base patterns for keyboard and mouse as well as more complex query logic (e.g. how to show filter values, relative dates, etc.).</p>
-						<figure>
-							<img src="_images/work-conversational-analytics-logic.jpg" alt="Defining micro-interaction patterns" width="1346" height="1794">
+						<figure class="figure-l">
+<!-- 							<img src="_images/work-conversational-analytics-logic.jpg" alt="Defining micro-interaction patterns" width="1346" height="1794"> -->
+							<img src="_images/work-conversational-analytics-logic.png" alt="Defining micro-interaction patterns" width="1346" height="1794" >
 							<figcaption>Defining micro-interaction patterns</figcaption>
 						</figure>
 						<p>This method led to more productive discussions between UX, Engineering, and PM; in particular, it helped Engineering understand and plan their work more effectively. More importantly, however, it helped us focus on delivering a highly guided experience for the users and lessen their concerns. These schemas went through multiple rounds of iterations, which were informed by continuous feedback, both internally and from users.</p>

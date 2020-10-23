@@ -97,12 +97,12 @@
 							<figcaption>Sketching out logic for the framework</figcaption>
 						</figure>
 						<p>In one of the early approaches, I arranged the various components by &ldquo;type,&rdquo; ranging from system-type messaging (initiated by the system and alerts the user of important system-related issues or status) to feedback-type (initiated by the user and represents the system&rsquo; response to the user input).</p>													
-						<figure>
+						<figure class="figure-l">
 							<img src="_images/work-lightning-messaging-framework-posters.jpg" alt="Early posters with simple categorizations" width="1400" height="700">
 							<figcaption>Early posters with simple categorizations</figcaption>
 						</figure>
 						<p>The guideline continued to evolve from this basic version. I added more comprehensive guidelines for each component that describe its usage, dos and don&rsquo;ts, variants, etc. to help users understand the variety of contexts that are available for use.</p>
-						<figure>
+						<figure class="figure-l">
 							<img src="_images/work-lightning-messaging-framework-guidelines.png" alt="Adding more layers and details to the guideline" width="1660" height="642">
 							<figcaption>Adding more layers and details to the guideline</figcaption>
 						</figure>

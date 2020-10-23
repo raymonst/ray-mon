@@ -473,13 +473,14 @@ nav {
 .container {
 	figcaption {
 		color: $color-text-light;
-		font-size: .875rem;	
+		font-size: .875rem;
+		margin: 1rem 0 0 0;	
 		text-align: center;
 	}
 	
 	figure {
 // 		font-style: italic;
-		margin: 0 0 2.5rem 0;
+		margin: 1.5rem 0 2.5rem 0;
 		max-width: 45rem;	
 
 		img {
@@ -510,6 +511,17 @@ nav {
 			float: right;
 			margin: 0 0 1rem 1.5rem;
 		}
+
+		&.figure-l {
+			margin: 0 0 2.5rem -34%;
+			max-width: 60rem;
+			
+			figcaption {
+				margin: 1rem auto 0;	
+				max-width: 45rem;
+			}
+		}
+
 	}
 	
 	section {
@@ -1109,6 +1121,11 @@ nav {
 		float: none;
 		margin-left: 0;
 		margin-right: 0;
+	}
+
+	.container figure.figure-l {
+		margin-left: 0;
+		width: 100%;
 	}
 	
 	.cover {
