@@ -2,14 +2,14 @@
 
 	$work = [
 		[
-			"Medium app",
-			"Building a more relational Medium ???",
-			"work-medium.php",
-			"work-medium-cover.png"
+			"Medium Mobile App",
+			"Reimagining a mobile experience for curious readers",
+			"work-medium-app.php",
+			"work-medium-app-cover.jpg"
 		],
 		[
-			"Conversational Analytics",
-			"Enabling conversations with your data",
+			"Salesforce Conversational Analytics",
+			"Using plain language to derive insights from data",
 			"work-conversational-analytics.php",
 			"work-conversational-analytics-cover.png"
 		],
@@ -54,13 +54,16 @@
 			"Narrating local history through interactive visualization",
 			"work-sf-transit-history.php",
 			"work-sf-transit-history-cover.jpg",
-		],
+		]
+/*
+		,
 		[
 			"Giorgio Armani Beauty Foundation World",
 			"Helping users find the perfect beauty products",
 			"work-giorgio-armani-beauty-foundation-world.php",
 			"work-giorgio-armani-beauty-foundation-world-cover.jpg"
 		]
+*/
 	];
   
 
@@ -69,7 +72,7 @@
 			"A Library to Call Your Own", 
             "A behind-the-scenes look at the redesign of Medium&rsquo;s reading list",
 			"https://medium.design/a-library-to-call-your-own-9c1fcdb6e4bc",
-			"work-writing-a-library-to-call-your-own.jpg"					
+			"work-writing-a-library-to-call-your-own.png"					
 		],
 
 		[

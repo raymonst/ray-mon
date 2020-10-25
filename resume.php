@@ -12,7 +12,7 @@
 		<header>
 			<div class="title">
 				<h1>RESUME</h1>
-				<div><a class="link-cta" href="_files/rst-resume.pdf" target="_blank">Download pdf</a></div>
+				<div><a class="link-cta" href="_files/resume_-_raymon_sutedjo-the.pdf" target="_blank">Download pdf</a></div>
 			</div>
 		</header>
 		
@@ -23,22 +23,28 @@
 					<hr class="separator" />
 				</aside>
 				<section>
-					<div class="container-section-item container-section-item-single">
+					<div class="container-section-item">
 						<h3>Principal Product Designer</h3>
-						<h4><a href="http://medium.com/" target="_blank">Medium</a> &middot;&middot;&middot; January 2019&ndash;October 2020</h4>
+						<h4><a href="http://medium.com/" target="_blank">Medium (Reader Experience)</a> &middot;&middot;&middot; January 2019&ndash;October 2020</h4>
 						<ul class="list-text">
+							<li>Lead the redesign of Medium&rsquo;s Android &amp; iOS apps up to public beta in Summer 2020; collaborate with product managers &amp; executives to realize the product vision &amp; align with the business strategy; coordinate efforts with multiple designers &amp; scrum teams from both reader &amp; creator experience groups as part of the larger product redesign initiative</li>
+							<li>Lead design of <a href="https://medium.design/a-library-to-call-your-own-9c1fcdb6e4bc" target="_blank">reading list on mobile</a>, which enables readers to save stories &amp; personalize their reading experience on Medium; oversee the product launch that resulted in a 16.4% usage increase over six months</li>
+							<li>Manage &amp; mentor a designer on the team</li>
+							<li>Revise the process for design <> engineering collaboration within the agile framework to improve working velocity &amp; product quality</li>
+							<li>Champion accessibility initiatives &amp; push for cross-function alignment between design, engineering, product, &amp; user happiness; conduct audit across web &amp; mobile surfaces to identify &amp; prioritize issues; build a playbook with engineering to define &amp; enforce accessibility practices</li>
+							<li>Write &amp; publish a content guideline to clarify &amp; standardize the use of language across product surfaces</li>
 						</ul>
 					</div>
 					<div class="container-section-item">
 						<h3>Staff &rsaquo; Senior &rsaquo; Lead Product Designer</h3>
 						<h4><a href="http://salesforce.com/" target="_blank">Salesforce (Analytics UX)</a> &middot;&middot;&middot; February 2017&ndash;December 2018<br/><a href="http://salesforce.com/" target="_blank">Salesforce (Platform UX)</a> &middot;&middot;&middot; July 2014&ndash;February 2017</h4>
 						<ul class="list-text">
-							<li>Lead design for <a href="work-conversational-analytics.php">conversational query in Einstein Analytics</a>, which enables users to ask questions about their own data &amp; receive answers as interactive charts that they can explore further</li>
-							<li>Lead design for onboarding, <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN" target="_blank">product education</a>, &amp; troubleshooting experiences in Einstein Analytics; <a href="work-learning-in-analytics.php">systemize the design patterns</a> so they are reusable in other Salesforce products</li>
+							<li>Lead design of <a href="work-conversational-analytics.php">conversational query in Einstein Analytics</a>, which enables users to ask questions about their own data &amp; receive answers as interactive charts, which enables further explorations &amp; insights</li>
+							<li>Lead design of onboarding, <a href="https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoLB3UAN" target="_blank">product education</a>, &amp; troubleshooting experiences in Einstein Analytics; <a href="work-learning-in-analytics.php">systemize the design patterns</a> so they are reusable in other Salesforce products</li>
 							<li>Design Lightning dashboard subscription experience, which lets 4.2M+ daily dashboard users send a snapshot of their dashboard via email; create prototypes &amp; collaborate with engineers to build a high-quality solution within the limits of email technologies</li>
-							<li>Lead design for folder management &amp; sharing up to its release in Summer 2018, which addresses the #3 most requested feature by Salesforce customers</li>
+							<li>Lead design of folder management &amp; sharing up to its release in Summer 2018, which addresses the #3 most requested feature by Salesforce customers</li>
 							<li>Act as head editor of <a href="https://medium.com/salesforce-ux" target="_blank">Salesforce UX blog</a>; evangelize the blog internally and externally, helping it grow from 14K to 21K subscribers; formalize &amp; document the publication process to bring clarity to the blog team &amp; writers; build &amp; deploy a custom Salesforce app to streamline &amp; automate the process</li>
-							<li>Design &amp; build <a href="https://lightningdesignsystem.com/guidelines/messaging/overview/" target="_blank">Lightning Messaging Framework</a>, a UX guideline for messaging patterns in the Salesforce ecosystem; collaborate with writers to create a holistic UI text library that works harmoniously with UI patterns; integrate the documentation into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a></li>
+							<li>Design &amp; build <a href="https://lightningdesignsystem.com/guidelines/messaging/overview/" target="_blank">Lightning Messaging Framework</a>, a UX guideline for messaging patterns in the Salesforce ecosystem; collaborate with content strategists to create a holistic UI text library that works harmoniously with UI patterns; integrate the documentation into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a></li>
 							<li>Lead design for <a href="https://releasenotes.docs.salesforce.com/en-us/spring16/release-notes/rn_general_inline_editing.htm" target="_blank">Lightning inline edit</a> experience, which allows users to update data efficiently; build prototypes &amp; conduct research to test design concepts; collaborate with engineers to build a high-quality end product that meets product, design, &amp; accessibility requirements</li>
 							<li>Design a refined forms experience as part of a larger application-wide redesign; build a components library &amp; user flows logic to clearly communicate the experience to various stakeholders, including product managers, engineers, &amp; other designers; integrate the components into <a href="https://www.lightningdesignsystem.com/" target="_blank">Salesforce&rsquo;s Lightning Design System</a>, which is used by 50+ scrum teams across Salesforce</li>
 						</ul>
@@ -47,7 +53,7 @@
 						<h3>Design Intern</h3>
 						<h4>Salesforce (Platform UX) &middot;&middot;&middot; Summer 2013</h4>
 						<ul class="list-text">
-							<li>Design <a href="https://developer.salesforce.com/mobile/services/mobile-templates" target="_blank">mobile web templates</a> that enable 2M+ Salesforce developers to build cross-platform mobile applications rapidly in conjunction with other tools in <a href="https://developer.salesforce.com/mobile?title=page/Salesforce_touch_platform" target="_blank">Salesforce Platform Mobile Services</a></li>
+							<li>Design mobile web templates that enable 2M+ Salesforce developers to build cross-platform mobile applications rapidly in conjunction with other tools in Salesforce Platform Mobile Services</li>
 							<li>Conduct user research &amp; design a new concept for Salesforce&rsquo;s process automation tool (workflows &amp; approvals), which is used by more than 100K organizations</li>
 						</ul>
 					</div>
@@ -111,7 +117,7 @@
 				<section>
 					<div class="container-section-item">
 						<h3>Master of Information Management &amp; Systems</h3>
-						<h4><a href="http://ischool.berkeley.edu/" target="_blank">University of California at Berkeley, School of Information</a> &middot;&middot;&middot; 2014</h4>
+						<h4><a href="http://ischool.berkeley.edu/" target="_blank">University of California at Berkeley (School of Information)</a> &middot;&middot;&middot; 2014</h4>
 						<ul class="list-text">
 							<li>Recipient of &ldquo;Outstanding Teaching Assistant&rdquo; award</li>
 							<li>Recipient of <a href="http://www.ischool.berkeley.edu/programs/mims/projects/chenawards" target="_blank">James R. Chen award</a> for best project in the category of &ldquo;Enhancing User Experiences&rdquo;</li>
@@ -121,7 +127,7 @@
 					</div>
 					<div class="container-section-item">
 						<h3>Bachelor of Fine Arts</h3>
-						<h4><a href="http://www.saic.edu/academics/departments/visual-communication-design" target="_blank">The School of the Art Institute of Chicago, Visual Communication</a> &middot;&middot;&middot; 2007</h4>
+						<h4><a href="http://www.saic.edu/academics/departments/visual-communication-design" target="_blank">The School of the Art Institute of Chicago (Visual Communication)</a> &middot;&middot;&middot; 2007</h4>
 						<ul class="list-text">
 							<li>Exhibitor in the inaugural Senior Design Show</li>
 							<li>Student Leadership Award &middot;&middot;&middot; 2006&ndash;2007</li>
@@ -139,7 +145,7 @@
 				<section>
 					<div class="container-section-item">
 						<h3>Teaching Assistant</h3>
-						<h4>Information Visualization &amp; Presentation, UC Berkeley School of Information &middot;&middot;&middot; Spring 2014</h4>
+						<h4>Information Visualization &amp; Presentation @ UC Berkeley (School of Information) &middot;&middot;&middot; Spring 2014</h4>
 						<ul class="list-text">
 							<li>Support Professor Marti Hearst by leading design critiques, grading assignments, &amp; tutoring students</li>
 							<li>Teach a weekly lab session that covers web &amp; visualization technologies, such as Adobe Illustrator, HTML, CSS, jQuery, &amp; d3</li>
@@ -147,7 +153,7 @@
 					</div>
 					<div class="container-section-item">
 						<h3>Graduate Student Instructor</h3>
-						<h4>Information Organization Lab, UC Berkeley School of Information &middot;&middot;&middot; Fall 2013</h4>
+						<h4>Information Organization Lab @ UC Berkeley (School of Information) &middot;&middot;&middot; Fall 2013</h4>
 							<ul class="list-text">
 								<li>Teach web prototyping tools such as HTML, CSS, jQuery, &amp; d3 to help students explore &amp; apply theories of information organization &amp; retrieval</li>
 								<li>Collaborate with a co-instructor to develop lesson plan &amp; course materials</li>
@@ -188,10 +194,10 @@
 					<div class="container-section-item">
 						<h3>Tools</h3>
 						<ul class="list-text">
-							<li>Design &amp; Prototyping &middot;&middot;&middot; Adobe Creative Suite (Illustrator, InDesign, Photoshop), Figma, Principle, Sketch
-							<li>Front-End Development &middot;&middot;&middot; CSS, d3, HTML, Javascript (jQuery), Sass</li>
-							<li>Back-End Development &amp; Database &middot;&middot;&middot; MySQL, PHP, PostgreSQL, Python</li>
-							<li>Version Control &middot;&middot;&middot; Git, SVN</li>
+							<li>Design &amp; prototyping &middot;&middot;&middot; Adobe Creative Suite (Illustrator, InDesign, Photoshop), Figma, Principle, Sketch
+							<li>Front-end development &middot;&middot;&middot; CSS, d3, HTML, Javascript (jQuery), Sass</li>
+							<li>Back-end development &amp; Database &middot;&middot;&middot; MySQL, PHP, PostgreSQL, Python</li>
+							<li>Version control &middot;&middot;&middot; Git, SVN</li>
 							<li>Misc &middot;&middot;&middot; Arduino, R, Tableau, Wordpress</li>
 						</ul>
 					</div>
@@ -261,7 +267,7 @@
 						<h3>StreetSavvy</h3>
 						<h4>University of California at Berkeley, School of Information &middot;&middot;&middot; 2014</h4>
 							<ul class="list-text">
-								<li>Lead design for a <a href="work-streetsavvy.php">mobile mapping tool</a> that provides a combination of time-sensitive data about safety, a way to define users&rsquo; own safety preferences, &amp; the ability to navigate a route &ldquo;hands free&rdquo;</li>
+								<li>Lead design of a <a href="work-streetsavvy.php">mobile mapping tool</a> that provides a combination of time-sensitive data about safety, a way to define users&rsquo; own safety preferences, &amp; the ability to navigate a route &ldquo;hands free&rdquo;</li>
 							</ul>
 					</div>
 					<div class="container-section-item">
@@ -269,7 +275,7 @@
 						<h4>Urban Data Challenge &middot;&middot;&middot; Spring 2013</h4>
 						<ul class="list-text">
 							<li>Design &amp; build a <a href="work-transit-quality-equity.php">data visualization tool</a> that maps transit level of service &amp; economic data to explore equity issues in transportation</li>
-							<li>Win 2nd place &amp; present work at San Francisco Municipal Transportation Agency (SFMTA), Young Professionals in Transportation (YPT), &amp; d3 Bay Area Meetup</li>
+							<li>Share findings with city &amp; tech groups, including San Francisco Municipal Transportation Agency (SFMTA), Young Professionals in Transportation (YPT), &amp; d3 Bay Area</li>
 						</ul>
 					</div>
 				</section>

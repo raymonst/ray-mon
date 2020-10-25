@@ -48,12 +48,12 @@
 		"oS": 3,
 		"sct": 1
 		},
-	"/_files/rst-resume.pdf": {
+	"/_files/resume_-_raymon_sutedjo-the.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/_files/rst-resume.pdf",
+		"oAP": "/build/_files/resume_-_raymon_sutedjo-the.pdf",
 		"oF": 0
 		},
 	"/_files/streetsavvy-report.pdf": {
@@ -999,6 +999,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_images/work-medium-app-badges.png": {
+		"ft": 32768,
+		"iS": 123379,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-badges.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-cover.jpg": {
+		"ft": 16384,
+		"iS": 93092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/_images/work-medium-app-design-system.png": {
 		"ft": 32768,
 		"iS": 149518,
@@ -1015,6 +1037,28 @@
 		"iS": 426922,
 		"oA": 0,
 		"oAP": "/build/_images/work-medium-app-feed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-home.png": {
+		"ft": 32768,
+		"iS": 14626,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-home.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-modules.png": {
+		"ft": 32768,
+		"iS": 658068,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-modules.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1059,6 +1103,41 @@
 		"iS": 2628457,
 		"oA": 0,
 		"oAP": "/build/_images/work-medium-app-rebrand.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-seamless-old.gif": {
+		"ft": 4194304,
+		"iS": 1042240,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-seamless-old.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"/_images/work-medium-app-seamless.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-seamless.m4v",
+		"oF": 0
+		},
+	"/_images/work-medium-app-seamless.mov": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-seamless.mov",
+		"oF": 0
+		},
+	"/_images/work-medium-app-seamless.png": {
+		"ft": 32768,
+		"iS": 68423,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-seamless.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1384,22 +1463,11 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_images/work-writing-a-library-to-call-your-own.jpg": {
-		"ft": 16384,
-		"iS": 23150,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/_images/work-writing-a-library-to-call-your-own.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/_images/work-writing-designing-more-efficient-forms.png": {
+	"/_images/work-writing-a-library-to-call-your-own.png": {
 		"ft": 32768,
-		"iS": 5138,
+		"iS": 55177,
 		"oA": 0,
-		"oAP": "/build/_images/work-writing-designing-more-efficient-forms.png",
+		"oAP": "/build/_images/work-writing-a-library-to-call-your-own.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -3710,12 +3778,12 @@
 		"oAP": "/build/work-lightning-messaging-framework.php",
 		"oF": 0
 		},
-	"/work-medium.php": {
+	"/work-medium-app.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/build/work-medium.php",
+		"oAP": "/build/work-medium-app.php",
 		"oF": 0
 		},
 	"/work-sams.php": {
