@@ -549,6 +549,14 @@ nav {
 
 		}
 
+		#table-desktop {
+			display: block;
+		}
+		
+		#table-mobile {
+			display: none;
+		}
+
 	}
 	
 	section {
@@ -1182,6 +1190,13 @@ nav {
 
 	}
 
+	.container figure #table-desktop {
+		display: none;
+	}
+
+	.container figure #table-mobile {
+		display: block;
+	}
 	
 	.cover {
 		display: flex;
@@ -1195,8 +1210,8 @@ nav {
 	}	
 	
 	.intro {
-		font-size: 1.625rem;
-		font-weight: 500;
+		font-size: 1.5rem;
+		font-weight: 900;
 // 		font-style: italic;
 		line-height: 1.25;
 		margin: 0 0 2rem 0;
@@ -1217,9 +1232,10 @@ nav {
 			grid-template-rows: repeat(auto, [row] auto);
 	
 			.intro {
-				font-size: 1.25rem;
+				font-size: 1.375rem;
 				grid-column: col 1 / span 4;
 				grid-row: row 1 / span 1;
+				letter-spacing: 0;
 				margin: 0;
 			}
 			
@@ -1252,9 +1268,11 @@ nav {
 			}
 
 			.intro-secondary {
+				font-size: 1.125rem;
+				font-weight: 500;
 				grid-column: col 1 / span 4;
 				grid-row: row 2 / span 1;
-				height: 4.5rem;
+				height: 5rem;
 			}
 			
 			.intro-tertiary {
@@ -1366,11 +1384,11 @@ nav {
 		
 		.list-item-visual-title {
 			color: $color-text-dark;
-			font-size: 2rem;
+			font-size: 1.75rem;
 			grid-column: 1;
 			grid-row: row 2 / span 1;
 // 			letter-spacing: -.05rem;
-			line-height: 1.25;
+			line-height: 1.375;
 			margin: 0 0 .5rem 0;
 		}
 	}

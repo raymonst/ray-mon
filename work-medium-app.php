@@ -92,7 +92,7 @@
 				</aside>
 				<section>
 					<div class="container-section-item">
-						<p>The output from the design sprint helped create alignment across the board and while the resulting designs weren’t final, they pointed in the right direction. Given the scale of this project, we thought it&rsquo;d be useful to establish some core principles that would guide us along the way. Alexis Lloyd (VP Design) led this exercise and we established the following principles:
+						<p>The output from the design sprint helped create alignment across the board and while the resulting designs weren&rsquo;t final, they pointed in the right direction. Given the scale of this project, we thought it&rsquo;d be useful to establish some core principles that would guide us along the way. Alexis Lloyd (VP Design) led this exercise and we established the following principles:
 							<ul>
 								<li><strong>Context</strong><br/>As a reader, I know exactly where I am in Medium&rsquo;s ecosystem and I can navigate to/from other parts of Medium with confidence.</li>
 								<li><strong>Continuity</strong><br/>As a reader, I can seamlessly move from one story to another (or from one writer/publication to another) with ease and I&rsquo;m always discovering something new on Medium.</li>
@@ -189,7 +189,7 @@
 						<p>Research findings from the first private beta group helped shape the design and led us to a more robust version of the product. As we prepared for the second, larger private beta group, we wanted to include both qualitative and quantitative measures so we could get a more holistic understanding. In addition to the ongoing user interviews, we set up an in-app feedback form to get more user input and programmed events tracking in the beta app to capture user behavior. Researcher Laura Carroll also set up benchmark surveys to measure user satisfaction more broadly and consistently as the product continued to evolve.</p>
 						<p>From this survey, we saw that a majority of respondents (58%) was either very or somewhat satisfied with the beta version of the app. On the other hand, we also received feedback around story discovery, with one user remarking that &ldquo;&hellip; [i]t&rsquo;s more difficult to find article suggestions as well as to bookmark to read later.&rdquo; We knew that moving away from the infinite feed would negatively impact some users who are used to discovering content that way. That said, we also measured other success metrics that would be more indicative of where the product was heading towards strategically.</p>
 						<figure>
-							<table>
+							<table id="table-desktop">
 								<tr class="table-header">
 									<th></th>
 									<th colspan="2">Android</th>
@@ -213,6 +213,46 @@
 									<td>Repeat reading from followed writers and publications</td>
 									<td>Neutral to positive</td>
 									<td>Neutral</td>
+									<td>Neutral to positive</td>
+									<td>Positive</td>
+								</tr>
+							</table>
+							<table id="table-mobile">
+								<tr class="table-header">
+									<th></th>
+									<th colspan="2">Android</th>
+								</tr>
+								<tr class="table-header table-header-secondary">
+									<th></th>
+									<th>Members</th>
+									<th>Non-members</th>
+								</tr>
+								<tr>
+									<td>Follow rate for writers and publications</td>
+									<td>Positive</td>
+									<td>Positive</td>
+								</tr>
+								<tr>
+									<td>Repeat reading from followed writers and publications</td>
+									<td>Neutral to positive</td>
+									<td>Neutral</td>
+								</tr>
+								<tr class="table-header">
+									<th></th>
+									<th colspan="2">iOS</th>
+								</tr>
+								<tr class="table-header table-header-secondary">
+									<th></th>
+									<th>Members</th>
+									<th>Non-members</th>
+								</tr>
+								<tr>
+									<td>Follow rate for writers and publications</td>
+									<td>Positive</td>
+									<td>Positive</td>
+								</tr>
+								<tr>
+									<td>Repeat reading from followed writers and publications</td>
 									<td>Neutral to positive</td>
 									<td>Positive</td>
 								</tr>
