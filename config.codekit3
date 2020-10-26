@@ -421,6 +421,14 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_images/Untitled.mov": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/_images/Untitled.mov",
+		"oF": 0
+		},
 	"/_images/work-analytics-learning-app-01.jpg": {
 		"ft": 16384,
 		"iS": 300675,
@@ -999,6 +1007,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_images/work-medium-app-badges.jpg": {
+		"ft": 16384,
+		"iS": 75676,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-badges.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/_images/work-medium-app-badges.png": {
 		"ft": 32768,
 		"iS": 123379,
@@ -1016,6 +1035,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/_images/work-medium-app-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-design-system.jpg": {
+		"ft": 16384,
+		"iS": 368410,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-design-system.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1043,11 +1073,52 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/_images/work-medium-app-final.mov": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-final.mov",
+		"oF": 0
+		},
+	"/_images/work-medium-app-home.jpg": {
+		"ft": 16384,
+		"iS": 534857,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_images/work-medium-app-home.png": {
 		"ft": 32768,
 		"iS": 14626,
 		"oA": 0,
 		"oAP": "/build/_images/work-medium-app-home.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-meter.jpg": {
+		"ft": 16384,
+		"iS": 436477,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-meter.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_images/work-medium-app-meter.png": {
+		"ft": 32768,
+		"iS": 753183,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-meter.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -1063,6 +1134,17 @@
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-north-star-sketches.jpg": {
+		"ft": 16384,
+		"iS": 170357,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-north-star-sketches.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_images/work-medium-app-north-star-sketches.png": {
@@ -1096,6 +1178,17 @@
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-rebrand.jpg": {
+		"ft": 16384,
+		"iS": 291635,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-rebrand.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_images/work-medium-app-rebrand.png": {
@@ -1142,6 +1235,17 @@
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-medium-app-themes.jpg": {
+		"ft": 16384,
+		"iS": 341264,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-themes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/_images/work-medium-app-themes.png": {
@@ -1471,6 +1575,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/_images/work-writing-designing-more-efficient-forms.png": {
+		"ft": 32768,
+		"iS": 7184,
+		"oA": 0,
+		"oAP": "/build/_images/work-writing-designing-more-efficient-forms.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

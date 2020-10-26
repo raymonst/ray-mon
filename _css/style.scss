@@ -21,8 +21,9 @@ time, mark, audio, video {
 	border: 0;
 	font: inherit;
 	font-size: 100%;
-	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
 	vertical-align: baseline;
 }
@@ -609,7 +610,7 @@ nav {
 		height: auto;
 		min-height: 30rem;
 		width: 100%;
-		opacity: 0.075;
+		opacity: 0.15;
 	}
 }	
 
@@ -645,6 +646,7 @@ nav {
 			height: 20rem;
 			
 			img {
+				filter: blur(0);
 				min-height: 0;
 				opacity: 1;		
 			}	
@@ -825,7 +827,7 @@ nav {
 				box-shadow: 8px 8px 0 #f6f6f6;			
 				height: auto;
 				width: 100%;	
-				transition: all 0.1s ease;
+				transition: all 0.2s ease;
 
 				&:hover {
 // 					box-shadow: 0 2px 4px #eaeaea;	    	    
@@ -960,7 +962,7 @@ nav {
 			color: $color-text-dark;
 			font-size: 1.125rem;
 			font-weight: 700;
-			line-height: 1.375;
+			line-height: 1.5;
 			margin: 0 0 .125rem 0;
 		}
 

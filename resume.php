@@ -28,7 +28,7 @@
 						<h4><a href="http://medium.com/" target="_blank">Medium (Reader Experience)</a> &middot;&middot;&middot; January 2019&ndash;October 2020</h4>
 						<ul class="list-text">
 							<li>Lead the redesign of Medium&rsquo;s Android &amp; iOS apps up to public beta in Summer 2020; collaborate with product managers &amp; executives to realize the product vision &amp; align with the business strategy; coordinate efforts with multiple designers &amp; scrum teams from both reader &amp; creator experience groups as part of the larger product redesign initiative</li>
-							<li>Lead design of <a href="https://medium.design/a-library-to-call-your-own-9c1fcdb6e4bc" target="_blank">reading list on mobile</a>, which enables readers to save stories &amp; personalize their reading experience on Medium; oversee the product launch that resulted in a 16.4% usage increase over six months</li>
+							<li>Lead design of <a href="https://medium.design/a-library-to-call-your-own-9c1fcdb6e4bc" target="_blank">reading list on mobile</a>, which enables readers to save stories &amp; personalize their reading experience on Medium; oversee the product launch that resulted in a 16% usage increase over six months</li>
 							<li>Manage &amp; mentor a designer on the team</li>
 							<li>Revise the process for design <> engineering collaboration within the agile framework to improve working velocity &amp; product quality</li>
 							<li>Champion accessibility initiatives &amp; push for cross-function alignment between design, engineering, product, &amp; user happiness; conduct audit across web &amp; mobile surfaces to identify &amp; prioritize issues; build a playbook with engineering to define &amp; enforce accessibility practices</li>
