@@ -238,6 +238,7 @@
 						<h3>Volunteer Work</h3>
 						<ul class="list-text">
 							<li>Indivisible &middot;&middot;&middot; 2020</li>
+							<li>UX India (jury member of Design X Awards) &middot;&middot;&middot; 2019</li>
 							<li>San Francisco Recreation &amp; Parks Department &middot;&middot;&middot; 2018</li>
 							<li>GLIDE &middot;&middot;&middot; 2018</li>
 							<li>Project Homeless Connect &middot;&middot;&middot; 2015&ndash;2018</li>

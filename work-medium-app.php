@@ -125,7 +125,7 @@
 						<p>After more explorations, we moved away from the &ldquo;stack of cards&rdquo; metaphor. To simplify the model even further, we settled on a design where longer story previews were displayed one after another in the context of the writer/publication, and the full story is expanded inline within the same context. By doing so, the story&rsquo;s context is always clear and we enable the user to seamlessly discover other stories from the same entity simply by scrolling.</p>
 						<figure class="figure-l figure-side-by-side">
 							<img class="figure-side-by-side-size-l" src="_images/work-medium-app-seamless.png" alt="Viewing the full story inline keeps users in the same context and nudges them to continue discovering other stories, which are displayed immediately following the open story." width="1526" height="1300" >
-							<video class="figure-side-by-side-size-s" src="_images/work-medium-app-seamless.mov" width="" height="" autoplay muted loop controls></video>
+							<video class="figure-side-by-side-size-s" src="_images/work-medium-app-seamless.mp4" width="" height="" autoplay muted loop controls></video>
 							<figcaption>Viewing the full story inline keeps users in the same context and nudges them to continue discovering other stories, which are displayed immediately following the open story.</figcaption>
 						</figure>
 
@@ -304,7 +304,7 @@
 				<section>
 					<div class="container-section-item">
 						<figure class="image-size-xs image-alignment-r">
-							<video src="_images/Untitled.mov" width="232" height="" autoplay muted loop controls></video>
+							<video src="_images/work-medium-app-final.mp4" width="232" height="" autoplay muted loop controls></video>
 							<figcaption></figcaption>
 						</figure>
 						<p>After months of hard work, our grand effort culminated in a public launch in October 2020.</p>
