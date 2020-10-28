@@ -421,14 +421,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_images/Untitled.mov": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/_images/Untitled.mov",
-		"oF": 0
-		},
 	"/_images/work-analytics-learning-app-01.jpg": {
 		"ft": 16384,
 		"iS": 300675,
@@ -1089,6 +1081,14 @@
 		"oAP": "/build/_images/work-medium-app-final.mov",
 		"oF": 0
 		},
+	"/_images/work-medium-app-final.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-final.mp4",
+		"oF": 0
+		},
 	"/_images/work-medium-app-home.jpg": {
 		"ft": 16384,
 		"iS": 534857,
@@ -1232,6 +1232,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/_images/work-medium-app-seamless.mov",
+		"oF": 0
+		},
+	"/_images/work-medium-app-seamless.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/_images/work-medium-app-seamless.mp4",
 		"oF": 0
 		},
 	"/_images/work-medium-app-seamless.png": {

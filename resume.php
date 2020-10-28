@@ -36,7 +36,7 @@
 						</ul>
 					</div>
 					<div class="container-section-item">
-						<h3>Staff &rsaquo; Senior &rsaquo; Lead Product Designer</h3>
+						<h3>Mid-Level &rsaquo; Senior &rsaquo; Lead Product Designer</h3>
 						<h4><a href="http://salesforce.com/" target="_blank">Salesforce (Analytics UX)</a> &middot;&middot;&middot; February 2017&ndash;December 2018<br/><a href="http://salesforce.com/" target="_blank">Salesforce (Platform UX)</a> &middot;&middot;&middot; July 2014&ndash;February 2017</h4>
 						<ul class="list-text">
 							<li>Lead design of <a href="work-conversational-analytics.php">conversational query in Einstein Analytics</a>, which enables users to ask questions about their own data and receive answers as interactive charts, which enables further explorations and insights</li>
