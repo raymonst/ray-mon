@@ -27,7 +27,7 @@
 						<h3>Principal Product Designer</h3>
 						<h4><a href="http://medium.com/" target="_blank">Medium (Reader Experience)</a> &middot;&middot;&middot; January 2019&ndash;October 2020</h4>
 						<ul class="list-text">
-							<li>Lead the <a href="work-medium-app.php">redesign of Medium&rsquo;s Android and iOS apps</a> up to public beta in Summer 2020; collaborate with product managers and executives to realize the product vision and align with the business strategy; coordinate efforts with multiple designers and scrum teams from both reader and creator experience groups as part of the larger product redesign initiative</li>
+							<li>Lead the <a href="work-medium-app.php">redesign of Medium&rsquo;s Android and iOS apps</a> up to public beta in Summer 2020; collaborate with product managers and executives to realize the product vision and align with the business strategy; coordinate efforts with multiple designers and scrum teams as part of the larger product redesign initiative</li>
 							<li>Lead design of <a href="https://medium.design/a-library-to-call-your-own-9c1fcdb6e4bc" target="_blank">reading list on mobile</a>, which enables readers to save stories and personalize their reading experience on Medium; oversee the product launch that resulted in a 16% usage increase over six months</li>
 							<li>Manage and mentor a designer on the team</li>
 							<li>Revise the process for design <> engineering collaboration within the agile framework to improve working velocity and product quality</li>
@@ -92,6 +92,7 @@
 							<li>Clients include: Apartments.com, Crain&rsquo;s Chicago Business, Shure</li>
 						</ul>
 					</div>
+<!--
 					<div class="container-section-item">
 						<h3>Design Intern</h3>
 						<h4><a href="https://www.edelman.com/" target="_blank">Edelman Worldwide</a> &middot;&middot;&middot; Spring &amp; Summer 2007</h4>
@@ -104,6 +105,7 @@
 						<h4><a href="https://www.orbitz.com/" target="_blank">Orbitz</a> &middot;&middot;&middot; Spring &amp; Summer 2006</h4>
 						<ul class="list-text">
 							<li>Assist the in-house design team with daily tasks, such as creating landing pages and call-to-action modules for Orbitz.com and Cheaptickets.com</li>
+-->
 						</ul>
 					</div>
 				</section>

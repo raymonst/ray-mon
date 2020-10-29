@@ -61,8 +61,9 @@
 				?>
 			</ul>
 
-			<h2>WRITING</h2>
+			<h2 id="writing">WRITING</h2>
 			<hr class="separator" />
+			<p>Below are some stories I&rsquo;ve published about design. Writing is a key part of my practice, as it helps me analyze and document learnings from past design work.</p>
 			<ul class="list-item-visual list-item-visual-s">
 				<?php
  					for ($i = 0; $i < count($workWriting); $i++) {

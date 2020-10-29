@@ -36,7 +36,7 @@
 				</aside>
 				<section>
 					<div class="container-section-item">
-						<p><a href="https://medium.com/" target="_blank">Medium</a> is a place where anyone can publish their ideas and find an audience among 170+ million readers on the platform. While there is an abundance of quality content, readers sometimes find it hard to read stories from writers and publications they enjoy. The existing experience relied heavily on algorithmically-ranked stories in a feed, which meant that readers see recommendations from all over Medium, but not always from the sources they explicitly follow. This also meant that writers and publications found it challenging to build an audience on Medium. </p>
+						<p><a href="https://medium.com/" target="_blank">Medium</a> is a place where anyone can publish their ideas and find an audience among 170+ million readers on the platform. While there is an abundance of quality content on the platform, readers sometimes found it hard to discover stories from writers and publications they enjoy. This also meant that creators (writers and publications) found it challenging to build an audience on Medium. <strong>The content distribution model is starting to degrade, which harms the product experience for both readers and creators on the platform.</strong></p>
 					</div>
 				</section>
 			</div>
@@ -53,7 +53,9 @@
 							<figcaption>The existing app experience relied heavily on algorithmically-ranked stories in a feed</figcaption>
 						</figure>
 						<p>Users find Medium content from both internal sources (e.g. medium.com homepage, app, email digests) and external (e.g. social media, messaging, email). App users are a smaller group compared to web users, but they also tend to be more engaged with the product, i.e. they use the product more frequently, read more stories, etc.</p>
-						<p>The existing app worked relatively fine. It served millions of users and drove a significant part of the business (via paid subscription). Over time, however, the content distribution had become <a href="https://ev.medium.com/toward-a-more-relational-medium-e801ff4653a4" target="_blank">more transactional and less relational</a>, which led to more headline-driven content and less robust discovery. Ultimately, this ran contrary to the company&rsquo;s mission and would have a deleterious impact on the user experience in the long term. This is especially important for paying members, who are at risk of attrition if they no longer find value in the content that Medium has to offer. Given that app users are smaller in number yet more highly engaged overall, we decided that the app would be a good place to test out our ideas before rolling out more globally. </p>
+						<p>The existing app relied heavily on algorithmically-ranked stories in a feed, which worked relatively fine. It served millions of users and drove a significant part of the business (via paid subscription). Over time, however, the content distribution had become <a href="https://ev.medium.com/toward-a-more-relational-medium-e801ff4653a4" target="_blank">more transactional and less relational</a>, which led to more headline-driven content and less robust discovery.</p>
+						<p>Ultimately, this ran contrary to the company&rsquo;s mission and would have a deleterious impact on the user experience in the long term. This is especially important for paying members, who are at risk of attrition if they no longer find value in the content that Medium has to offer.</p>
+						<p>Given that app users are smaller in number yet more highly engaged overall, we decided that the app would be a good place to test out our ideas before rolling out more globally. </p>
 					</div>
 				</section>
 			</div>

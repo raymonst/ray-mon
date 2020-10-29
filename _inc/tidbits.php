@@ -9,8 +9,7 @@
 		"at the moment, I probably have a different hairstyle or color from the photo you see here.",
 		"I speak 3.5 languages &amp; would love to learn more.",
 		"I have a mean resting face. I swear I don&rsquo;t mean it.",
-		"I like to read. Book recommendations are always welcome!",
-		"I know an unusual amount of urban planning stuff (for someone who doesn&rsquo;t work in the field)."
+		"I like to read. Book recommendations are always welcome!"
 	];
   
 ?>

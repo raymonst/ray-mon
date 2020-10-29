@@ -25,6 +25,14 @@
 		"oAP": "/build/404.php",
 		"oF": 0
 		},
+	"/_archive/old home copy.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/_archive/old home copy.php",
+		"oF": 0
+		},
 	"/_css/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1023,7 +1031,7 @@
 		},
 	"/_images/work-medium-app-cover.jpg": {
 		"ft": 16384,
-		"iS": 93092,
+		"iS": 149418,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/build/_images/work-medium-app-cover.jpg",
