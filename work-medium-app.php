@@ -36,7 +36,7 @@
 				</aside>
 				<section>
 					<div class="container-section-item">
-						<p><a href="https://medium.com/" target="_blank">Medium</a> is a place where anyone can publish their ideas and find an audience among 170+ million readers on the platform. While there is an abundance of quality content on the platform, readers sometimes found it hard to discover stories from writers and publications they enjoy. This also meant that creators (writers and publications) found it challenging to build an audience on Medium. <strong>The content distribution model is starting to degrade, which harms the product experience for both readers and creators on the platform.</strong></p>
+						<p><a href="https://medium.com/" target="_blank">Medium</a> is a place where anyone can publish their ideas and find an audience among 170+ million readers on the platform. While there is an abundance of quality content on the platform, readers sometimes found it hard to discover stories from writers and publications they enjoy. This also meant that creators (writers and publications) found it challenging to build an audience on Medium. <strong>The existing content distribution model was no longer serving readers and creators well, which harmed the product experience and impacted the business&rsquo; growth.</strong> To address this, we set to overhaul the content consumption experience, starting with the app.</p>
 					</div>
 				</section>
 			</div>
@@ -53,16 +53,15 @@
 							<figcaption>The existing app experience relied heavily on algorithmically-ranked stories in a feed</figcaption>
 						</figure>
 						<p>Users find Medium content from both internal sources (e.g. medium.com homepage, app, email digests) and external (e.g. social media, messaging, email). App users are a smaller group compared to web users, but they also tend to be more engaged with the product, i.e. they use the product more frequently, read more stories, etc.</p>
-						<p>The existing app relied heavily on algorithmically-ranked stories in a feed, which worked relatively fine. It served millions of users and drove a significant part of the business (via paid subscription). Over time, however, the content distribution had become <a href="https://ev.medium.com/toward-a-more-relational-medium-e801ff4653a4" target="_blank">more transactional and less relational</a>, which led to more headline-driven content and less robust discovery.</p>
-						<p>Ultimately, this ran contrary to the company&rsquo;s mission and would have a deleterious impact on the user experience in the long term. This is especially important for paying members, who are at risk of attrition if they no longer find value in the content that Medium has to offer.</p>
-						<p>Given that app users are smaller in number yet more highly engaged overall, we decided that the app would be a good place to test out our ideas before rolling out more globally. </p>
+						<p>The existing app relied heavily on algorithmically-ranked stories in a feed, which worked relatively fine in the past. It served millions of users and drove a significant part of the business (via paid subscription). Over time, however, the content distribution had become <a href="https://ev.medium.com/toward-a-more-relational-medium-e801ff4653a4" target="_blank">more transactional and less relational</a>, which led to more headline-driven content and less robust discovery.</p>
+						<p>This is an especially important consideration for paying members, who are <strong>at risk of attrition</strong> if they no longer find value in the content that Medium has to offer. Given that app users are smaller in number yet more highly engaged overall, we decided that the app would be a good place to test out our ideas before rolling out more globally. </p>
 					</div>
 				</section>
 			</div>
 
 			<div class="container-section">
 				<aside>
-					<h2>SETTING THE STAGE</h2>
+					<h2>SETTING THE &ldquo;NORTH STAR&rdquo; VISION</h2>
 					<hr class="separator" />
 				</aside>
 				<section>
@@ -75,7 +74,7 @@
 							</ul>							
 						</p>
 						<figure>
-							<img src="_images/work-medium-app-north-star-sketches.jpg" alt="Initial sketches exploring the new app experience. Designs by Andrew Johnson, Hilla Katki, Matthew Herzog, and me." width="1000" height="1041" >
+							<img src="_images/work-medium-app-north-star-sketches.jpg" alt="Initial sketches exploring the new app experience. Designs by Andrew Johnson, Hilla Katki, Matthew Herzog, and me." width="1000" height="820" >
 							<figcaption>Initial sketches exploring the new app experience.<br/>Designs by Andrew Johnson, Hilla Katki, Matthew Herzog, and me.</figcaption>
 						</figure>
 						<p>From here, we built a scrappy prototype and shared it with executives (and later with the whole company) to get input and buy-in. </p>
@@ -89,19 +88,19 @@
 
 			<div class="container-section">
 				<aside>
-					<h2>PLANNING &amp; ROADMAP</h2>
+					<h2>PRODUCT PRINCIPLES &amp; PLANNING</h2>
 					<hr class="separator" />
 				</aside>
 				<section>
 					<div class="container-section-item">
-						<p>The output from the design sprint helped create alignment across the board and while the resulting designs weren&rsquo;t final, they pointed in the right direction. Given the scale of this project, we thought it&rsquo;d be useful to establish some core principles that would guide us along the way. Alexis Lloyd (VP Design) led this exercise and we established the following principles:
+						<p>The output from the design sprint helped create alignment across the board and while the resulting designs weren&rsquo;t final, they pointed in the right direction. Given the scale of this project, we established some core principles to guide us along the way:
 							<ul>
 								<li><strong>Context</strong><br/>As a reader, I know exactly where I am in Medium&rsquo;s ecosystem and I can navigate to/from other parts of Medium with confidence.</li>
 								<li><strong>Continuity</strong><br/>As a reader, I can seamlessly move from one story to another (or from one writer/publication to another) with ease and I&rsquo;m always discovering something new on Medium.</li>
 								<li><strong>Completion</strong><br/>As a reader, I feel a sense of accomplishment and learning after spending time on Medium. My time is well-spent and I&rsquo;m not consuming content endlessly.</li>
 							</ul>							
 						</p>
-						<p>Redesigning a mobile app is no small feat, so to make it more manageable, I worked with product managers on the team to break it down into smaller chunks. By doing this, we could tackle multiple key parts of the experience and work on them in parallel. We also planned out how we would test this with users along the way.</p>
+						<p>Redesigning a mobile app is no small feat, so to make it more manageable, I worked with product managers to break it down into smaller chunks. By doing this, we could tackle multiple key parts of the experience and work on them in parallel. We also planned out how we would test this with users along the way.</p>
 						<figure>
 							<img src="_images/work-medium-app-plan.png" alt="work-medium-app-plan" width="2560" height="1200" >
 							<figcaption>A high-level plan to make the vision a reality.</figcaption>
@@ -112,7 +111,7 @@
 
 			<div class="container-section">
 				<aside>
-					<h2>THE CORE READING EXPERIENCE</h2>
+					<h2>THE CORE READING EXPERIENCE, REIMAGINED</h2>
 					<hr class="separator" />
 				</aside>
 				<section>
@@ -122,9 +121,9 @@
 							<img src="_images/work-medium-app-seamless-old.gif" alt="work-medium-app-seamless-old" width="300" height="300" >
 							<figcaption>In an early concept, stories were treated like cards in a stack and users could go from one story to the next seamlessly.</figcaption>
 						</figure>
-						<p>I proposed an initial idea to improve continuity by treating stories like a stack of cards where the user could continuously read one story after another or &ldquo;skip&rdquo; to the next story if desired.</p>
-						<p>This tested fairly well with users, who adapted to the concept and began using the &ldquo;next&rdquo; button as a way to preview stories beyond the headlines. This insight showed us that there was value in a slightly longer story preview, which gave users a little more context beyond the story title.</p>
-						<p>After more explorations, we moved away from the &ldquo;stack of cards&rdquo; metaphor. To simplify the model even further, we settled on a design where longer story previews were displayed one after another in the context of the writer/publication, and the full story is expanded inline within the same context. By doing so, the story&rsquo;s context is always clear and we enable the user to seamlessly discover other stories from the same entity simply by scrolling.</p>
+						<p>I proposed an initial idea to treat stories like a stack of cards where the user could continuously read one story after another or &ldquo;skip&rdquo; to the next story if desired.</p>
+						<p>This tested fairly well with users, who began using the &ldquo;next&rdquo; button as a way to preview stories beyond the headlines. This insight showed us that there was value in a longer story preview, which gave users more context.</p>
+						<p>After more explorations, we moved away from the &ldquo;stack of cards&rdquo; metaphor and simplified it further. We settled on a design where longer story previews were displayed one after another in the context of the writer/publication, and the full story is expanded inline within the same context. By doing so, the story&rsquo;s context is always clear and the user could seamlessly discover other stories from the same entity simply by scrolling.</p>
 						<figure class="figure-l figure-side-by-side">
 							<img class="figure-side-by-side-size-l" src="_images/work-medium-app-seamless.png" alt="Viewing the full story inline keeps users in the same context and nudges them to continue discovering other stories, which are displayed immediately following the open story." width="1526" height="1300" >
 							<video class="figure-side-by-side-size-s" src="_images/work-medium-app-seamless.mp4" width="" height="" autoplay muted loop controls></video>
@@ -144,8 +143,8 @@
 				</aside>
 				<section>
 					<div class="container-section-item">
-						<p>We saw the redesign process as an opportunity to simplify the overall app architecture. Our usage data and research showed that the mobile app was primarily used for reading. Writers and publication editors may occasionally edit their stories or check their story stats in the app, but the majority of creator activities occurred on desktop web. As such, we didn&rsquo;t think that &ldquo;write&rdquo; warranted such a premium placement in the app&rsquo;s primary navigation bar. We moved it out of the nav bar and into the user&rsquo;s &ldquo;you&rdquo; tab, making it secondary but still fairly accessible.</p>
-						<p>Our data also showed that <a href="https://medium.design/a-library-to-call-your-own-9c1fcdb6e4bc" target="_blank">reading list</a>, a place for the user&rsquo;s saved stories, was a heavily used feature but only by a portion of app users. We didn&rsquo;t want to hide it completely, but placing it in the primary navigation bar didn&rsquo;t seem right for most users either. We eventually decided to tuck it inside app home, which seemed to be the right compromise. Since home is the first surface in the app, users could still easily access the reading list if they wanted to, but those who don&rsquo;t use reading list aren&rsquo;t constantly seeing it in the primary nav bar.</p>
+						<p>Our data showed that the mobile app was primarily used for reading. Writers and publication editors may occasionally edit their stories or check their story stats in the app, but the majority of creator activities occurred on desktop web. As such, we didn&rsquo;t think that &ldquo;write&rdquo; warranted such a premium placement in the app&rsquo;s primary navigation bar.</p>
+						<p>Our data also showed that <a href="https://medium.design/a-library-to-call-your-own-9c1fcdb6e4bc" target="_blank">reading list</a>, a place for the user&rsquo;s saved stories, was a heavily used feature but only by a portion of app users. We didn&rsquo;t want to hide it completely, but placing it in the primary navigation bar didn&rsquo;t seem right for most users either. We eventually decided to tuck it inside app home, which is the first app surface that users see. Thus, users could still easily access the reading list if they wanted to, but those who don&rsquo;t use reading list aren&rsquo;t constantly seeing it in the primary nav bar.</p>
 						<figure>
 							<img src="_images/work-medium-app-architecture.png" alt="Simplifying the base app architecture creates a more focused experience." width="1560" height="974" >								
 							<figcaption>Simplifying the base app architecture creates a more focused experience.</figcaption>
@@ -156,7 +155,7 @@
 
 			<div class="container-section">
 				<aside>
-					<h2>HOME SWEET HOME</h2>
+					<h2>A NEW APP HOME</h2>
 					<hr class="separator" />
 				</aside>
 				<section>
@@ -183,13 +182,13 @@
 
 			<div class="container-section">
 				<aside>
-					<h2>LISTENING TO USERS</h2>
+					<h2>FEEDBACK FROM RESEARCH</h2>
 					<hr class="separator" />
 				</aside>
 				<section>
 					<div class="container-section-item">
-						<p>Research findings from the first private beta group helped shape the design and led us to a more robust version of the product. As we prepared for the second, larger private beta group, we wanted to include both qualitative and quantitative measures so we could get a more holistic understanding. In addition to the ongoing user interviews, we set up an in-app feedback form to get more user input and programmed events tracking in the beta app to capture user behavior. Researcher Laura Carroll also set up benchmark surveys to measure user satisfaction more broadly and consistently as the product continued to evolve.</p>
-						<p>From this survey, we saw that a majority of respondents (58%) was either very or somewhat satisfied with the beta version of the app. On the other hand, we also received feedback around story discovery, with one user remarking that &ldquo;&hellip; [i]t&rsquo;s more difficult to find article suggestions as well as to bookmark to read later.&rdquo; We knew that moving away from the infinite feed would negatively impact some users who are used to discovering content that way. That said, we also measured other success metrics that would be more indicative of where the product was heading towards strategically.</p>
+						<p>Research findings from the first private beta group helped shape the design and led us to a more robust version of the product. As we prepared for the second, larger private beta group, we wanted to include both qualitative and quantitative measures so we could get a more holistic understanding. In addition to the ongoing user interviews, we set up an in-app feedback form and programmed events tracking. Researcher Laura Carroll also set up benchmark surveys to measure user satisfaction more broadly and consistently.</p>
+						<p>From this survey, we saw that <strong>a majority of respondents (58%) was either very or somewhat satisfied with the beta version of the app.</strong> On the other hand, we also received feedback around story discovery, with one user remarking that &ldquo;&hellip; [i]t&rsquo;s more difficult to find article suggestions as well as to bookmark to read later.&rdquo; We knew that moving away from the infinite feed would negatively impact some users who are used to discovering content that way. That said, we also measured other success metrics that would be more indicative of where the product was heading towards strategically.</p>
 						<figure>
 							<table id="table-desktop">
 								<tr class="table-header">
@@ -261,7 +260,7 @@
 							</table>
 							<p class="text-secondary">Note: &ldquo;Members&rdquo; are Medium users who have purchased subscriptions and have access to all stories on Medium. &ldquo;Non-members&rdquo; are Medium users who are registered but aren&rsquo;t subscribed; they can access stories that aren&rsquo;t behind the paywall, but are limited to 3 stories/month for paywalled stories.</p>
 						</figure>
-						<p>Initial quantitative results suggested that the new app experience drove entity affinity across the board. Users were generally following more creators and reading more content from said creators. It remained to be seen whether this would translate more broadly to all users, but early signs were promising.</p>
+						<p>Initial quantitative results suggested that the new app experience drove entity affinity across the board. <strong>Users were generally following more creators and reading more content from said creators.</strong> It remained to be seen whether this would translate more broadly to all users, but early signs were promising.</p>
 					</div>
 				</section>
 			</div>
@@ -278,18 +277,18 @@
 							<img src="_images/work-medium-app-meter.jpg" alt="When non-members select a story to read, they have to tap twice to load a paywalled story in full, whereas members would see the full story immediately. Non-members will also see the meter information as they read, which informs them on how many free paywalled stories they have left. In certain cases, some friction in the experience is a good thing." width="1620" height="1561" >
 							<figcaption>When non-members select a story to read, they have to tap twice to load a paywalled story in full, whereas members would see the full story immediately. Non-members will also see the &ldquo;meter&rdquo; information as they read, which informs them on how many free paywalled stories they have left. In certain cases, some friction in the experience is a good thing.</figcaption>
 						</figure>
-						<p>Medium&rsquo;s product changes were accompanied by an <a href="https://blog.medium.com/a-more-expressive-medium-starting-with-medium-63b562206d8f" target="_blank">evolved brand</a> that conveys the openness of the platform. This brand identity is an integral part of Medium&rsquo;s future direction and as such, must be communicated through all product surfaces. I collaborated with the brand team to design and implement this language in product (which included significant changes to typography, colors, and illustration styles), and coordinated subsequent efforts with other designers and scrum teams on the product side for final implementation.</p>
+						<p>Medium&rsquo;s product changes were accompanied by an <a href="https://blog.medium.com/a-more-expressive-medium-starting-with-medium-63b562206d8f" target="_blank">evolved brand</a> that conveys the openness of the platform, which is integral to Medium&rsquo;s future direction. I collaborated with the brand team to design and implement this brand language across various product surfaces. <!--I collaborated with the brand team to design and implement this language in product (which included significant changes to typography, colors, and illustration styles), and coordinated subsequent efforts with other designers and scrum teams on the product side for final implementation.--></p>
 						<figure class="figure-l">
 							<img src="_images/work-medium-app-rebrand.jpg" alt="Medium's evolved brand as seen on various product surfaces, including dark mode on app. Additional designs by Abby Aker (email digest) and Ryan Hubbard (web homepage)." width="1540" height="1076" >
 							<figcaption>Medium&rsquo;s evolved brand as seen on various product surfaces, including dark mode on app.<br/>Additional designs by Abby Aker (email digest) and Ryan Hubbard (web homepage).</figcaption>
 						</figure>
 						<p>Medium&rsquo;s own brand wasn&rsquo;t the only thing that changed. As designers on the reader experience group worked through the app designs, there was a parallel effort happening on the creator side to <a href="https://blog.medium.com/a-more-expressive-medium-483e567b19ff" target="_blank">enable more expressiveness through customizations</a>. This would result in a better sense of brand, place, and context for creators and their work on Medium.</p>
-						<p>Naturally, the creator&rsquo;s creative decisions needed to be translated into the app so readers could experience it as they read content from various writers and publications. However, the app environment differed slightly from its web counterpart and had its own constraints. To get around these limitations, we decided that the app&rsquo;s official first version would only show key parts of the customization (with future plans to implement themes in full).</p>
+						<p>Naturally, the creator&rsquo;s creative decisions needed to be translated into the app so readers could experience it as they read content from various writers and publications. Due to technical constraints, we decided that the app&rsquo;s official first version would only show key parts of the customization (with future plans to implement themes in full).</p>
 						<figure>
 							<img src="_images/work-medium-app-themes.jpg" alt="An example of different themes being applied to the same publication to convey a sense of brand, place, and context. The app's official first version would show essential parts of the customization, with a more complete implementation to follow." width="1542" height="1590" >
 							<figcaption>An example of different themes being applied to the same publication to convey a sense of brand, place, and context. The app&rsquo;s official first version would show essential parts of the customization, with a more complete implementation to follow.</figcaption>
 						</figure>
-						<p>All the product and brand changes that happened during this process unfortunately strained our existing design system. We found that some of the components, semantics, and structure we had been using no longer served our product needs and consequently, we decided to make some fundamental updates to the system. I also used this opportunity to improve accessibility in the system, which resulted in better usability on all product surfaces. I then conducted an audit across all our product surfaces and stress-tested the proposed changes to ensure the system was not only robust enough for current uses, but also flexible enough to accommodate future changes if needed.</p>
+						<p>All the product and brand changes that happened during this process strained our existing design system. Some of the components, semantics, and structure we had been using no longer served our product needs and consequently, we decided to make some fundamental updates to the system, including accessibility improvements. I then conducted an audit across all our product surfaces and stress-tested the proposed changes to ensure that the system was robust enough for current uses and flexible enough to accommodate future changes.</p>
 						<figure class="figure-l">
 							<img src="_images/work-medium-app-design-system.jpg" alt="Changes to the design system had to be audited and evaluated globally. Above is an example of how I stress-tested typography changes across product surfaces." width="2400" height="1720" >							
 							<figcaption>Changes to the design system had to be audited and evaluated globally. Above is an example of how I stress-tested typography changes across product surfaces.</figcaption>

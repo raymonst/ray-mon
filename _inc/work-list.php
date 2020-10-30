@@ -2,8 +2,8 @@
 
 	$work = [
 		[
-			"Medium Mobile App",
-			"Reimagining a mobile experience for curious readers",
+			"Medium App Redesign",
+			"Building stronger connections between readers and creators",
 			"work-medium-app.php",
 			"work-medium-app-cover.jpg"
 		],
