@@ -7,6 +7,7 @@
 		<meta name="author" content="Raymon Sutedjo-The">
 		<script type="text/javascript" src="_js/jquery-3.3.1.min.js"></script>		
 		<script type="text/javascript" src="_js/script-min.js"></script>
+<!--
 		<script type="text/javascript">
 			var _gaq = _gaq || [];
 				_gaq.push(['_setAccount', 'UA-16406645-1']);
@@ -19,3 +20,4 @@
 				  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 				})();
 		</script>
+-->

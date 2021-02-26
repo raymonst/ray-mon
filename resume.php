@@ -24,6 +24,10 @@
 				</aside>
 				<section>
 					<div class="container-section-item">
+						<h3>Lead Product Designer</h3>
+						<h4><a href="http://marqeta.com/" target="_blank">Marqeta</a> &middot;&middot;&middot; January 2021&ndash;present</h4>
+					</div>
+					<div class="container-section-item">
 						<h3>Principal Product Designer</h3>
 						<h4><a href="http://medium.com/" target="_blank">Medium (Reader Experience)</a> &middot;&middot;&middot; January 2019&ndash;October 2020</h4>
 						<ul class="list-text">

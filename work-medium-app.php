@@ -95,9 +95,9 @@
 					<div class="container-section-item">
 						<p>The output from the design sprint helped create alignment across the board and while the resulting designs weren&rsquo;t final, they pointed in the right direction. Given the scale of this project, we established some core principles to guide us along the way:
 							<ul>
-								<li><strong>Context</strong><br/>As a reader, I know exactly where I am in Medium&rsquo;s ecosystem and I can navigate to/from other parts of Medium with confidence.</li>
-								<li><strong>Continuity</strong><br/>As a reader, I can seamlessly move from one story to another (or from one writer/publication to another) with ease and I&rsquo;m always discovering something new on Medium.</li>
-								<li><strong>Completion</strong><br/>As a reader, I feel a sense of accomplishment and learning after spending time on Medium. My time is well-spent and I&rsquo;m not consuming content endlessly.</li>
+								<li><strong>Context</strong><br/>As a reader, I know where I am in Medium&rsquo;s ecosystem and I can navigate to/from other parts of Medium with confidence.</li>
+								<li><strong>Continuity</strong><br/>As a reader, I can seamlessly move from one story (or creator) to another and I&rsquo;m always discovering something new on Medium.</li>
+								<li><strong>Completion</strong><br/>As a reader, I feel a sense of accomplishment after spending time on Medium. My time is well-spent and I&rsquo;m not consuming content endlessly.</li>
 							</ul>							
 						</p>
 						<p>Redesigning a mobile app is no small feat, so to make it more manageable, I worked with product managers to break it down into smaller chunks. By doing this, we could tackle multiple key parts of the experience and work on them in parallel. We also planned out how we would test this with users along the way.</p>
